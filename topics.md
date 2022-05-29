@@ -860,7 +860,7 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 - [justmarkham/trump-lies](https://github.com/justmarkham/trump-lies) - Tutorial: Web scraping in Python with Beautiful Soup
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -1037,7 +1037,7 @@
 - [jplhomer/lifeboat](https://github.com/jplhomer/lifeboat) - Docker Compose UI: Lifeboat is an easy way to launch projects with a graphical interface
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1331,7 +1331,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [brettneese/messiah-aws](https://github.com/brettneese/messiah-aws) - Heavenly generic JSON APIs with native Go on AWS Lambda/API Gateway.
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -1898,7 +1898,7 @@
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
