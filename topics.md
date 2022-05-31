@@ -741,6 +741,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
+- [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
