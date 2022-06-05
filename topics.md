@@ -2351,6 +2351,7 @@
 
 ## others 
 
+- [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/a5huynh/spyglass)
 - [jabirali/fish-abbrfile](https://github.com/jabirali/fish-abbrfile) - Fish plugin to cleanly manage abbreviations
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
@@ -3563,6 +3564,7 @@
 
 ## rust 
 
+- [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
