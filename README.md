@@ -227,6 +227,7 @@
 
 ## Go 
 
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) - ☠️ The Pathwar Project ☠️
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
@@ -533,6 +534,7 @@
 
 ## JavaScript 
 
+- [b1f6c1c4/gh-index](https://github.com/b1f6c1c4/gh-index) - Calculate h-index of a GitHub user's repo stars
 - [btzr-io/Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -965,6 +967,7 @@
 
 ## Others 
 
+- [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [json-next/awesome-json-next](https://github.com/json-next/awesome-json-next) - A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More
 - [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/a5huynh/spyglass)
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
@@ -1265,6 +1268,7 @@
 
 ## Python 
 
+- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1663,7 +1667,7 @@
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (mirror)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [lukaspustina/nmap-analyze](https://github.com/lukaspustina/nmap-analyze) - Analyzes and compares nmap scan results with port specification for easy verification of firewall and port filter configurations
 - [lostutils/uq](https://github.com/lostutils/uq) - 
 - [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client
@@ -1717,6 +1721,9 @@
 
 ## Shell 
 
+- [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+- [b1f6c1c4/ttyssh](https://github.com/b1f6c1c4/ttyssh) - ssh with tty (serial port) forwarding
+- [b1f6c1c4/unfk](https://github.com/b1f6c1c4/unfk) - Remove all f**ks in your git commit history
 - [docker-slim/examples](https://github.com/docker-slim/examples) - Minified application examples with different languages and stacks for DockerSlim
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [jabirali/fish-abbrfile](https://github.com/jabirali/fish-abbrfile) - Fish plugin to cleanly manage abbreviations
