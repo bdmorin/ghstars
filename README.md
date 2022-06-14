@@ -1724,6 +1724,8 @@
 
 ## Shell 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+- [xxh/xxh-plugin-fish-fisher](https://github.com/xxh/xxh-plugin-fish-fisher) - Fisher xxh-plugin
 - [nickexyz/ntfy-shellscripts](https://github.com/nickexyz/ntfy-shellscripts) - 
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
