@@ -1983,6 +1983,7 @@
 
 ## linux 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
@@ -2375,6 +2376,7 @@
 
 ## others 
 
+- [xxh/xxh-plugin-fish-fisher](https://github.com/xxh/xxh-plugin-fish-fisher) - Fisher xxh-plugin
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [nickexyz/ntfy-shellscripts](https://github.com/nickexyz/ntfy-shellscripts) - 
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
@@ -4001,6 +4003,7 @@
 
 ## ubuntu 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Bash scripts for bootstrapping my preferred development environments
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [daleosm/pihole-panel](https://github.com/daleosm/pihole-panel) - Python/GTK3 based Pi-hole (network-level adblocker) dashboard for stats and more
