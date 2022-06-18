@@ -833,6 +833,7 @@
 - [sahat/tvshow-tracker](https://github.com/sahat/tvshow-tracker) - AngularJS + Node + Gulp + Mongoose + Passport Authentication + TVDB API
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [gajus/swing](https://github.com/gajus/swing) - A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
+- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPagetest
 - [mhils/HoneyProxy](https://github.com/mhils/HoneyProxy) - This project is now part of @mitmproxy.
 - [subrosa-io/subrosa-client](https://github.com/subrosa-io/subrosa-client) - Secure, end to end encrypted messaging, voice and video chats.
 - [patrickocoffeyo/meteor-boilerplate](https://github.com/patrickocoffeyo/meteor-boilerplate) - Starting point for Meteor applications.
@@ -972,6 +973,7 @@
 
 ## Others 
 
+- [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [json-next/awesome-json-next](https://github.com/json-next/awesome-json-next) - A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More
@@ -1245,7 +1247,6 @@
 - [haschek/Foafpress](https://github.com/haschek/Foafpress) - An open-source PHP web application and presentation engine for RDF data stored in files, e.g. your FOAF profile. It allows you to aggregate and publish data from multiple web sources via Linked Data.
 - [kassner/log-parser](https://github.com/kassner/log-parser) - PHP Web Server Log Parser Library
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPagetest
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [mwunsch/thimble](https://github.com/mwunsch/thimble) - [No Longer Maintained] Tumblr theme development tool. Protects your fingers from tedious copy-pasting.
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
