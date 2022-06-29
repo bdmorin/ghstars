@@ -229,6 +229,7 @@
 
 ## Go 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -936,7 +937,6 @@
 
 ## Markdown 
 
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1042,6 +1042,7 @@
 - [bdmorin/awesome-3d-printing](https://github.com/bdmorin/awesome-3d-printing) - A curated list of awesome 3D printing resources. Old list appears to be abandoned.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
@@ -1278,6 +1279,7 @@
 
 ## Python 
 
+- [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
 - [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -1442,7 +1444,6 @@
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - A collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.
 - [cloudviz/agentless-system-crawler](https://github.com/cloudviz/agentless-system-crawler) - A tool to crawl systems like crawlers for the web
-- [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
 - [cdrx/faktory_worker_python](https://github.com/cdrx/faktory_worker_python) - Python worker for the Faktory project
 - [robdmc/pandashells](https://github.com/robdmc/pandashells) - :panda_face: Bringing the python data stack to the shell prompt
 - [jelford/activesoup](https://github.com/jelford/activesoup) - A headless pure-python browser for the web
@@ -1671,7 +1672,7 @@
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [mrshmllow/gh-cal](https://github.com/mrshmllow/gh-cal) - View your github contribution calander in unicode.
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
-- [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs
+- [nadavrot/layout](https://github.com/nadavrot/layout) - Layout is a rust library and a command line tool that renders Graphviz dot files.
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [OJFord/amail](https://github.com/OJFord/amail) - AWS-hosted personal email system: sending, receiving, storage, and forwarding (relaying). `notmuch` client. JMAP server WIP.
