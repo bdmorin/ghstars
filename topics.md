@@ -668,6 +668,7 @@
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [sitespeedio/chrome-har](https://github.com/sitespeedio/chrome-har) - Create HAR files from Chrome Debugging Protocol data
 - [ZipRecruiter/chromedriver-proxy](https://github.com/ZipRecruiter/chromedriver-proxy) - ChromeDriver Proxy is an extensible proxy to ChromeDriver.
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [fake-name/ChromeController](https://github.com/fake-name/ChromeController) - Comprehensive wrapper and execution manager for the Chrome browser using the Chrome Debugging Protocol.
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -683,6 +684,7 @@
 
 ## cli 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
@@ -1395,6 +1397,7 @@
 
 ## golang 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [bbkane/grabbit](https://github.com/bbkane/grabbit) - A small single-binary CLI to grab images from Reddit - I've been surprised how much I enjoy seeing beautiful wallpapers when I lock/unlock my computer.
 - [nathants/libaws](https://github.com/nathants/libaws) - aws should be easy
@@ -2429,7 +2432,7 @@
 - [3CORESec/testmynids.org](https://github.com/3CORESec/testmynids.org) - A website and framework for testing NIDS detection
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
-- [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs
+- [nadavrot/layout](https://github.com/nadavrot/layout) - Layout is a rust library and a command line tool that renders Graphviz dot files.
 - [PacktPublishing/Managing-EC2-and-VPC-AWS-with-Python-and-Boto3-Series](https://github.com/PacktPublishing/Managing-EC2-and-VPC-AWS-with-Python-and-Boto3-Series) - Code repository for Managing EC2 and VPC: AWS with Python and Boto3 Series, Published by Packt
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 - [vendasta/setup-new-computer-script](https://github.com/vendasta/setup-new-computer-script) - This script will help with the quick setup and installation of tools and applications for new developers at Vendasta.
@@ -3335,6 +3338,7 @@
 
 ## python 
 
+- [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
 - [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -3420,7 +3424,6 @@
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [chris1610/pbpython](https://github.com/chris1610/pbpython) - Code, Notebooks and Examples from Practical Business Python
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
-- [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
 - [cdrx/faktory_worker_python](https://github.com/cdrx/faktory_worker_python) - Python worker for the Faktory project
 - [jelford/activesoup](https://github.com/jelford/activesoup) - A headless pure-python browser for the web
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -3927,6 +3930,7 @@
 
 ## terminal 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [kissge/k1pwit](https://github.com/kissge/k1pwit) - k1pwit lets you to directly input passwords using 1Password on iTerm2, not via clipboard, just as though you do on Web browsers.
