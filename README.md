@@ -1738,6 +1738,7 @@
 
 ## Shell 
 
+- [bigH/interactively](https://github.com/bigH/interactively) - 
 - [kissge/k1pwit](https://github.com/kissge/k1pwit) - k1pwit lets you to directly input passwords using 1Password on iTerm2, not via clipboard, just as though you do on Web browsers.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [xxh/xxh-plugin-fish-fisher](https://github.com/xxh/xxh-plugin-fish-fisher) - Fisher xxh-plugin
