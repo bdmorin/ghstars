@@ -2393,6 +2393,7 @@
 
 ## others 
 
+- [bigH/interactively](https://github.com/bigH/interactively) - 
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
