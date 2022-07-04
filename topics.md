@@ -1106,7 +1106,7 @@
 - [wckr/wocker](https://github.com/wckr/wocker) - Create your WordPress development environment in 3 SECONDS!
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [firecat53/dockerfiles](https://github.com/firecat53/dockerfiles) - Dockerfiles: Check_Mk, Couchpotato, Deluge, Gollum, Headphones, Jackett, Lazy Librarian, Miniflux, Nginx/PHP-FPM, OpenVPN PIA client, Plex, Privatebin, Radarr, Sabnzbd, Samba, SSH Socks Proxy server, 
+- [firecat53/dockerfiles](https://github.com/firecat53/dockerfiles) - Dockerfiles: Gollum, Jackett, Miniflux, Nginx/PHP-FPM, Plex, Privatebin, Qbittorrent, Radarr, Sabnzbd, Samba, SSH Socks Proxy server, Sonarr, Syncthing, Transmission, Unifi Controller.
 
 ## documentation 
 
@@ -2064,6 +2064,7 @@
 
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## machine-learning 
 
