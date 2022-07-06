@@ -88,7 +88,6 @@
 - [zevv/duc](https://github.com/zevv/duc) - Dude, where are my bytes: Duc, a library and suite of tools for inspecting disk usage
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-- [algernon/ccze](https://github.com/algernon/ccze) - A robust, modular log coloriser
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) - Monitoring Plugins
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [unpaper/unpaper](https://github.com/unpaper/unpaper) - A post-processing tool for scanned sheets of paper.
@@ -1775,7 +1774,7 @@
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Docker Image and configuration for Zulip
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
-- [SixArm/sixarm_zsh_config](https://github.com/SixArm/sixarm_zsh_config) - SixArm.com → Z shell → zsh configuration
+- [SixArm/sixarm-zsh-config](https://github.com/SixArm/sixarm-zsh-config) - SixArm.com → Z shell → zsh configuration
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dimafeng/dotfiles](https://github.com/dimafeng/dotfiles) - 
