@@ -2511,7 +2511,7 @@
 - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [sidevesh/quark-carlo](https://github.com/sidevesh/quark-carlo) - Convert any web app into native app, without electron, using carlo by GoogleChromeLabs
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
-- [SixArm/sixarm_zsh_config](https://github.com/SixArm/sixarm_zsh_config) - SixArm.com → Z shell → zsh configuration
+- [SixArm/sixarm-zsh-config](https://github.com/SixArm/sixarm-zsh-config) - SixArm.com → Z shell → zsh configuration
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a  Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
@@ -2758,7 +2758,6 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [tdpetrou/Learn-Pandas](https://github.com/tdpetrou/Learn-Pandas) - Tutorials on how to use pandas effectively to do data analysis
 - [shime/awesome-open-source-indie](https://github.com/shime/awesome-open-source-indie) - A curated list of small independent active open source products.
-- [algernon/ccze](https://github.com/algernon/ccze) - A robust, modular log coloriser
 - [aker-gateway/aker-freeipa-playbook](https://github.com/aker-gateway/aker-freeipa-playbook) - 
 - [talwrii/curlfire](https://github.com/talwrii/curlfire) - Fetch web pages with curl using Firefox's current cookies
 - [wtsxDev/Raspberry-Pi](https://github.com/wtsxDev/Raspberry-Pi) - Raspberry Pi A to Z List
@@ -3441,6 +3440,7 @@
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, coll
 - [RLesser/NetworkScraper](https://github.com/RLesser/NetworkScraper) - A versatile graph explorer for both online and offline networks
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [jerry-git/thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
 - [Jiezhi/HouseSpider](https://github.com/Jiezhi/HouseSpider) - 🕷crawl house information from fang.com & lianjia.com
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
