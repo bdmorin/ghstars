@@ -1025,7 +1025,7 @@
 - [luisfarzati/localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
 - [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Docker Image and configuration for Zulip
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, preconfigured Out of the Box. Enables Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command. Now Supports v8.0!
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [norweeg/self-hosted-docker-server-templates](https://github.com/norweeg/self-hosted-docker-server-templates) - Just some templates to get someone started with hosting various servers in Docker
