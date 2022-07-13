@@ -584,7 +584,7 @@
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Bash scripts for bootstrapping my preferred development environments
+- [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Scripts & dotfiles for automation and/or bootstrapping new system setup
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
@@ -2095,7 +2095,7 @@
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
-- [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Bash scripts for bootstrapping my preferred development environments
+- [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Scripts & dotfiles for automation and/or bootstrapping new system setup
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
@@ -3120,7 +3120,7 @@
 - [sahat/tvshow-tracker](https://github.com/sahat/tvshow-tracker) - AngularJS + Node + Gulp + Mongoose + Passport Authentication + TVDB API
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [gajus/swing](https://github.com/gajus/swing) - A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPagetest
+- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPageTest
 - [mhils/HoneyProxy](https://github.com/mhils/HoneyProxy) - This project is now part of @mitmproxy.
 - [vodik/envoy](https://github.com/vodik/envoy) - A ssh/gpg-agent wrapper leveraging cgroups and systemd/socket activation
 - [subrosa-io/subrosa-client](https://github.com/subrosa-io/subrosa-client) - Secure, end to end encrypted messaging, voice and video chats.
@@ -4036,7 +4036,7 @@
 ## ubuntu 
 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
-- [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Bash scripts for bootstrapping my preferred development environments
+- [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Scripts & dotfiles for automation and/or bootstrapping new system setup
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [daleosm/pihole-panel](https://github.com/daleosm/pihole-panel) - Python/GTK3 based Pi-hole (network-level adblocker) dashboard for stats and more
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
