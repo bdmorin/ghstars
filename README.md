@@ -1409,7 +1409,7 @@
 - [guptachetan1997/Episodes](https://github.com/guptachetan1997/Episodes) - Self Hosted TV show Episode tracker and recommender built using django, bootstrap4.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
-- [frictionlessdata/goodtables.io](https://github.com/frictionlessdata/goodtables.io) - Data validation as a service.
+- [frictionlessdata/goodtables.io](https://github.com/frictionlessdata/goodtables.io) - Data validation as a service. Project retired, got to the current one at frictionsless/repository
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [home-assistant/hassio-build](https://github.com/home-assistant/hassio-build) - :tractor: Hass.io build tools
 - [pschmitt/hass-config](https://github.com/pschmitt/hass-config) - Configuration files for Home Assistant
@@ -1749,7 +1749,7 @@
 - [docker-slim/examples](https://github.com/docker-slim/examples) - Minified application examples with different languages and stacks for DockerSlim
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [jabirali/fish-abbrfile](https://github.com/jabirali/fish-abbrfile) - Fish plugin to cleanly manage abbreviations
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts™
 - [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x+
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance,  and system checks for an Arch based Linux distro
