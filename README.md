@@ -904,7 +904,6 @@
 - [Jiezhi/HouseSpider](https://github.com/Jiezhi/HouseSpider) - 🕷crawl house information from fang.com & lianjia.com
 - [Hyperparticle/one-pixel-attack-keras](https://github.com/Hyperparticle/one-pixel-attack-keras) - Keras implementation of "One pixel attack for fooling deep neural networks" using differential evolution on Cifar10 and ImageNet
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
-- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
 - [ucsd-ccbb/visJS2jupyter](https://github.com/ucsd-ccbb/visJS2jupyter) - visJS2jupyter is a tool to bring the interactivity of networks created with vis.js into jupyter notebook cells
 - [justmarkham/trump-lies](https://github.com/justmarkham/trump-lies) - Tutorial: Web scraping in Python with Beautiful Soup
 - [tdpetrou/Learn-Pandas](https://github.com/tdpetrou/Learn-Pandas) - Tutorials on how to use pandas effectively to do data analysis
@@ -2043,6 +2042,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
 
 ## XSLT 
 
