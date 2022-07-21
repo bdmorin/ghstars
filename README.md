@@ -548,6 +548,7 @@
 
 ## JavaScript 
 
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [b1f6c1c4/gh-index](https://github.com/b1f6c1c4/gh-index) - Calculate h-index of a GitHub user's repo stars
