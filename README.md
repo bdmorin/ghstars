@@ -268,7 +268,7 @@
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open source device management, built on osquery.
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems — without the downtime risk.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [lucasepe/jumble](https://github.com/lucasepe/jumble) - Create (not just) diagrams stitching, connecting  and labelling images on a grid using HCL syntax (like terraform!).
@@ -983,6 +983,7 @@
 
 ## Others 
 
+- [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
