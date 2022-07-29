@@ -1291,6 +1291,7 @@
 
 ## Python 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
 - [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
@@ -1478,7 +1479,7 @@
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, coll
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [RLesser/NetworkScraper](https://github.com/RLesser/NetworkScraper) - A versatile graph explorer for both online and offline networks
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -1755,6 +1756,7 @@
 
 ## Shell 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [B3ND1X/air-script](https://github.com/B3ND1X/air-script) - Air Script is Wi-Fi pwning Swiss Army knife that also has optional email notifications for when handshakes have been captured.
 - [bigH/interactively](https://github.com/bigH/interactively) - 
 - [kissge/k1pwit](https://github.com/kissge/k1pwit) - k1pwit lets you to directly input passwords using 1Password on iTerm2, not via clipboard, just as though you do on Web browsers.
@@ -1793,7 +1795,7 @@
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Docker Image and configuration for Zulip
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
-- [SixArm/sixarm-zsh-config](https://github.com/SixArm/sixarm-zsh-config) - SixArm.com → Z shell → zsh configuration
+- [SixArm/zsh-config](https://github.com/SixArm/zsh-config) - SixArm.com → Z shell → zsh configuration
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dimafeng/dotfiles](https://github.com/dimafeng/dotfiles) - 
