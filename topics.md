@@ -2426,6 +2426,7 @@
 
 ## others 
 
+- [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
 - [ElijT/Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools) - This awesome list links relevant tools for required to make apps/sites/chatbot and any digital tools without code!
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent GRUB Community themes. Contributions welcome!
 - [AnalogJ/hatchet](https://github.com/AnalogJ/hatchet) - Cut down spam in your Gmail Inbox
