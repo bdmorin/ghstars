@@ -986,6 +986,7 @@
 
 ## Others 
 
+- [sadanandpai/git-guide](https://github.com/sadanandpai/git-guide) - Practical guide to everyday Git commands
 - [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [ElijT/Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools) - This awesome list links relevant tools for required to make apps/sites/chatbot and any digital tools without code!
