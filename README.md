@@ -337,7 +337,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [huydx/hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [davemachado/public-api](https://github.com/davemachado/public-api) - Public API for the public-apis Github project
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
