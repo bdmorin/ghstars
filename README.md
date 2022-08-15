@@ -614,7 +614,7 @@
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [brandonweiss/promptconfig](https://github.com/brandonweiss/promptconfig) - 🖥 Craft a custom terminal prompt with JSON.
 - [dominictarr/scuttlebutt](https://github.com/dominictarr/scuttlebutt) - peer-to-peer replicatable data structure
-- [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
+- [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [abynim/UserFlows](https://github.com/abynim/UserFlows) - A plugin for generating user walkthroughs from Artboards in Sketch.
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [topheman/docker-experiments](https://github.com/topheman/docker-experiments) - Discover docker with a simple use case in development, production (local kubernetes) and CI
