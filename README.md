@@ -1759,6 +1759,7 @@
 
 ## Shell 
 
+- [ryanwoodsmall/netclip](https://github.com/ryanwoodsmall/netclip) - netclip
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [B3ND1X/air-script](https://github.com/B3ND1X/air-script) - Air Script is Wi-Fi pwning Swiss Army knife that also has optional email notifications for when handshakes have been captured.
 - [bigH/interactively](https://github.com/bigH/interactively) - 
