@@ -546,7 +546,7 @@
 - [eBay/DASTProxy](https://github.com/eBay/DASTProxy) - 
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
 - [rax-maas/blueflood](https://github.com/rax-maas/blueflood) - A distributed system designed to ingest and process time series data
-- [apiman/apiman](https://github.com/apiman/apiman) - Extensible and flexible API Management
+- [apiman/apiman](https://github.com/apiman/apiman) - Extensible and flexible API Management. Add your own functionality with simple Java plugins.
 - [flyingsaucerproject/flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer in pure Java
 - [claritylab/lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
 - [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
@@ -1447,7 +1447,6 @@
 - [hubbcaps/gazee](https://github.com/hubbcaps/gazee) - A WebApp for reading your comics. Built in Python on top of CherryPy.
 - [vimeo/graph-explorer](https://github.com/vimeo/graph-explorer) - A graphite dashboard powered by structured metrics
 - [mrschyte/nmap-converter](https://github.com/mrschyte/nmap-converter) - Python script for converting nmap reports into XLS
-- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [CodyKochmann/graphdb](https://github.com/CodyKochmann/graphdb) - sqlite based graph database for storing native python objects and their relationships to each other
 - [VerbalExpressions/PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - Python regular expressions made easy
 - [haskellcamargo/sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
@@ -1836,6 +1835,7 @@
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
