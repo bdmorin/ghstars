@@ -235,13 +235,14 @@
 
 ## Go 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [AnalogJ/hatchet](https://github.com/AnalogJ/hatchet) - Cut down spam in your Gmail Inbox
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is like docker-compose, but for orchestrating a suite of processes, not containers.
-- [yohamta/dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities
+- [yohamta/dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
