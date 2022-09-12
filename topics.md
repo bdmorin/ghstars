@@ -899,7 +899,7 @@
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [eBay/tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
@@ -959,7 +959,7 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon) - 人像卡通化探索项目 (photo-to-cartoon translation project)
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -2122,7 +2122,7 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -3444,7 +3444,7 @@
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
 - [domainaware/checkdmarc](https://github.com/domainaware/checkdmarc) - A parser for SPF and DMARC DNS records
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [sio/Makefile.venv](https://github.com/sio/Makefile.venv) - Seamlessly manage Python virtual environment with a Makefile
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, Dart and more
@@ -3578,7 +3578,7 @@
 
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
