@@ -490,7 +490,6 @@
 - [daxeel/blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [ellisonleao/slack-howdoi](https://github.com/ellisonleao/slack-howdoi) - :cloud: Slack integration with the howdoi library
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
@@ -681,6 +680,7 @@
 - [DMarby/humblebundle-ebook-downloader](https://github.com/DMarby/humblebundle-ebook-downloader) - An easy way to download ebooks from your humblebundle account
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [millerhooks/GraphTerm](https://github.com/millerhooks/GraphTerm) - GraphTerm: An aspirational DevOps and Container IDE Concept
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [sodium-friends/learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
@@ -1874,7 +1874,7 @@
 - [talwrii/curlfire](https://github.com/talwrii/curlfire) - Fetch web pages with curl using Firefox's current cookies
 - [kyle8998/Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A fun project made for slackers by slackers.
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [raggi/openssl-osx-ca](https://github.com/raggi/openssl-osx-ca) - Simple periodic task to sync OSX Keychain certs to Homebrew installed OpenSSL & LibreSSL
 - [milesrichardson/docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap) - Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq in a minimal alpine Docker container.
 - [f/do-sshuttle](https://github.com/f/do-sshuttle) - Use DigitalOcean Droplet to Transparent Proxying via sshuttle
