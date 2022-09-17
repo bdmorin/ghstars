@@ -139,6 +139,7 @@
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -615,6 +616,7 @@
 - [millerhooks/GraphTerm](https://github.com/millerhooks/GraphTerm) - GraphTerm: An aspirational DevOps and Container IDE Concept
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
@@ -762,6 +764,7 @@
 - [benmarten/CryptoETF](https://github.com/benmarten/CryptoETF) - Portfolio Overview Tool for Your CryptoCoin Capitalization-Weighted Portfolio.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -1637,6 +1640,7 @@
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [sinedied/backslide](https://github.com/sinedied/backslide) - :sweat_drops: CLI tool for making HTML presentations with Remark.js using Markdown
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1772,6 +1776,7 @@
 
 ## ipfs 
 
+- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
 
@@ -2091,6 +2096,7 @@
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
@@ -2165,6 +2171,7 @@
 - [bluegill/katana](https://github.com/bluegill/katana) - 🚀 a powerful, open-source screenshot utility for macOS
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [halo/LinkLiar](https://github.com/halo/LinkLiar) - :link: Link-Layer MAC spoofing GUI for macOS
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -2450,6 +2457,20 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 
+## osint 
+
+- [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [itsmehacker/DarkScrape](https://github.com/itsmehacker/DarkScrape) - OSINT Tool For Scraping Dark Websites
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+- [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
+- [x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher) - Phishing catcher using Certstream
+
 ## others 
 
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -2463,7 +2484,6 @@
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
 - [LukeShortCloud/rootpages](https://github.com/LukeShortCloud/rootpages) - Root Pages is a collection of easy-to-reference tutorials and guides primarily for Linux and other UNIX-like systems.
 - [bigH/interactively](https://github.com/bigH/interactively) - 
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
@@ -2614,7 +2634,6 @@
 - [zsh-users/zaw](https://github.com/zsh-users/zaw) - zsh anything.el-like widget.
 - [ev-dev/slack-custom-controls](https://github.com/ev-dev/slack-custom-controls) - Dark Theme Mode and Sidebar Toggle For Slack
 - [fisadev/zombsole](https://github.com/fisadev/zombsole) - console zombie survival game
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
 - [kalvn/Shaarli-Material](https://github.com/kalvn/Shaarli-Material) - Shaarli Material is a theme for Shaarli, the famous personal, minimalist, super-fast, database free, bookmarking service.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
@@ -2714,7 +2733,6 @@
 - [BryanLunduke/LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) - Linux-themed expansion pack for Cards Against Humanity
 - [busyloop/vj](https://github.com/busyloop/vj) - vj - JSON Humanizer
 - [beakerbrowser/homebase](https://github.com/beakerbrowser/homebase) - Self-deployable tool for hosting hyper:// websites
-- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS.
 - [tgrowden/nimbus-weather](https://github.com/tgrowden/nimbus-weather) - A beautiful, open source weather app built using the Dark Sky API.
 - [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - A collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.
 - [davemachado/public-api](https://github.com/davemachado/public-api) - Public API for the public-apis Github project
@@ -2839,10 +2857,8 @@
 - [tucaz/agile-development-cheat-sheet](https://github.com/tucaz/agile-development-cheat-sheet) - 2017 Agile Development Cheat Sheet
 - [ajs124/hib-dl-all](https://github.com/ajs124/hib-dl-all) - download your whole humblebundle.com library
 - [sc0tfree/mentalist](https://github.com/sc0tfree/mentalist) - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat an
-- [x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher) - Phishing catcher using Certstream
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [vaeyo/MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) - Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
 - [croach/oreilly-matplotlib-course](https://github.com/croach/oreilly-matplotlib-course) - Jupyter notebooks from my O'Reilly Media course "Matplolib for Developers: Data Visualization and Analysis with Python"
 - [tkarras/progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation
 - [josephernest/Yopp](https://github.com/josephernest/Yopp) - A very fast way to transfer a file from phone to computer and vice versa.
@@ -2961,7 +2977,6 @@
 - [cromo/grokpat](https://github.com/cromo/grokpat) - Call up grok patterns for use in command line programs
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [chriszarate/sheetrock](https://github.com/chriszarate/sheetrock) - Quickly connect to, query, and lazy-load data from Google Spreadsheets.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [d-oliveros/nest-hackernews](https://github.com/d-oliveros/nest-hackernews) - Nest example: scraping Hackernews
 - [d-oliveros/nest](https://github.com/d-oliveros/nest) - High-level, robust framework for web scraping in Node.js
