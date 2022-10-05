@@ -980,6 +980,7 @@
 ## deployment 
 
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 
 ## design 
@@ -1605,6 +1606,8 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
@@ -1652,6 +1655,7 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter
 - [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
@@ -1675,12 +1679,14 @@
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+- [dvlden/vidage](https://github.com/dvlden/vidage) - Your solution to full-screen background video & image combined.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [jacobsalmela/NCutil](https://github.com/jacobsalmela/NCutil) - Notification Center utility- Add/remove apps, set alert styles, suppress App store notifications
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
@@ -2012,6 +2018,7 @@
 - [alaminopu/kctl](https://github.com/alaminopu/kctl) - A CLI wrapper for making kubernetes commands much easier
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [rexray/rexray](https://github.com/rexray/rexray) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [topheman/docker-experiments](https://github.com/topheman/docker-experiments) - Discover docker with a simple use case in development, production (local kubernetes) and CI
@@ -2632,7 +2639,7 @@
 - [SixArm/zsh-config](https://github.com/SixArm/zsh-config) - SixArm.com → Z shell → zsh configuration
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a  Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
+- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [jamesofarrell/i3-swallow](https://github.com/jamesofarrell/i3-swallow) - used to swallow a terminal window in i3
 - [mrichar1/clipster](https://github.com/mrichar1/clipster) - clipster - python clipboard manager
@@ -2697,7 +2704,6 @@
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [imfht/fiche-golang](https://github.com/imfht/fiche-golang) - fiche-golang is a simple golang version of  fiche. Allow you paste everything to termbin.co use cat file.[png|txt|jpg] | nc termbin.co 9999
 - [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [pierrecdn/phpipam](https://github.com/pierrecdn/phpipam) - phpIPAM Docker image
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [bigbluebutton/bbb-install](https://github.com/bigbluebutton/bbb-install) - BASH script to install BigBlueButton in 30 minutes.
@@ -2954,7 +2960,6 @@
 - [projectatomic/atomic](https://github.com/projectatomic/atomic) - Atomic Run Tool for installing/running/managing container images.
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 - [sindresorhus/likes](https://github.com/sindresorhus/likes) - Interesting stuff I like on the web
-- [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [aphyr/tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [queencityhacks/queencityhacks.github.io](https://github.com/queencityhacks/queencityhacks.github.io) - https://queencityhacks.github.io
@@ -3127,7 +3132,6 @@
 - [CBitLabs/harstorage-cookbook](https://github.com/CBitLabs/harstorage-cookbook) - Chef Cookbook for installing harstorage
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
 - [zedapp/zed](https://github.com/zedapp/zed) - Rethinking code editing.
-- [dvlden/vidage](https://github.com/dvlden/vidage) - Your solution to full-screen background video & image combined.
 - [snipe/animated-gifs](https://github.com/snipe/animated-gifs) - Huge collection of the animated gifs I use on http://tumblr.snipe.net
 - [MozaikAgency/wp-theme-starter](https://github.com/MozaikAgency/wp-theme-starter) - WordPress theme starter-kit, build tools included :smile:
 - [sebsauvage/ZeroBin](https://github.com/sebsauvage/ZeroBin) - A minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
