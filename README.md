@@ -841,7 +841,7 @@
 - [maclennann/dashiell](https://github.com/maclennann/dashiell) - A websocket-y frontend to osquery and facter.
 - [iroy2000/casperjs-netsniff](https://github.com/iroy2000/casperjs-netsniff) - This is a netsniff example for CasperJS
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [TiddlyWiki/TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop) - A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
