@@ -1016,7 +1016,6 @@
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project
-- [sqlsite/awesome-sqlite](https://github.com/sqlsite/awesome-sqlite) - A curated list of awesome things related to SQLite
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -1589,7 +1588,7 @@
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [arielf/weight-loss](https://github.com/arielf/weight-loss) - Machine Learning meets  ketosis: how to effectively lose weight
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
-- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted.
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [warpling/Macmoji](https://github.com/warpling/Macmoji) - Slack/GitHub/Trello emoji for your mac! 😁 💥 💻
 - [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server) - (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
