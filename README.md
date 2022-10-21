@@ -164,7 +164,7 @@
 - [jessfraz/blog](https://github.com/jessfraz/blog) - Source for my blog.
 - [stvmlbrn/mlb-hackathon](https://github.com/stvmlbrn/mlb-hackathon) - My entry for the 2017 TruMedia MLB Hackathon
 - [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
-- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
+- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [kilianc/rtail](https://github.com/kilianc/rtail) - rtail(1) - Terminal output to the browser in seconds, using UNIX pipes.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -995,6 +995,7 @@
 
 ## Others 
 
+- [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
 - [sw-yx/prompt-eng](https://github.com/sw-yx/prompt-eng) - notes for prompt engineering
 - [iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
