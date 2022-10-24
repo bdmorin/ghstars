@@ -1080,7 +1080,7 @@
 - [git-pull/tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [BryanLunduke/LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) - Linux-themed expansion pack for Cards Against Humanity
 - [danguita/prometheus-monitoring-stack](https://github.com/danguita/prometheus-monitoring-stack) - 📈 A simple, single-node, Docker-based Prometheus monitoring stack
-- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS.
+- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing
 - [jhermann/observatory](https://github.com/jhermann/observatory) - :octocat: :star2: Awesome List of my own!
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [russian-ad-explorer/russian-ad-datasets](https://github.com/russian-ad-explorer/russian-ad-datasets) - Datasets derived from the 2018 IRA ad release.
