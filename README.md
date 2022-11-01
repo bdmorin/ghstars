@@ -1475,7 +1475,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
-- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [ellisonbg/altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
