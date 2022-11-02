@@ -307,7 +307,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [reugn/tpack](https://github.com/reugn/tpack) - Pack a Go workflow/function as a Unix-style pipeline command
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [un000/tailor](https://github.com/un000/tailor) - Tailor, the library for tailing logs under logrotate, written in go.
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
@@ -1709,7 +1709,7 @@
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
-- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
+- [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [mrshmllow/gh-cal](https://github.com/mrshmllow/gh-cal) - View your github contribution calander in unicode.
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [nadavrot/layout](https://github.com/nadavrot/layout) - Layout is a rust library and a command line tool that renders Graphviz dot files.
