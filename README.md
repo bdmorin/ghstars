@@ -443,7 +443,7 @@
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [nlf/dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [google/skicka](https://github.com/google/skicka) - Command-line utility for working with Google Drive. Join the mailing list at https://groups.google.com/forum/#!forum/skicka-users.
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [jhvst/dossh](https://github.com/jhvst/dossh) - SSH hostname rules from DigitalOcean droplets (servers)
@@ -898,7 +898,7 @@
 
 ## Jupyter Notebook 
 
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [brodriguezmilla/WebScrapingCFCBS4](https://github.com/brodriguezmilla/WebScrapingCFCBS4) - Web Scraping with Beautiful Soup  —  A Use Case
 - [cullery/Python-in-the-Newsroom](https://github.com/cullery/Python-in-the-Newsroom) - A github for my youtube tutorial series
