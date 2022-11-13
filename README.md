@@ -929,7 +929,6 @@
 - [croach/oreilly-matplotlib-course](https://github.com/croach/oreilly-matplotlib-course) - Jupyter notebooks from my O'Reilly Media course "Matplolib for Developers: Data Visualization and Analysis with Python"
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [fleshgordo/webscraping](https://github.com/fleshgordo/webscraping) - Interactive Python jupyter notebook for web scraping stuff (selenium & bs4, mostly)
 - [jnaulty/scrape_book](https://github.com/jnaulty/scrape_book) - iPython Notebook Web Scraping w/Requests and BeautifulSoup
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
@@ -1545,6 +1544,7 @@
 - [cfh294/WawaGeoScraper](https://github.com/cfh294/WawaGeoScraper) - Scraping Wawa data from the company's store locator page.
 - [ccontavalli/ssh-ident](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with ssh.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [oliver006/elasticsearch-hn](https://github.com/oliver006/elasticsearch-hn) - Index & Search Hacker News using Elasticsearch and the HN API
