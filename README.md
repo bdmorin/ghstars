@@ -15,7 +15,6 @@
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [D](#d)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [G-code](#g-code)
@@ -201,10 +200,6 @@
 ## D 
 
 - [eBay/tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
-
-## Dart 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -995,6 +990,7 @@
 
 ## Others 
 
+- [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
 - [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
 - [sw-yx/prompt-eng](https://github.com/sw-yx/prompt-eng) - notes for prompt engineering
@@ -1127,7 +1123,6 @@
 - [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [wtsxDev/Raspberry-Pi](https://github.com/wtsxDev/Raspberry-Pi) - Raspberry Pi A to Z List
-- [tucaz/agile-development-cheat-sheet](https://github.com/tucaz/agile-development-cheat-sheet) - 2017 Agile Development Cheat Sheet
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1707,6 +1702,7 @@
 - [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/a5huynh/spyglass)
 - [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
