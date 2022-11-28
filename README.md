@@ -237,6 +237,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
