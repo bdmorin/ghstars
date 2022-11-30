@@ -77,7 +77,6 @@
 - [frameworks](#frameworks)
 - [frontend](#frontend)
 - [game](#game)
-- [games](#games)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1347,10 +1346,6 @@
 ## game 
 
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-
-## games 
-
-- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 
 ## git 
 
