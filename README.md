@@ -1986,6 +1986,7 @@
 
 ## Swift 
 
+- [gyf304/vmcli](https://github.com/gyf304/vmcli) - A set of utilities (vmcli + vmctl) for macOS Virtualization.framework
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [CrunchyBagel/TracePrivately](https://github.com/CrunchyBagel/TracePrivately) - A privacy-focused app using Apple's soon-to-be-released contact tracing framework.
