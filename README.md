@@ -1827,7 +1827,7 @@
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [caiogondim/maglev](https://github.com/caiogondim/maglev) - :monorail: A Tmux theme made to work together with bullet-train.zsh
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
-- [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Docker Image and configuration for Zulip
+- [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Container configurations, images, and examples for Zulip.
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [SixArm/zsh-config](https://github.com/SixArm/zsh-config) - SixArm.com → Z shell → zsh configuration
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
