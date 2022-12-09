@@ -161,6 +161,7 @@
 - [deepsense-ai/pydatawarsaw-notebooks](https://github.com/deepsense-ai/pydatawarsaw-notebooks) - 
 - [fuegoio/dotfiles](https://github.com/fuegoio/dotfiles) - The Firark environment, consistent and clean.
 - [taniarascia/new-moon-atom-syntax](https://github.com/taniarascia/new-moon-atom-syntax) - New Moon Syntax Theme for Atom
+- [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [jessfraz/blog](https://github.com/jessfraz/blog) - Source for my blog.
 - [stvmlbrn/mlb-hackathon](https://github.com/stvmlbrn/mlb-hackathon) - My entry for the 2017 TruMedia MLB Hackathon
@@ -560,9 +561,11 @@
 
 ## JavaScript 
 
+- [akamai/boomerang](https://github.com/akamai/boomerang) - End user oriented web performance testing and beaconing
 - [nytimes/library](https://github.com/nytimes/library) - A collaborative documentation site, powered by Google Docs.
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for prompt engineering
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1004,7 +1007,6 @@
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
 - [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for prompt engineering
 - [iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -1149,7 +1151,6 @@
 - [epcim/awesome-sysadmin2](https://github.com/epcim/awesome-sysadmin2) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
-- [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [Citrix-TechSpecialist/Docker-101](https://github.com/Citrix-TechSpecialist/Docker-101) - This repository walks students though how to get started with Docker and basic Docker commands.
 - [cullery/bucksems](https://github.com/cullery/bucksems) - ems data for Bucks County
