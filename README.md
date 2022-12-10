@@ -238,6 +238,7 @@
 
 ## Go 
 
+- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -655,7 +656,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [lokenx/plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
-- [gnuns/allOrigins](https://github.com/gnuns/allOrigins) - :alien: Pull contents from any page as JSON via API
+- [gnuns/allOrigins](https://github.com/gnuns/allOrigins) - :alien: Pull content from any page as JSON via API
 - [zubron/prom-demo](https://github.com/zubron/prom-demo) - Sample project showing how to add Prometheus metrics to a Node.js Express application
 - [mermaidjs/mermaid.cli](https://github.com/mermaidjs/mermaid.cli) - Development has been moved to https://github.com/mermaid-js/mermaid-cli
 - [phantombuster/nickjs](https://github.com/phantombuster/nickjs) - Web scraping library made by the Phantombuster team. Modern, simple & works on all websites. (Deprecated)
@@ -1114,7 +1115,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [soheilpro/catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
-- [sonofagl1tch/PresentationsAndBlogs](https://github.com/sonofagl1tch/PresentationsAndBlogs) - This directory will contain copies of all of my public speaking presentations and blog posts
+- [sonofagl1tch/Work_Portfolio](https://github.com/sonofagl1tch/Work_Portfolio) - This directory will contain copies of all of my public speaking presentations and blog posts
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [sw-yx/awesome-dev-podcasts](https://github.com/sw-yx/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
 - [nezaj/code-camp-guide](https://github.com/nezaj/code-camp-guide) - My e-book on how to get into a programming bootcamp
@@ -2008,6 +2009,7 @@
 
 ## TypeScript 
 
+- [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
