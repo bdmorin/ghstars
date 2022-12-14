@@ -2726,7 +2726,6 @@
 - [pawadski/curlhttp_exporter](https://github.com/pawadski/curlhttp_exporter) - Dockerfile and code for a tiny Prometheus curlhttp exporter
 - [dperson/openvpn-client](https://github.com/dperson/openvpn-client) - 
 - [nefilim/pinger](https://github.com/nefilim/pinger) - simple network latency and packet loss monitor using Grafana and Prometheus
-- [kadekillary/scraping-with-rust](https://github.com/kadekillary/scraping-with-rust) - 👾 scraping hacker news with rust
 - [eoprede/prusa_profiles](https://github.com/eoprede/prusa_profiles) - Repo to store profiles for Prusa 3D Printers
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
 - [ahembree/hms-docker](https://github.com/ahembree/hms-docker) - Home Media Server orchestration running on Docker containers with an automated setup script for Ubuntu 18.04 LTS.
@@ -3850,6 +3849,7 @@
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [kadekillary/scraping-with-rust](https://github.com/kadekillary/scraping-with-rust) - 👾 scraping hacker news with rust
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
