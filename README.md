@@ -414,7 +414,7 @@
 - [suside/ssh-crypt](https://github.com/suside/ssh-crypt) - :lock: Share AES-256 encrypted vault file with your teammates using only ssh authorized_keys!
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [kashav/point](https://github.com/kashav/point) - Shorten URLs with GitHub repositories and the http-equiv attribute.
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
@@ -1807,7 +1807,7 @@
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [b1f6c1c4/ttyssh](https://github.com/b1f6c1c4/ttyssh) - ssh with tty (serial port) forwarding
 - [b1f6c1c4/unfk](https://github.com/b1f6c1c4/unfk) - Remove all f**ks in your git commit history
-- [docker-slim/examples](https://github.com/docker-slim/examples) - Minified application examples with different languages and stacks for DockerSlim
+- [slimtoolkit/examples](https://github.com/slimtoolkit/examples) - Minified application examples with different languages and stacks for DockerSlim
 - [jabirali/fish-abbrfile](https://github.com/jabirali/fish-abbrfile) - Fish plugin to cleanly manage abbreviations
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
 - [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x+
@@ -2022,7 +2022,7 @@
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
-- [danloh/mdSilo-app](https://github.com/danloh/mdSilo-app) - Lightweight mind silo on your desktop.
+- [danloh/mdSilo-app](https://github.com/danloh/mdSilo-app) - Lightweight mind silo on your desktop: RSS&Podcast client and knowledge base.
 - [mfbx9da4/deep-email-validator](https://github.com/mfbx9da4/deep-email-validator) - Validates regex, typos, disposable, dns and smtp
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
