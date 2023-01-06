@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -62,6 +63,10 @@
 ## AppleScript 
 
 - [apaszke/termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X
+
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -1060,7 +1065,6 @@
 - [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
 - [nefilim/pinger](https://github.com/nefilim/pinger) - simple network latency and packet loss monitor using Grafana and Prometheus
 - [eoprede/prusa_profiles](https://github.com/eoprede/prusa_profiles) - Repo to store profiles for Prusa 3D Printers
-- [arturgs/espresso-hole](https://github.com/arturgs/espresso-hole) - EspressoBin-based personal router with ad blocking
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
 - [Aracki/toolnetes](https://github.com/Aracki/toolnetes) - 🔧 Collection of miscellaneous Kubernetes tools and articles.
 - [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
@@ -2077,7 +2081,6 @@
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [rhysd/Mstdn](https://github.com/rhysd/Mstdn) - Tiny web-based mastodon client for your desktop
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
