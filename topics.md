@@ -2742,7 +2742,6 @@
 - [eoprede/prusa_profiles](https://github.com/eoprede/prusa_profiles) - Repo to store profiles for Prusa 3D Printers
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
 - [ahembree/hms-docker](https://github.com/ahembree/hms-docker) - Home Media Server orchestration running on Docker containers with an automated setup script for Ubuntu 18.04 LTS.
-- [arturgs/espresso-hole](https://github.com/arturgs/espresso-hole) - EspressoBin-based personal router with ad blocking
 - [quickwit-oss/tantivy-cli](https://github.com/quickwit-oss/tantivy-cli) - 
 - [raghur/mermaid-filter](https://github.com/raghur/mermaid-filter) - Pandoc filter for creating diagrams in mermaid syntax blocks in markdown docs
 - [kstenerud/ubuntu-dev-installer](https://github.com/kstenerud/ubuntu-dev-installer) - Scripts to install an ubuntu dev environment
