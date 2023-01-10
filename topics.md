@@ -1083,6 +1083,7 @@
 
 ## docker 
 
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources
 - [ryanwoodsmall/netclip](https://github.com/ryanwoodsmall/netclip) - netclip
@@ -1493,6 +1494,7 @@
 
 ## golang 
 
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
