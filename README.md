@@ -2028,7 +2028,7 @@
 
 - [TimMikeladze/gist-database](https://github.com/TimMikeladze/gist-database) - ✨ Transform gist into your personal key/value datastore. 💡Pair this with Next.js static sites and incremental static regeneration. Built with TypeScript.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
