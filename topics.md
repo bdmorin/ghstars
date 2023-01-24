@@ -358,6 +358,7 @@
 
 ## awesome 
 
+- [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -474,6 +475,7 @@
 
 ## awesome-list 
 
+- [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
@@ -1626,6 +1628,8 @@
 
 ## hacktoberfest 
 
+- [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -2582,6 +2586,7 @@
 
 ## others 
 
+- [ziolko/tunnel](https://github.com/ziolko/tunnel) - DIY ngrok alternative
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
@@ -3833,6 +3838,7 @@
 
 ## rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
