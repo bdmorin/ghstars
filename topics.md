@@ -2586,6 +2586,8 @@
 
 ## others 
 
+- [cloudtools/ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) - An implementation of an SSH certificate authority.
+- [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [ziolko/tunnel](https://github.com/ziolko/tunnel) - DIY ngrok alternative
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
