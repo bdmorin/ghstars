@@ -133,7 +133,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal! 😄 The unified clipboard: easy, breezy, and beautiful.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [dns-groot/groot](https://github.com/dns-groot/groot) - Static verification tool for DNS zone files
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
@@ -915,6 +915,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
@@ -1338,7 +1339,6 @@
 
 ## Python 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [agustinmista/vibrant_deck_cli](https://github.com/agustinmista/vibrant_deck_cli) - A simple command line utility to tweak the screen saturation of the Steam Deck
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
