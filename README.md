@@ -558,7 +558,7 @@
 - [eliddell1/Project-Blue-Fist](https://github.com/eliddell1/Project-Blue-Fist) - BLE Edition of the original FistBump (portable WPA handshake grabber)
 - [pschweitz/insidelog](https://github.com/pschweitz/insidelog) - [newer] Colorized real-time log viewer with remote tail over SSH support for Windows, Mac and Linux
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
-- [lennartkoopmann/nzyme](https://github.com/lennartkoopmann/nzyme) - Nzyme is a free and open next-generation WiFi defense system. Go to www.nzyme.org for more information.
+- [lennartkoopmann/nzyme](https://github.com/lennartkoopmann/nzyme) - Network Defense System.
 - [logscape/Logscape](https://github.com/logscape/Logscape) - Open source offering for the Logscape log management tool.
 - [yeriomin/YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
