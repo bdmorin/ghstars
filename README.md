@@ -654,7 +654,7 @@
 - [beakerbrowser/homebase](https://github.com/beakerbrowser/homebase) - Self-deployable tool for hosting hyper:// websites
 - [tgrowden/nimbus-weather](https://github.com/tgrowden/nimbus-weather) - A beautiful, open source weather app built using the Dark Sky API.
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
+- [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI app for editing, visualizing, and manipulating JSON data
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [vsupalov/docker-puppeteer-dev](https://github.com/vsupalov/docker-puppeteer-dev) - A dockerized Puppeteer development environment, to work with the Headless Chrome Node API locally.
