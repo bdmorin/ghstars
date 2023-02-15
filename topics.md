@@ -2603,6 +2603,7 @@
 - [akamai/boomerang](https://github.com/akamai/boomerang) - End user oriented web performance testing and beaconing
 - [nytimes/library](https://github.com/nytimes/library) - A collaborative documentation site, powered by Google Docs.
 - [agustinmista/vibrant_deck_cli](https://github.com/agustinmista/vibrant_deck_cli) - A simple command line utility to tweak the screen saturation of the Steam Deck
+- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for my AI studies, writing, and product brainstorming
@@ -2645,7 +2646,7 @@
 - [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
 - [digitalocean/Kubernetes-Starter-Kit-Developers](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers) - Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
-- [danloh/mdSilo-app](https://github.com/danloh/mdSilo-app) - Lightweight mind silo on your desktop: RSS&Podcast client and knowledge base.
+- [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight mind silo on your desktop: RSS&Podcast client and knowledge base.
 - [mfbx9da4/deep-email-validator](https://github.com/mfbx9da4/deep-email-validator) - Validates regex, typos, disposable, dns and smtp
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [qeeqbox/raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive and optimized)
@@ -2718,7 +2719,6 @@
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [fireshaper/Omnibus](https://github.com/fireshaper/Omnibus) - Search for and download comics that are added to GetComics.info easily
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ahmetbcakici/DynamicPersonalWebsite](https://github.com/ahmetbcakici/DynamicPersonalWebsite) - This project is personal website which has admin panel for content management.
 - [theodo/falco](https://github.com/theodo/falco) - Falco helps you monitor, analyze, and optimize your websites.
 - [caiogondim/maglev](https://github.com/caiogondim/maglev) - :monorail: A Tmux theme made to work together with bullet-train.zsh
@@ -4277,7 +4277,6 @@
 
 ## ubuntu 
 
-- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Scripts & dotfiles for automation and/or bootstrapping new system setup
