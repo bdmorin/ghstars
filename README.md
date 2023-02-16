@@ -35,6 +35,7 @@
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nginx](#nginx)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
@@ -520,6 +521,7 @@
 - [neveragaindottech/neveragaindottech.github.io](https://github.com/neveragaindottech/neveragaindottech.github.io) - Source files for the neveragain.tech site
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [TrumpTracker/trumptracker.github.io](https://github.com/TrumpTracker/trumptracker.github.io) - Open source for http://trumptracker.github.io/
+- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [dirtycow/dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - Dirty COW
 - [die-net/nginx-config-example](https://github.com/die-net/nginx-config-example) - An example of a complex NginX configuration based on best practices
 - [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the b
@@ -992,6 +994,10 @@
 - [Servers-for-Hackers/ansible-infrastructure](https://github.com/Servers-for-Hackers/ansible-infrastructure) - Consolidated Repository of Ansible Roles
 - [lo-tp/MeteorN](https://github.com/lo-tp/MeteorN) - MeteorN - A Simple Tool to Run Meteor App with an Nginx Reverse Proxy
 
+## Nunjucks 
+
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
+
 ## OCaml 
 
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
@@ -1025,7 +1031,7 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for my AI studies, writing, and product brainstorming
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers covering new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /Resources folde
 - [iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -1071,7 +1077,6 @@
 - [alexellis/quickstart-prometheus](https://github.com/alexellis/quickstart-prometheus) - Quickstart for Prometheus
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
 - [nefilim/pinger](https://github.com/nefilim/pinger) - simple network latency and packet loss monitor using Grafana and Prometheus
@@ -1295,7 +1300,6 @@
 - [BillKeenan/dead-drop](https://github.com/BillKeenan/dead-drop) - secure text sender, generates a 1-time link and password. stores encrypted in mongo
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
-- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB) - Free database of geographic place names and corresponding geospatial data
 - [ngfw/Recipe](https://github.com/ngfw/Recipe) - Collection of PHP Functions
@@ -2081,7 +2085,7 @@
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
