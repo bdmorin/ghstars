@@ -1691,7 +1691,7 @@
 - [nickfloyd/newrelic-perfmon-plugin](https://github.com/nickfloyd/newrelic-perfmon-plugin) - The Perfmon Plugin for the New Relic Plugins - https://newrelic.com/plugins
 - [logstash-plugins/logstash-input-twitter](https://github.com/logstash-plugins/logstash-input-twitter) - 
 - [paritytech/homebrew-paritytech](https://github.com/paritytech/homebrew-paritytech) - Homebrew tap for ethcore
-- [elastic/cookbook-elasticsearch](https://github.com/elastic/cookbook-elasticsearch) - Chef cookbook for Elasticsearch
+- [sous-chefs/cookbook-elasticsearch](https://github.com/sous-chefs/cookbook-elasticsearch) - Chef cookbook for Elasticsearch
 - [aphyr/tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
