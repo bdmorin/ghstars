@@ -221,6 +221,7 @@
 
 ## Dockerfile 
 
+- [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout) - Dockerized Freescout Helpdesk
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, 
 - [mikeroyal/Docker-Guide](https://github.com/mikeroyal/Docker-Guide) - Docker Guide
@@ -1269,6 +1270,7 @@
 
 ## PHP 
 
+- [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All In One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [nico3333fr/CSP-useful](https://github.com/nico3333fr/CSP-useful) - Collection of scripts, thoughts about CSP (Content Security Policy)
 - [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd
@@ -1691,7 +1693,7 @@
 - [nickfloyd/newrelic-perfmon-plugin](https://github.com/nickfloyd/newrelic-perfmon-plugin) - The Perfmon Plugin for the New Relic Plugins - https://newrelic.com/plugins
 - [logstash-plugins/logstash-input-twitter](https://github.com/logstash-plugins/logstash-input-twitter) - 
 - [paritytech/homebrew-paritytech](https://github.com/paritytech/homebrew-paritytech) - Homebrew tap for ethcore
-- [sous-chefs/cookbook-elasticsearch](https://github.com/sous-chefs/cookbook-elasticsearch) - Chef cookbook for Elasticsearch
+- [sous-chefs/elasticsearch](https://github.com/sous-chefs/elasticsearch) - Chef cookbook for Elasticsearch
 - [aphyr/tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
