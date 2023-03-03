@@ -202,6 +202,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -1766,7 +1767,6 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [jacobsalmela/NCutil](https://github.com/jacobsalmela/NCutil) - Notification Center utility- Add/remove apps, set alert styles, suppress App store notifications
-- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -3305,6 +3305,7 @@
 - [jcoglan/restore](https://github.com/jcoglan/restore) - Simple remoteStorage server written in Node.js
 - [picsoung/uberSlackBot](https://github.com/picsoung/uberSlackBot) - A bot for Slack to get Uber price estimates
 - [ekmartin/slack-irc](https://github.com/ekmartin/slack-irc) - Connects Slack and IRC channels by sending messages back and forth.
+- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [karan/slack-hn](https://github.com/karan/slack-hn) - SEE https://github.com/karan/slack-news INSTEAD
 - [b00giZm/express-ifttt-webhook](https://github.com/b00giZm/express-ifttt-webhook) - A middleware to plug your Express app into IFTTT.com
 - [Docverter/docverter](https://github.com/Docverter/docverter) - Docverter Server
@@ -4345,6 +4346,12 @@
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+
+## vuejs 
+
+- [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 
 ## web 
 
