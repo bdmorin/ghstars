@@ -1445,7 +1445,7 @@
 - [pawadski/curlhttp_exporter](https://github.com/pawadski/curlhttp_exporter) - Dockerfile and code for a tiny Prometheus curlhttp exporter
 - [itsmehacker/DarkScrape](https://github.com/itsmehacker/DarkScrape) - OSINT Tool For Scraping Dark Websites
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [cristoper/feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [jbd/msrsync](https://github.com/jbd/msrsync) - Multi-stream rsync wrapper
