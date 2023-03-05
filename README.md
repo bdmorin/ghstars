@@ -1445,7 +1445,7 @@
 - [pawadski/curlhttp_exporter](https://github.com/pawadski/curlhttp_exporter) - Dockerfile and code for a tiny Prometheus curlhttp exporter
 - [itsmehacker/DarkScrape](https://github.com/itsmehacker/DarkScrape) - OSINT Tool For Scraping Dark Websites
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [cristoper/feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [jbd/msrsync](https://github.com/jbd/msrsync) - Multi-stream rsync wrapper
@@ -2051,7 +2051,7 @@
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
-- [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight mind silo on your desktop: RSS&Podcast client and knowledge base.
+- [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight, Pluggable Knowledge Base and Feed Reader.
 - [mfbx9da4/deep-email-validator](https://github.com/mfbx9da4/deep-email-validator) - Validates regex, typos, disposable, dns and smtp
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
