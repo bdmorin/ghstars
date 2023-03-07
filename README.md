@@ -615,6 +615,7 @@
 - [djfdat/AudioBookBay-Magnet-Assistant](https://github.com/djfdat/AudioBookBay-Magnet-Assistant) - Creates magnet links for AudioBookBay pages without logging in.
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [ahmetbcakici/DynamicPersonalWebsite](https://github.com/ahmetbcakici/DynamicPersonalWebsite) - This project is personal website which has admin panel for content management.
 - [jikamens/password-manager-comparer](https://github.com/jikamens/password-manager-comparer) - JavaScript code for rendering a head-to-head comparison of password managers
@@ -1693,7 +1694,7 @@
 - [nickfloyd/newrelic-perfmon-plugin](https://github.com/nickfloyd/newrelic-perfmon-plugin) - The Perfmon Plugin for the New Relic Plugins - https://newrelic.com/plugins
 - [logstash-plugins/logstash-input-twitter](https://github.com/logstash-plugins/logstash-input-twitter) - 
 - [paritytech/homebrew-paritytech](https://github.com/paritytech/homebrew-paritytech) - Homebrew tap for ethcore
-- [sous-chefs/elasticsearch](https://github.com/sous-chefs/elasticsearch) - Chef cookbook for Elasticsearch
+- [sous-chefs/elasticsearch](https://github.com/sous-chefs/elasticsearch) - Development repository for the elasticsearch cookbook
 - [aphyr/tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
