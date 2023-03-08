@@ -314,7 +314,7 @@
 - [similarweb/finala](https://github.com/similarweb/finala) - Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [mxplusb/cloudflare-sync](https://github.com/mxplusb/cloudflare-sync) - A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
@@ -1095,7 +1095,7 @@
 - [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
-- [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
+- [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 - [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) - All that you need to create a great mobile web experience
