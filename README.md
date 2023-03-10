@@ -1024,6 +1024,7 @@
 
 ## Others 
 
+- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [ziolko/tunnel](https://github.com/ziolko/tunnel) - DIY ngrok alternative
 - [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
