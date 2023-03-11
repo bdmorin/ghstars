@@ -1748,8 +1748,8 @@
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-- [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/a5huynh/spyglass)
-- [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
+- [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/spyglass-search/spyglass)
+- [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
@@ -1762,7 +1762,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [OJFord/amail](https://github.com/OJFord/amail) - AWS-hosted personal email system: sending, receiving, storage, and forwarding (relaying). `notmuch` client. JMAP server WIP.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [lukaspustina/mhost](https://github.com/lukaspustina/mhost) - More than host - A modern take on the classic host DNS lookup utility including an easy to use and very fast Rust lookup library.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
