@@ -2027,7 +2027,7 @@
 
 ## json 
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [json-next/awesome-json-next](https://github.com/json-next/awesome-json-next) - A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -2465,7 +2465,7 @@
 
 ## nextjs 
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
@@ -3113,7 +3113,7 @@
 - [HubSpot/BuckyClient](https://github.com/HubSpot/BuckyClient) - Collect performance data from the client
 - [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper
 - [e1ven/Robohash](https://github.com/e1ven/Robohash) - RoboHash.org
-- [datopian/portal.js](https://github.com/datopian/portal.js) - 🌀 Next generation Javascript framework for rapidly building rich data portals.
+- [datopian/portal.js](https://github.com/datopian/portal.js) - 🌀 Data portal framework in modern Javascript.
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [RickyCook/ssh-forward-unix-socket](https://github.com/RickyCook/ssh-forward-unix-socket) - Forward a Unix socket over SSH
 - [wesbos/Learn-Node](https://github.com/wesbos/Learn-Node) - Starter Files + Stepped Solutions for the Learn Node course
@@ -3798,7 +3798,7 @@
 
 ## react 
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [btzr-io/Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
