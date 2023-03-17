@@ -134,7 +134,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anytime, anywhere, all from the terminal! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝙚𝙖𝙨𝙮 way. Cut, copy, and paste anything, anytime, anywhere! 😄
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [dns-groot/groot](https://github.com/dns-groot/groot) - Static verification tool for DNS zone files
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
@@ -1752,7 +1752,7 @@
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/spyglass-search/spyglass)
-- [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
+- [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
