@@ -134,7 +134,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! Say adiós to ugly aliases and one-liners. 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way! Cut, copy, and paste anything, anytime, anywhere. 😄
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [dns-groot/groot](https://github.com/dns-groot/groot) - Static verification tool for DNS zone files
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
@@ -1350,6 +1350,7 @@
 
 ## Python 
 
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - Self hosted workplace search engine
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [agustinmista/vibrant_deck_cli](https://github.com/agustinmista/vibrant_deck_cli) - A simple command line utility to tweak the screen saturation of the Steam Deck
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
