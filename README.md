@@ -1350,14 +1350,14 @@
 
 ## Python 
 
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - Self hosted workplace search engine
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - Self hosted AI workplace search engine
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [agustinmista/vibrant_deck_cli](https://github.com/agustinmista/vibrant_deck_cli) - A simple command line utility to tweak the screen saturation of the Steam Deck
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [CarlyAmar/TownHallScraper](https://github.com/CarlyAmar/TownHallScraper) - I made a scraper that will allow me to analyze the VA town hall comments on https://townhall.virginia.gov/L/Comments.cfm?GdocForumID=1953
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
 - [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
 - [LukeShortCloud/rootpages](https://github.com/LukeShortCloud/rootpages) - Root Pages is a collection of easy-to-reference tutorials and guides primarily for Linux and other UNIX-like systems.
