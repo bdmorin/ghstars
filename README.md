@@ -134,7 +134,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort 𝘁𝗵𝗲 𝗲𝗮𝘀𝘆 𝘄𝗮𝘆! Cut, copy, and paste anything, anytime, anywhere. 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [dns-groot/groot](https://github.com/dns-groot/groot) - Static verification tool for DNS zone files
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
@@ -271,7 +271,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) - ☠️ The Pathwar Project ☠️
-- [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
@@ -1350,7 +1350,7 @@
 
 ## Python 
 
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - ChatGPT search engine for workplaces
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 ChatGPT search engine for your organization. 🔎
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [agustinmista/vibrant_deck_cli](https://github.com/agustinmista/vibrant_deck_cli) - A simple command line utility to tweak the screen saturation of the Steam Deck
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
@@ -1761,7 +1761,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [mrshmllow/gh-cal](https://github.com/mrshmllow/gh-cal) - View your github contribution calander in unicode.
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
-- [nadavrot/layout](https://github.com/nadavrot/layout) - Layout is a rust library and a command line tool that renders Graphviz dot files.
+- [nadavrot/layout](https://github.com/nadavrot/layout) - Layout is a rust library and a tool that renders Graphviz dot files.
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [OJFord/amail](https://github.com/OJFord/amail) - AWS-hosted personal email system: sending, receiving, storage, and forwarding (relaying). `notmuch` client. JMAP server WIP.
