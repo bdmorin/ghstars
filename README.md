@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [krupkat/xpano](https://github.com/krupkat/xpano) - Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [dns-groot/groot](https://github.com/dns-groot/groot) - Static verification tool for DNS zone files
@@ -1354,7 +1355,7 @@
 
 ## Python 
 
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [agustinmista/vibrant_deck_cli](https://github.com/agustinmista/vibrant_deck_cli) - A simple command line utility to tweak the screen saturation of the Steam Deck
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
