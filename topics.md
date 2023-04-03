@@ -221,7 +221,7 @@
 ## ai 
 
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
