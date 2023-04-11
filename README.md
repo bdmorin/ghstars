@@ -139,7 +139,7 @@
 ## C++ 
 
 - [krupkat/xpano](https://github.com/krupkat/xpano) - Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy 🪄🌟
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy :rocket:
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [dns-groot/groot](https://github.com/dns-groot/groot) - Static verification tool for DNS zone files
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
@@ -743,7 +743,7 @@
 - [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [gmattie/Data-Pixels](https://github.com/gmattie/Data-Pixels) - Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.
 - [e1ven/Robohash](https://github.com/e1ven/Robohash) - RoboHash.org
-- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Data portal framework in modern Javascript.
+- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [wesbos/Learn-Node](https://github.com/wesbos/Learn-Node) - Starter Files + Stepped Solutions for the Learn Node course
 - [mozilla/fathom](https://github.com/mozilla/fathom) - A framework for extracting meaning from web pages
 - [DextApp/dext](https://github.com/DextApp/dext) - 🔍 A smart launcher. Powered by JavaScript.
