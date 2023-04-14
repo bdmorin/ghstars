@@ -1746,7 +1746,6 @@
 - [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
-- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [romulomourao/awesome-courses](https://github.com/romulomourao/awesome-courses) - :smirk: :page_facing_up: An awesome list of educational websites, YouTube playlists, channels and books about programming
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1817,7 +1816,7 @@
 
 ## home-assistant 
 
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [pschmitt/hass-config](https://github.com/pschmitt/hass-config) - Configuration files for Home Assistant
 
 ## homebrew 
@@ -2242,6 +2241,7 @@
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [iridakos/elman](https://github.com/iridakos/elman) - Full text searching Linux man pages with Elasticsearch :penguin:
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [kelyvin/Google-Allo-For-Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Allo
