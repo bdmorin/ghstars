@@ -6,7 +6,6 @@
 ## Contents
 
 - [AppleScript](#applescript)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [C](#c)
@@ -65,10 +64,6 @@
 ## AppleScript 
 
 - [apaszke/termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -1039,7 +1034,7 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2023. with learning resources
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -1147,7 +1142,7 @@
 - [soheilpro/catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
 - [sonofagl1tch/Work_Portfolio](https://github.com/sonofagl1tch/Work_Portfolio) - This directory will contain copies of all of my public speaking presentations and blog posts
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [sw-yx/awesome-dev-podcasts](https://github.com/sw-yx/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
+- [swyxio/awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
 - [nezaj/code-camp-guide](https://github.com/nezaj/code-camp-guide) - My e-book on how to get into a programming bootcamp
 - [cullery/bucks911data](https://github.com/cullery/bucks911data) - Five years of 911 data for Bucks County Pennsylvania with python script to parse text file to spreadsheet
 - [lenadroid/awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors) - List of OSS contributors willing to help others with their first pull requests!
@@ -2118,6 +2113,7 @@
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [rhysd/Mstdn](https://github.com/rhysd/Mstdn) - Tiny web-based mastodon client for your desktop
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
