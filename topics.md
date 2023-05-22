@@ -741,6 +741,7 @@
 
 ## chatgpt 
 
+- [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -825,6 +826,7 @@
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [alaminopu/kctl](https://github.com/alaminopu/kctl) - A CLI wrapper for making kubernetes commands much easier
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another fancy watcher. (Rust)
 - [lukechilds/htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
