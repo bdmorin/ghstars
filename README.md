@@ -1634,7 +1634,7 @@
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [warpling/Macmoji](https://github.com/warpling/Macmoji) - Slack/GitHub/Trello emoji for your mac! 😁 💥 💻
 - [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server) - (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [inAudible-NG/audible-activator](https://github.com/inAudible-NG/audible-activator) - Retrieves your activation data (activation_bytes) from Audible servers. Using https://github.com/inAudible-NG/tables project instead is recommended.
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [hopsoft/docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) - Docker image for Graphite & Statsd
