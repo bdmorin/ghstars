@@ -1781,7 +1781,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
-- [kadekillary/scraping-with-rust](https://github.com/kadekillary/scraping-with-rust) - 👾 scraping hacker news with rust
+- [kxzk/scraping-with-rust](https://github.com/kxzk/scraping-with-rust) - 👾 scraping hacker news with rust
 - [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native) - Truly cross platform, truly native. multiple backend GUI for rust
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
