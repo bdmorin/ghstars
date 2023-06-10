@@ -3970,7 +3970,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [kadekillary/scraping-with-rust](https://github.com/kadekillary/scraping-with-rust) - 👾 scraping hacker news with rust
+- [kxzk/scraping-with-rust](https://github.com/kxzk/scraping-with-rust) - 👾 scraping hacker news with rust
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
