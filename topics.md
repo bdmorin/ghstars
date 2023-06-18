@@ -1468,7 +1468,7 @@
 - [realeroberto/gitty](https://github.com/realeroberto/gitty) - A GitHub client in Bash.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
-- [cuuupid/awesome-lists](https://github.com/cuuupid/awesome-lists) - A curated list of curated lists.
+- [cuuupid/awesome-lists](https://github.com/cuuupid/awesome-lists) - [DEPRECATED] A curated list of curated lists.
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
