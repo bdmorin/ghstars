@@ -1990,7 +1990,7 @@
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [adamisntdead/DevMyMac](https://github.com/adamisntdead/DevMyMac) - ✨ ✨ A Simple Tool To Setup A Mac for Development✨✨
-- [eustasy/Bubbly](https://github.com/eustasy/Bubbly) - Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
+- [eustasy/Bubbly](https://github.com/eustasy/Bubbly) - BASH: Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
 - [serialphotog/winbuntu](https://github.com/serialphotog/winbuntu) - Makes creating and managing a Linux environment through the Windows 10 WSL easy
 - [lukechilds/gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash 👌
