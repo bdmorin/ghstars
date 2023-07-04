@@ -2690,6 +2690,7 @@
 
 ## others 
 
+- [laurencedawson/sync-lemmy](https://github.com/laurencedawson/sync-lemmy) - 
 - [Gian77/Cecilia](https://github.com/Gian77/Cecilia) - usearCh basEd ampliCon pIpeLine for Illumina dAta
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) - Use cURL with cookies from Chrome
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
@@ -3281,7 +3282,7 @@
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [ianmiell/bad-dockerfile](https://github.com/ianmiell/bad-dockerfile) - A Dockerfile that creates an image with known vulnerabilities.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [eustasy/Bubbly](https://github.com/eustasy/Bubbly) - Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
+- [eustasy/Bubbly](https://github.com/eustasy/Bubbly) - BASH: Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
 - [Servers-for-Hackers/ansible-infrastructure](https://github.com/Servers-for-Hackers/ansible-infrastructure) - Consolidated Repository of Ansible Roles
 - [lo-tp/MeteorN](https://github.com/lo-tp/MeteorN) - MeteorN - A Simple Tool to Run Meteor App with an Nginx Reverse Proxy
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
