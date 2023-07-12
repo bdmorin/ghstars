@@ -351,7 +351,7 @@
 - [imfht/fiche-golang](https://github.com/imfht/fiche-golang) - fiche-golang is a simple golang version of  fiche. Allow you paste everything to termbin.co use cat file.[png|txt|jpg] | nc termbin.co 9999
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [ofabry/go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
+- [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
