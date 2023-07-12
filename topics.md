@@ -1607,7 +1607,7 @@
 - [firefart/gochro](https://github.com/firefart/gochro) - Take screenshots of websites and create PDF from HTML pages using chromium and docker
 - [cyberark/summon](https://github.com/cyberark/summon) - CLI that provides on-demand secrets access for common DevOps tools
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [ofabry/go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
+- [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
