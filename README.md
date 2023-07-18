@@ -833,7 +833,7 @@
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [tav/asciinema2gif](https://github.com/tav/asciinema2gif) - Generate animated GIFs from asciinema terminal recordings
-- [mdaines/viz-js](https://github.com/mdaines/viz-js) - A hack to put Graphviz on the web.
+- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser!
 - [geek-at/http2pic](https://github.com/geek-at/http2pic) - Simple API for creating screenshots of websites
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Your browser, your page, your scripts!
