@@ -107,7 +107,7 @@
 - [petewarden/openheatmap](https://github.com/petewarden/openheatmap) - A web renderer for geographic heat maps, using OpenStreetMap compatible file formats
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [quiet/org.quietmodem.Quiet](https://github.com/quiet/org.quietmodem.Quiet) - Quiet for Android - TCP over sound
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [ellson/MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz
 - [TheNewNormal/libxhyve](https://github.com/TheNewNormal/libxhyve) - Use xhyve from Go (OS X only)
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
