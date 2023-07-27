@@ -1928,7 +1928,7 @@
 - [ZephrFish/DockerAttack](https://github.com/ZephrFish/DockerAttack) - Various Tools and Docker Images
 - [sonofagl1tch/randomScripts](https://github.com/sonofagl1tch/randomScripts) - this directory will contain random scripts I write for various uses
 - [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation
-- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [Peter-Moller/open-ports](https://github.com/Peter-Moller/open-ports) - A bash-script for OS X and Linux detailing the open network connections to and from a computer
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
