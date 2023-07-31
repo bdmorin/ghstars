@@ -2694,6 +2694,7 @@
 
 ## others 
 
+- [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [laurencedawson/sync-lemmy](https://github.com/laurencedawson/sync-lemmy) - 
 - [Gian77/Cecilia](https://github.com/Gian77/Cecilia) - usearCh basEd ampliCon pIpeLine for Illumina dAta
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) - Use cURL with cookies from Chrome
