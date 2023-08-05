@@ -142,7 +142,6 @@
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mkeeter/antimony](https://github.com/mkeeter/antimony) - CAD from a parallel universe
 - [prusa3d/Prusa-Firmware](https://github.com/prusa3d/Prusa-Firmware) - Firmware for Original Prusa i3 3D printer by PrusaResearch
 - [meganz/sdk](https://github.com/meganz/sdk) - MEGA C++ SDK
@@ -780,7 +779,6 @@
 - [alexadam/save-as-ebook](https://github.com/alexadam/save-as-ebook) - Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension
 - [DrewML/GifHub](https://github.com/DrewML/GifHub) - Quickly insert GIFs in GitHub comments
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [cvan/fastHAR-api](https://github.com/cvan/fastHAR-api) - an API server that returns aggregated data from HTTP Archive (HAR) data from captured network traffic
 - [m-kraus/HolyGhost](https://github.com/m-kraus/HolyGhost) - HolyGhost is a plugin for nagios and similar monitoring tools like icinga, naemon or shinken.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
@@ -1080,7 +1078,6 @@
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - A repository of data on coronavirus cases and deaths in the U.S.
-- [lorien/awesome-python-dev](https://github.com/lorien/awesome-python-dev) - List of tools for debugging, profiling and analyzing python programs.
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [alexellis/quickstart-prometheus](https://github.com/alexellis/quickstart-prometheus) - Quickstart for Prometheus
@@ -1828,6 +1825,7 @@
 
 ## Scala 
 
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 
 ## Shell 
@@ -2128,6 +2126,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
