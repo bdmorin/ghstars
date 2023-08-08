@@ -286,7 +286,7 @@
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [amitsaha/gitbackup](https://github.com/amitsaha/gitbackup) - Tool to backup your Bitbucket, GitHub and GitLab repositories
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP & API requests with TUI
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -495,7 +495,6 @@
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [Photonsters/anycubic-photon-docs](https://github.com/Photonsters/anycubic-photon-docs) - This repo  aims to collect curate and compile information on anycubic photon hardware software and use
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [lorien/crawler](https://github.com/lorien/crawler) - Web Scraping Framework
 - [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans™
 - [beakerbrowser/explore](https://github.com/beakerbrowser/explore) - A curated list of peer-to-peer websites and apps
 - [honze-net/nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - A Nmap XSL implementation with Bootstrap.
@@ -779,6 +778,7 @@
 - [alexadam/save-as-ebook](https://github.com/alexadam/save-as-ebook) - Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension
 - [DrewML/GifHub](https://github.com/DrewML/GifHub) - Quickly insert GIFs in GitHub comments
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [cvan/fastHAR-api](https://github.com/cvan/fastHAR-api) - an API server that returns aggregated data from HTTP Archive (HAR) data from captured network traffic
 - [m-kraus/HolyGhost](https://github.com/m-kraus/HolyGhost) - HolyGhost is a plugin for nagios and similar monitoring tools like icinga, naemon or shinken.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
@@ -1350,7 +1350,7 @@
 
 ## Python 
 
-- [aorumbayev/autogpt4all](https://github.com/aorumbayev/autogpt4all) - 🛠️ A user-friendly bash script that swiftly sets up and configures your LocalAI server with the GPT4All model for free! 💸
+- [aorumbayev/autogpt4all](https://github.com/aorumbayev/autogpt4all) - 🛠️ User-friendly bash script for setting up and configuring your LocalAI server with the GPT4All for free! 💸
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [agustinmista/vibrant_deck_cli](https://github.com/agustinmista/vibrant_deck_cli) - Tweak the screen saturation of the Steam Deck from the command line
@@ -1536,7 +1536,7 @@
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
-- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [catherinedevlin/ipython-sql](https://github.com/catherinedevlin/ipython-sql) - %%sql magic for IPython, hopefully evolving into full SQL client
 - [1-Sisyphe/youCanCodeAGif](https://github.com/1-Sisyphe/youCanCodeAGif) - Can you make an High Quality Gif from A to Z only by coding? Yes. Do you want to, though?
@@ -2126,7 +2126,6 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
