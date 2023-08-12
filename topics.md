@@ -2273,7 +2273,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [kelyvin/Google-Allo-For-Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Allo
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
-- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
@@ -3195,7 +3195,7 @@
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [lmatteis/torrent-net](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
-- [sickill/bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
+- [ku1ik/bitpocket](https://github.com/ku1ik/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [suside/ssh-crypt](https://github.com/suside/ssh-crypt) - :lock: Share AES-256 encrypted vault file with your teammates using only ssh authorized_keys!
@@ -4398,7 +4398,7 @@
 - [cormacrelf/terraform-provider-zerotier](https://github.com/cormacrelf/terraform-provider-zerotier) - Create, modify and destroy ZeroTier networks and members through Terraform.
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## testing 
 
