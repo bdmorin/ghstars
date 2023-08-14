@@ -2200,7 +2200,7 @@
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## latex 
 
@@ -3595,7 +3595,7 @@
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
 - [wckr/wocker](https://github.com/wckr/wocker) - Create your WordPress development environment in 3 SECONDS!
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [kassner/log-parser](https://github.com/kassner/log-parser) - PHP Web Server Log Parser Library
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
@@ -4499,7 +4499,7 @@
 
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## web 
 
