@@ -1179,7 +1179,7 @@
 - [fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [epcim/awesome-sysadmin2](https://github.com/epcim/awesome-sysadmin2) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [Citrix-TechSpecialist/Docker-101](https://github.com/Citrix-TechSpecialist/Docker-101) - This repository walks students though how to get started with Docker and basic Docker commands.
 - [cullery/bucksems](https://github.com/cullery/bucksems) - ems data for Bucks County
@@ -1380,7 +1380,7 @@
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [jteppinette/python-logfmter](https://github.com/jteppinette/python-logfmter) - Using the stdlib logging module and without changing a single logging call, logfmter supports global (first and third party) logfmt structured logging.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
-- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [bethgelab/slurm-monitoring-public](https://github.com/bethgelab/slurm-monitoring-public) - Monitor your high performance infrastructure configured over slurm using TIG stack
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
