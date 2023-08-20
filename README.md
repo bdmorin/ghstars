@@ -1974,7 +1974,7 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [rerun/rerun](https://github.com/rerun/rerun) - Core rerun. See also http://github.com/rerun-modules
-- [Xeoncross/macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
+- [xeoncross/macappshell](https://github.com/xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [fastos/tcpdive](https://github.com/fastos/tcpdive) - A TCP performance profiling tool.
@@ -2055,7 +2055,7 @@
 
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
 - [TimMikeladze/gist-database](https://github.com/TimMikeladze/gist-database) - ✨ Transform gist into your personal key/value datastore. 💡Pair this with Next.js static sites and incremental static regeneration. Built with TypeScript.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
