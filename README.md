@@ -135,7 +135,7 @@
 ## C++ 
 
 - [krupkat/xpano](https://github.com/krupkat/xpano) - Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [dns-groot/groot](https://github.com/dns-groot/groot) - Static verification tool for DNS zone files
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
@@ -299,7 +299,7 @@
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, ChromeOS, AWS, Google Cloud, Azure, data center, containers, IoT)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [lucasepe/jumble](https://github.com/lucasepe/jumble) - Create (not just) diagrams stitching, connecting  and labelling images on a grid using HCL syntax (like terraform!).
@@ -587,7 +587,7 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
-- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
@@ -974,7 +974,6 @@
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -1107,7 +1106,6 @@
 - [quassnoi/explain-extended-2019](https://github.com/quassnoi/explain-extended-2019) - Explain Extended New Year 2019 post: a GIF decoder in SQL
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) - bots, clients and other software people have made for hack.chat
-- [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [bdmorin/awesome-3d-printing](https://github.com/bdmorin/awesome-3d-printing) - A curated list of awesome 3D printing resources. Old list appears to be abandoned.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
@@ -1247,6 +1245,7 @@
 - [cryptostorm/cryptostorm_client_configuration_files](https://github.com/cryptostorm/cryptostorm_client_configuration_files) - cryptostorm client configs
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [sparr/graphviz-polycule](https://github.com/sparr/graphviz-polycule) - An example for generating a graphical representation of complicated interpersonal relationship structures using the graphviz tools.
@@ -1339,6 +1338,7 @@
 
 - [stank58/Powershell-Scripts](https://github.com/stank58/Powershell-Scripts) - Helpful list of powershell scripts I have found/created
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+- [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [andydeangelis/Windows-Hot-Fix-Report](https://github.com/andydeangelis/Windows-Hot-Fix-Report) - A PowerShell tool that can query multiple Windows computers to retrieve a list of hotfixes (with IntalledON and InstalledBy properties), which then builds the resultant data into an Excel spreadsheet.
 - [Hackplayers/ReverseShell](https://github.com/Hackplayers/ReverseShell) - A simple PowerShell script that we can use for easing the process of creating a reverse shell and automating Meterpreter update
 - [azsk/DevOpsKit-docs](https://github.com/azsk/DevOpsKit-docs) - 
