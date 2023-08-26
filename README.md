@@ -1303,7 +1303,7 @@
 - [bastianallgeier/letter](https://github.com/bastianallgeier/letter) - Letter is a simple, highly customizable tool to create letters in your browser.
 - [bemosior/PHPasswordPusher](https://github.com/bemosior/PHPasswordPusher) - PHPasswordPusher is a PHP port of the PasswordPusher project, which provides a more secure method for sharing sensitive information (like passwords) with others. It operates on the principal that usin
 - [BillKeenan/dead-drop](https://github.com/BillKeenan/dead-drop) - secure text sender, generates a 1-time link and password. stores encrypted in mongo
-- [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
+- [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB) - Free database of geographic place names and corresponding geospatial data
@@ -1749,7 +1749,7 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
-- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
+- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
@@ -2093,7 +2093,7 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [sidevesh/quark-carlo](https://github.com/sidevesh/quark-carlo) - Convert any web app into native app, without electron, using carlo by GoogleChromeLabs
 - [graphql-editor/diagram](https://github.com/graphql-editor/diagram) - ☊ Tool for making node graphs. Inspired by dependency graph. Used mainly for automation services  📈
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
 - [JP1016/Paper](https://github.com/JP1016/Paper) - 🚀A "no-cloud" note taking app with "networkless" sharing. https://paperapp.now.sh
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
