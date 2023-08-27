@@ -1395,7 +1395,7 @@
 - [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-- [LameLemon/scrapers](https://github.com/LameLemon/scrapers) - Collection of scrapers for various websites
+- [PeskyPotato/scrapers](https://github.com/PeskyPotato/scrapers) - Collection of scrapers for various websites
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [rackerlabs/scantron](https://github.com/rackerlabs/scantron) - A distributed nmap / masscan scanning framework complete with scan scheduling, engine pooling, subsequent scan port diff-ing, and an API client for automation workflows.
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
@@ -1880,7 +1880,7 @@
 - [dimafeng/dotfiles](https://github.com/dimafeng/dotfiles) - 
 - [amolkokje/elk-docker](https://github.com/amolkokje/elk-docker) - 
 - [dperson/openvpn-client](https://github.com/dperson/openvpn-client) - 
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [ahembree/hms-docker](https://github.com/ahembree/hms-docker) - Home Media Server orchestration running on Docker containers with an automated setup script for Ubuntu 18.04 LTS.
 - [hozza/tmux-hints](https://github.com/hozza/tmux-hints) - ☕️ Automatically show a cheat sheet or notes for any command focused in tmux. e.i. Show vim, zsh, tmux notes/key-combos in a pane automatically while you're using them.
 - [fastily/autobots](https://github.com/fastily/autobots) - ⚡️ Scripts & dotfiles for automation and/or bootstrapping new system setup
