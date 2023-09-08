@@ -787,6 +787,7 @@
 
 ## cli 
 
+- [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -1732,6 +1733,7 @@
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [UnchartedBull/OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
@@ -2132,6 +2134,7 @@
 
 ## kubernetes 
 
+- [substratusai/substratus](https://github.com/substratusai/substratus) - Deploy and finetune LLMs on K8s
 - [replicatedhq/outdated](https://github.com/replicatedhq/outdated) - Kubectl plugin to find and report outdated images running in a Kubernetes cluster
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2023. with learning resources
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
@@ -2228,6 +2231,7 @@
 
 ## linux 
 
+- [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2023. with learning resources
@@ -2458,6 +2462,7 @@
 
 ## monitoring 
 
+- [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -2703,6 +2708,8 @@
 
 ## others 
 
+- [PacktPublishing/Linux-Service-Management-Made-Easy-with-systemd](https://github.com/PacktPublishing/Linux-Service-Management-Made-Easy-with-systemd) - systemd - Linux Service Management Made Easy, Published by Packt
+- [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [femnad/fish-gcloud-completions](https://github.com/femnad/fish-gcloud-completions) - gcloud completions for Fish shell
 - [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
@@ -3431,7 +3438,7 @@
 - [sahat/tvshow-tracker](https://github.com/sahat/tvshow-tracker) - AngularJS + Node + Gulp + Mongoose + Passport Authentication + TVDB API
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [gajus/swing](https://github.com/gajus/swing) - A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPageTest
+- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [mhils/HoneyProxy](https://github.com/mhils/HoneyProxy) - This project is now part of @mitmproxy.
 - [vodik/envoy](https://github.com/vodik/envoy) - A ssh/gpg-agent wrapper leveraging cgroups and systemd/socket activation
 - [subrosa-io/subrosa-client](https://github.com/subrosa-io/subrosa-client) - Secure, end to end encrypted messaging, voice and video chats.
