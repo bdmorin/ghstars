@@ -350,7 +350,7 @@
 - [firefart/gochro](https://github.com/firefart/gochro) - Take screenshots of websites and create PDF from HTML pages using chromium and docker
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [rexray/rexray](https://github.com/rexray/rexray) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [cyberark/summon](https://github.com/cyberark/summon) - CLI that provides on-demand secrets access for common DevOps tools
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
