@@ -1351,7 +1351,6 @@
 - [andydeangelis/Windows-Hot-Fix-Report](https://github.com/andydeangelis/Windows-Hot-Fix-Report) - A PowerShell tool that can query multiple Windows computers to retrieve a list of hotfixes (with IntalledON and InstalledBy properties), which then builds the resultant data into an Excel spreadsheet.
 - [Hackplayers/ReverseShell](https://github.com/Hackplayers/ReverseShell) - A simple PowerShell script that we can use for easing the process of creating a reverse shell and automating Meterpreter update
 - [azsk/DevOpsKit-docs](https://github.com/azsk/DevOpsKit-docs) - 
-- [burntmacncheese/RemoteVulnAuditing](https://github.com/burntmacncheese/RemoteVulnAuditing) - So this is a pretty simple thing I hacked together, I just wanted to post it in case somebody can use it.  I broke down the SpeculationControl module that was released by Microsoft and took the script
 
 ## Puppet 
 
