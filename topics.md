@@ -3644,7 +3644,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [unosquare/passcore](https://github.com/unosquare/passcore) - A self-service password management tool for Active Directory
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-- [burntmacncheese/RemoteVulnAuditing](https://github.com/burntmacncheese/RemoteVulnAuditing) - So this is a pretty simple thing I hacked together, I just wanted to post it in case somebody can use it.  I broke down the SpeculationControl module that was released by Microsoft and took the script
 
 ## programming 
 
