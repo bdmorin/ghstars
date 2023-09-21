@@ -1147,7 +1147,7 @@
 
 ## docker 
 
-- [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout) - Dockerized Freescout Helpdesk
+- [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout) - Dockerized Helpdesk
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2023. with learning resources
@@ -1581,7 +1581,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -1970,7 +1970,7 @@
 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -2201,14 +2201,14 @@
 
 ## laravel 
 
-- [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout) - Dockerized Freescout Helpdesk
+- [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout) - Dockerized Helpdesk
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [kimmelsg/cj-google-geocoder](https://github.com/kimmelsg/cj-google-geocoder) - 
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 
 ## latex 
 
@@ -2709,6 +2709,7 @@
 
 ## others 
 
+- [ajslater/codex](https://github.com/ajslater/codex) - Codex is a web based comic archive browser and reader
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [GoogleCloudPlatform/cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [PacktPublishing/Linux-Service-Management-Made-Easy-with-systemd](https://github.com/PacktPublishing/Linux-Service-Management-Made-Easy-with-systemd) - systemd - Linux Service Management Made Easy, Published by Packt
@@ -3608,7 +3609,6 @@
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
 - [wckr/wocker](https://github.com/wckr/wocker) - Create your WordPress development environment in 3 SECONDS!
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [kassner/log-parser](https://github.com/kassner/log-parser) - PHP Web Server Log Parser Library
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
@@ -3624,7 +3624,7 @@
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -3682,7 +3682,7 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2023. with learning resources
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
@@ -3885,7 +3885,7 @@
 ## react 
 
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [btzr-io/Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -4510,7 +4510,6 @@
 
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## web 
 
