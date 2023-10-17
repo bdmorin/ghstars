@@ -1441,6 +1441,7 @@
 
 ## git 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [sadanandpai/git-guide](https://github.com/sadanandpai/git-guide) - Practical guide to everyday Git commands
@@ -1715,6 +1716,7 @@
 
 ## hacktoberfest 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [krupkat/xpano](https://github.com/krupkat/xpano) - Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.
@@ -2509,7 +2511,7 @@
 - [rapidloop/statsd-vis](https://github.com/rapidloop/statsd-vis) - Standalone StatsD server with built-in visualization
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
-- [monitoringartist/grafana-xxl](https://github.com/monitoringartist/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
+- [pozgo/grafana-xxl](https://github.com/pozgo/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
 - [monitoringartist/kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) - :package: Kubernetes Zabbix/Grafana cluster (bare metal, Google Computer Engine - GCE, Google Container Engine - GKE)
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
