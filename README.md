@@ -235,7 +235,7 @@
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
-- [monitoringartist/grafana-xxl](https://github.com/monitoringartist/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
+- [pozgo/grafana-xxl](https://github.com/pozgo/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
 - [ianmiell/bad-dockerfile](https://github.com/ianmiell/bad-dockerfile) - A Dockerfile that creates an image with known vulnerabilities.
 - [pires/kubernetes-elk-cluster](https://github.com/pires/kubernetes-elk-cluster) - ELK (Elasticsearch + Logstash + Kibana) cluster on top of Kubernetes made easy.
 - [firecat53/dockerfiles](https://github.com/firecat53/dockerfiles) - Dockerfiles: Gollum, Jackett, Miniflux, Nginx/PHP-FPM, Plex, Privatebin, Qbittorrent, Radarr, Sabnzbd, Samba, SSH Socks Proxy server, Sonarr, Syncthing, Transmission, Unifi Controller.
@@ -585,6 +585,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
