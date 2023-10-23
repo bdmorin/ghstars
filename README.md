@@ -29,6 +29,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -964,6 +965,10 @@
 - [jnaulty/scrape_book](https://github.com/jnaulty/scrape_book) - iPython Notebook Web Scraping w/Requests and BeautifulSoup
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
 
+## Kotlin 
+
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
+
 ## Less 
 
 - [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
@@ -1840,7 +1845,6 @@
 
 ## Scala 
 
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 
 ## Shell 
