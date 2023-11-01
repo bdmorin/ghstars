@@ -242,7 +242,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform
 - [sotojuan/exchalk](https://github.com/sotojuan/exchalk) - Easier terminal styling
 
 ## G-code 
@@ -673,7 +673,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [vsupalov/docker-puppeteer-dev](https://github.com/vsupalov/docker-puppeteer-dev) - A dockerized Puppeteer development environment, to work with the Headless Chrome Node API locally.
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
 - [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
