@@ -157,6 +157,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
@@ -244,7 +245,7 @@
 
 - [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 
 ## analytics 
 
@@ -1448,7 +1449,7 @@
 
 ## gis 
 
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 
 ## git 
 
@@ -1730,7 +1731,6 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
-- [krupkat/xpano](https://github.com/krupkat/xpano) - Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
@@ -2060,7 +2060,7 @@
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [imgntn/j360](https://github.com/imgntn/j360) - 360 Video and Photo Capture in 4K for Three.js
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [HiFaraz/node-playbook](https://github.com/HiFaraz/node-playbook) - Get started fast with Node.js
@@ -3225,7 +3225,6 @@
 - [gmattie/Data-Pixels](https://github.com/gmattie/Data-Pixels) - Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [HubSpot/BuckyClient](https://github.com/HubSpot/BuckyClient) - Collect performance data from the client
-- [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper
 - [e1ven/Robohash](https://github.com/e1ven/Robohash) - RoboHash.org
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [RickyCook/ssh-forward-unix-socket](https://github.com/RickyCook/ssh-forward-unix-socket) - Forward a Unix socket over SSH
@@ -3425,7 +3424,6 @@
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [dakrone/elasticsearch-in-action](https://github.com/dakrone/elasticsearch-in-action) - Offical code repository for the Elasticsearch in Action book from Manning
 - [bakks/mongo-in-action-code](https://github.com/bakks/mongo-in-action-code) - 
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [rchipka/node-osmosis](https://github.com/rchipka/node-osmosis) - Web scraper for NodeJS
 - [haschek/PubwichFork](https://github.com/haschek/PubwichFork) - PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page.
 - [haschek/Foafpress](https://github.com/haschek/Foafpress) - An open-source PHP web application and presentation engine for RDF data stored in files, e.g. your FOAF profile. It allows you to aggregate and publish data from multiple web sources via Linked Data.
@@ -3614,6 +3612,20 @@
 - [brannondorsey/whonow](https://github.com/brannondorsey/whonow) - A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+## pentesting 
+
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
+- [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
+- [milesrichardson/docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap) - Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq in a minimal alpine Docker container.
+- [xdavidhu/mitmAP](https://github.com/xdavidhu/mitmAP) - 📡 A python program to create a fake AP and sniff data.
+- [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper
 
 ## perl 
 
@@ -4439,6 +4451,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [sananth12/ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
