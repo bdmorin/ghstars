@@ -953,7 +953,7 @@
 - [canclini/worldfeed](https://github.com/canclini/worldfeed) - consuming and visualizing the Satori big RSS feed with Spark and friends
 - [llSourcell/Decentralized_Music](https://github.com/llSourcell/Decentralized_Music) - This is the code for "Decentralized Music" By Siraj Raval
 - [TomAugspurger/PyDataSeattle](https://github.com/TomAugspurger/PyDataSeattle) - For the pandas tutorial at PyData Seattle: https://www.youtube.com/watch?v=otCriSKVV_8
-- [jupyter-attic/dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
+- [jupyter/dashboards](https://github.com/jupyter/dashboards) - [RETIRED] See Voilà as a supported replacement
 - [Justin1st/Fortnite_Heatmap](https://github.com/Justin1st/Fortnite_Heatmap) - Data Science project
 - [Jigsaw-Code/net-analysis](https://github.com/Jigsaw-Code/net-analysis) - Tools, libraries and applications to analyze network measurements and detect interference.
 - [story645/webscraping](https://github.com/story645/webscraping) - DIgital Fellow's WebScraping Tutorials
