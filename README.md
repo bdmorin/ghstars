@@ -1869,7 +1869,7 @@
 - [kissge/k1pwit](https://github.com/kissge/k1pwit) - k1pwit lets you to directly input passwords using 1Password on iTerm2, not via clipboard, just as though you do on Web browsers.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [xxh/xxh-plugin-fish-fisher](https://github.com/xxh/xxh-plugin-fish-fisher) - Fisher xxh-plugin
-- [nickexyz/ntfy-shellscripts](https://github.com/nickexyz/ntfy-shellscripts) - 
+- [nickexyz/ntfy-shellscripts](https://github.com/nickexyz/ntfy-shellscripts) - A few scripts for the amazing ntfy project: (https://github.com/binwiederhier/ntfy)
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [b1f6c1c4/ttyssh](https://github.com/b1f6c1c4/ttyssh) - ssh with tty (serial port) forwarding
