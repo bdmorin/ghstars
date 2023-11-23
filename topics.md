@@ -1103,6 +1103,7 @@
 
 ## design 
 
+- [J0rgeSerran0/Useful-Free-Online-Tools-and-Sites](https://github.com/J0rgeSerran0/Useful-Free-Online-Tools-and-Sites) - Useful free online tools and sites
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [mkeeter/antimony](https://github.com/mkeeter/antimony) - CAD from a parallel universe
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
@@ -2748,6 +2749,8 @@
 
 ## others 
 
+- [Beaujr/nmap_prometheus](https://github.com/Beaujr/nmap_prometheus) - Monitoring house with NMAP / Prometheus
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [seanap/Plex-Audiobook-Guide](https://github.com/seanap/Plex-Audiobook-Guide) - A walkthrough for optimal Audiobook experience using Plex
 - [AtuboDad/playwright_stealth](https://github.com/AtuboDad/playwright_stealth) - playwright stealth
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
@@ -3426,7 +3429,7 @@
 - [josheverett/slack-tableflip](https://github.com/josheverett/slack-tableflip) - (╯°□°）╯︵ ┻━┻
 - [strayptr/memes](https://github.com/strayptr/memes) - Meme up your README files with these markdown one-liners!  Twitch.tv faces, doges, etc.  Works anywhere on GitHub.
 - [jrcharney/kang](https://github.com/jrcharney/kang) - A Linux from Scratch distro for Raspberry Pi users and eventually anyone else who wants to make Linux awesome
-- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [dakrone/elasticsearch-in-action](https://github.com/dakrone/elasticsearch-in-action) - Offical code repository for the Elasticsearch in Action book from Manning
 - [bakks/mongo-in-action-code](https://github.com/bakks/mongo-in-action-code) - 
 - [rchipka/node-osmosis](https://github.com/rchipka/node-osmosis) - Web scraper for NodeJS
