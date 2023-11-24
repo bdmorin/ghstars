@@ -1880,7 +1880,7 @@
 - [b1f6c1c4/unfk](https://github.com/b1f6c1c4/unfk) - Remove all f**ks in your git commit history
 - [slimtoolkit/examples](https://github.com/slimtoolkit/examples) - Minified application examples with different languages and stacks for DockerSlim
 - [jabirali/fish-abbrfile](https://github.com/jabirali/fish-abbrfile) - Fish plugin to cleanly manage abbreviations
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x+
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
