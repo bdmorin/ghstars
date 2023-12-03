@@ -1458,7 +1458,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [jsharkey13/dmarc-monitoring](https://github.com/jsharkey13/dmarc-monitoring) - Tool for monitoring and analysing DMARC aggregate reports for a domain.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
-- [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
+- [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [jar-o/rotvpn](https://github.com/jar-o/rotvpn) - Run a personal VPN in the cloud. And rotate it regularly.
 - [domainaware/checkdmarc](https://github.com/domainaware/checkdmarc) - A parser for SPF and DMARC DNS records
 - [facebookarchive/WEASEL](https://github.com/facebookarchive/WEASEL) - DNS covert channel implant for Red Teams.
