@@ -593,6 +593,7 @@
 
 ## JavaScript 
 
+- [7c/fakefilter](https://github.com/7c/fakefilter) - reliable fake and temp email filter solution for site operators
 - [weebney/tachyon](https://github.com/weebney/tachyon) - Make your site faster than light in &lt;1 minute; instant page loads in 738 bytes
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
