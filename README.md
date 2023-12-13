@@ -292,7 +292,7 @@
 - [nathants/libaws](https://github.com/nathants/libaws) - aws should be easy
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes
@@ -686,7 +686,6 @@
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [shortstack/cloudmapper](https://github.com/shortstack/cloudmapper) - CloudMapper creates network diagrams of AWS environments
-- [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [lokenx/plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
@@ -2152,6 +2151,7 @@
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+- [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
