@@ -1044,6 +1044,7 @@
 
 ## Others 
 
+- [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) - A list of FLOSS games available on Steam (75 so far)
 - [filebot/docs](https://github.com/filebot/docs) - FileBot Documentation
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [J0rgeSerran0/Useful-Free-Online-Tools-and-Sites](https://github.com/J0rgeSerran0/Useful-Free-Online-Tools-and-Sites) - Useful free online tools and sites
@@ -1134,7 +1135,7 @@
 - [bdmorin/awesome-3d-printing](https://github.com/bdmorin/awesome-3d-printing) - A curated list of awesome 3D printing resources. Old list appears to be abandoned.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
-- [foldmap/awsm.fish](https://github.com/foldmap/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [joxji/awsm.fish](https://github.com/joxji/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
@@ -1399,7 +1400,7 @@
 - [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [EdinCitaku/TerminalMuseum](https://github.com/EdinCitaku/TerminalMuseum) - 
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -2045,7 +2046,7 @@
 - [wckr/wocker](https://github.com/wckr/wocker) - Create your WordPress development environment in 3 SECONDS!
 - [jbfink/docker-wordpress](https://github.com/jbfink/docker-wordpress) - Dockerfile and etc for a Wordpress docker image
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [foldmap/fisher](https://github.com/foldmap/fisher) - A plugin manager for Fish
+- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [dmarmor/epichrome](https://github.com/dmarmor/epichrome) - An application and Chrome extension for creating web-based applications that work like standalone Mac apps.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
