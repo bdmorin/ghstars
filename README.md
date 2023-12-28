@@ -247,7 +247,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
 - [sotojuan/exchalk](https://github.com/sotojuan/exchalk) - Easier terminal styling
 
 ## G-code 
@@ -573,7 +573,6 @@
 - [joblift/gitlab-panorama](https://github.com/joblift/gitlab-panorama) - Visualize the latest pipeline-states for your repositories and branches
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 - [yermak/AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Improved AudioBookConverter based on freeipodsoftware release (mp3 to m4b converter)
-- [mcpierce/comixed](https://github.com/mcpierce/comixed) - The ComiXed Digital Comic Management System
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
 - [eliddell1/Project-Blue-Fist](https://github.com/eliddell1/Project-Blue-Fist) - BLE Edition of the original FistBump (portable WPA handshake grabber)
 - [pschweitz/insidelog](https://github.com/pschweitz/insidelog) - [newer] Colorized real-time log viewer with remote tail over SSH support for Windows, Mac and Linux
@@ -594,6 +593,7 @@
 
 ## JavaScript 
 
+- [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
 - [7c/fakefilter](https://github.com/7c/fakefilter) - reliable fake and temp email filter solution for site operators
 - [weebney/tachyon](https://github.com/weebney/tachyon) - Make your site faster than light in &lt;1 minute; instant page loads in 738 bytes
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1466,7 +1466,7 @@
 - [domainaware/checkdmarc](https://github.com/domainaware/checkdmarc) - A parser for SPF and DMARC DNS records
 - [facebookarchive/WEASEL](https://github.com/facebookarchive/WEASEL) - DNS covert channel implant for Red Teams.
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [sio/Makefile.venv](https://github.com/sio/Makefile.venv) - Seamlessly manage Python virtual environment with a Makefile
 - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
@@ -1868,6 +1868,7 @@
 
 ## Shell 
 
+- [tallguyjenks/runes.sh](https://github.com/tallguyjenks/runes.sh) - 🧙 ᚱᚢᚾᛖᛋ.ᛋᚻ
 - [seanap/Plex-Audiobook-Guide](https://github.com/seanap/Plex-Audiobook-Guide) - A walkthrough for optimal Audiobook experience using Plex
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [PacktPublishing/Linux-Service-Management-Made-Easy-with-systemd](https://github.com/PacktPublishing/Linux-Service-Management-Made-Easy-with-systemd) - systemd - Linux Service Management Made Easy, Published by Packt
@@ -2094,6 +2095,7 @@
 
 ## TypeScript 
 
+- [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
@@ -2127,6 +2129,7 @@
 - [UnchartedBull/OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [get-set-fetch/scraper](https://github.com/get-set-fetch/scraper) - Nodejs web scraper. Contains a command line, docker container, terraform module and ansible roles for distributed cloud scraping. Supported databases: SQLite, MySQL, PostgreSQL. Supported headless cli
+- [mcpierce/comixed](https://github.com/mcpierce/comixed) - The ComiXed Digital Comic Management System
 - [maxchehab/phelia](https://github.com/maxchehab/phelia) - ⚡ A reactive Slack application framework.
 - [brentvatne/do-not-star-this-or-you-will-be-fired](https://github.com/brentvatne/do-not-star-this-or-you-will-be-fired) - 
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
@@ -2190,6 +2193,7 @@
 
 ## Vim Script 
 
+- [tallguyjenks/.dotfiles](https://github.com/tallguyjenks/.dotfiles) - My dot files
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
