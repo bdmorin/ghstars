@@ -2771,6 +2771,7 @@
 
 ## others 
 
+- [minimaxir/chatgpt-structured-data](https://github.com/minimaxir/chatgpt-structured-data) - Demos of ChatGPT's function calling/structured data support.
 - [tallguyjenks/.dotfiles](https://github.com/tallguyjenks/.dotfiles) - My dot files
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [filebot/docs](https://github.com/filebot/docs) - FileBot Documentation
