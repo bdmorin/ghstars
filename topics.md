@@ -2771,6 +2771,7 @@
 
 ## others 
 
+- [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
 - [minimaxir/chatgpt-structured-data](https://github.com/minimaxir/chatgpt-structured-data) - Demos of ChatGPT's function calling/structured data support.
 - [tallguyjenks/.dotfiles](https://github.com/tallguyjenks/.dotfiles) - My dot files
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
