@@ -621,7 +621,7 @@
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
 - [ddopson/underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
-- [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper) - 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
+- [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper) - 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡
 - [dedalusj/cloudgram](https://github.com/dedalusj/cloudgram) - Generate diagrams for your cloud architecture using code
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
