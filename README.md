@@ -904,7 +904,7 @@
 - [zeman/perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 - [mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [jerel/devcomo-ember](https://github.com/jerel/devcomo-ember) - Slides for a talk I gave at the DevCoMO meetup in Columbia Missouri
-- [skidding/aufond](https://github.com/skidding/aufond) - A résumé for the modern age
+- [ovidiuch/aufond](https://github.com/ovidiuch/aufond) - A résumé for the modern age
 - [riemann/riemann-dash](https://github.com/riemann/riemann-dash) - An HTTP dashboard for Riemann.
 - [square/cube](https://github.com/square/cube) - Cube: A system for time series visualization.
 - [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
