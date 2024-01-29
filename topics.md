@@ -3566,7 +3566,7 @@
 - [jhvst/dossh](https://github.com/jhvst/dossh) - SSH hostname rules from DigitalOcean droplets (servers)
 - [davidandrewcope/foster](https://github.com/davidandrewcope/foster) - Finds potentially orphaned files in your project.
 - [ianclarksmith/Bossman](https://github.com/ianclarksmith/Bossman) - Menubar task runner for Mac
-- [skidding/aufond](https://github.com/skidding/aufond) - A résumé for the modern age
+- [ovidiuch/aufond](https://github.com/ovidiuch/aufond) - A résumé for the modern age
 - [netmute/meteor.sh](https://github.com/netmute/meteor.sh) - Setup a Meteor server and deploy Meteor apps to it.
 - [square/cube](https://github.com/square/cube) - Cube: A system for time series visualization.
 - [adamhadani/logtools](https://github.com/adamhadani/logtools) - Command-line utilities for working with log files - filtering, sampling, IP-based geolocation, summary statistics etc.
