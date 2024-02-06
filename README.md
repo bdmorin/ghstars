@@ -924,6 +924,7 @@
 - [tautologistics/node-htmlparser](https://github.com/tautologistics/node-htmlparser) - Forgiving HTML/XML/RSS Parser in JS for *both* Node and Browsers
 - [WebVeteran/Elegant-Simple](https://github.com/WebVeteran/Elegant-Simple) - Adium Message Style with custom styled scrollbar
 - [benschmaus/nodeload](https://github.com/benschmaus/nodeload) - HTTP load/traffic generator and benchmark tool built on Node.js
+- [defunkt/facebox](https://github.com/defunkt/facebox) - Facebook-style lightbox, built in jQuery
 
 ## Jinja 
 
@@ -1751,6 +1752,7 @@
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [Docverter/docverter](https://github.com/Docverter/docverter) - Docverter Server
+- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [scalefactory/vagrant-cucumber](https://github.com/scalefactory/vagrant-cucumber) - A Vagrant plugin to allow cucumber to work with VMs.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -1758,6 +1760,7 @@
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
+- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [petems/tugboat](https://github.com/petems/tugboat) - A command line tool for interacting with your DigitalOcean droplets.
 - [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
 - [joemiller/amqpcat](https://github.com/joemiller/amqpcat) - Netcat-like tool for reading and writing messages to AMQP message brokers
