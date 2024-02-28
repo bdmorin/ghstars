@@ -309,7 +309,7 @@
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [lucasepe/jumble](https://github.com/lucasepe/jumble) - Create (not just) diagrams stitching, connecting  and labelling images on a grid using HCL syntax (like terraform!).
@@ -2123,7 +2123,7 @@
 - [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight Knowledge Base and Feed Reader.
 - [mfbx9da4/deep-email-validator](https://github.com/mfbx9da4/deep-email-validator) - Validates regex, typos, disposable, dns and smtp
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
