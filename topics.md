@@ -2816,6 +2816,7 @@
 
 ## others 
 
+- [obeone/simple-cors-proxy](https://github.com/obeone/simple-cors-proxy) - Simple CORS proxy server for seamless cross-origin requests with TypingMind plugin. Easy setup.
 - [gotbletu/fzf-nova](https://github.com/gotbletu/fzf-nova) - fzf as a script launcher, replacement for dmenu or rofi
 - [MdAbedin/slack-emoji-enlarger](https://github.com/MdAbedin/slack-emoji-enlarger) - A command-line tool to enlarge and split an image or gif into tiles and auto-upload each as a slack emoji to create the illusion of an enlarged slack emoji
 - [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
@@ -3947,7 +3948,7 @@
 - [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [RLesser/NetworkScraper](https://github.com/RLesser/NetworkScraper) - A versatile graph explorer for both online and offline networks
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
