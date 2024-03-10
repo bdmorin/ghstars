@@ -593,6 +593,7 @@
 
 ## JavaScript 
 
+- [obeone/simple-cors-proxy](https://github.com/obeone/simple-cors-proxy) - Simple CORS proxy server for seamless cross-origin requests with TypingMind plugin. Easy setup.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
@@ -1585,7 +1586,7 @@
 - [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [RLesser/NetworkScraper](https://github.com/RLesser/NetworkScraper) - A versatile graph explorer for both online and offline networks
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
