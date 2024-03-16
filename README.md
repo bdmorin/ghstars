@@ -84,6 +84,7 @@
 
 ## C 
 
+- [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [prbinu/tls-scan](https://github.com/prbinu/tls-scan) - An Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven )
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
