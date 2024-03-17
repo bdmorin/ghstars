@@ -1384,6 +1384,7 @@
 
 ## Python 
 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [MdAbedin/slack-emoji-enlarger](https://github.com/MdAbedin/slack-emoji-enlarger) - A command-line tool to enlarge and split an image or gif into tiles and auto-upload each as a slack emoji to create the illusion of an enlarged slack emoji
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Provide Prometheus url_sd compatible API Endpoint with data from Netbox
