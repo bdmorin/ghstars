@@ -315,6 +315,7 @@
 
 ## api 
 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -365,6 +366,7 @@
 
 ## automation 
 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -2823,7 +2825,6 @@
 
 ## others 
 
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [obeone/simple-cors-proxy](https://github.com/obeone/simple-cors-proxy) - Simple CORS proxy server for seamless cross-origin requests with TypingMind plugin. Easy setup.
 - [gotbletu/fzf-nova](https://github.com/gotbletu/fzf-nova) - fzf as a script launcher, replacement for dmenu or rofi
 - [MdAbedin/slack-emoji-enlarger](https://github.com/MdAbedin/slack-emoji-enlarger) - A command-line tool to enlarge and split an image or gif into tiles and auto-upload each as a slack emoji to create the illusion of an enlarged slack emoji
@@ -2998,7 +2999,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dimafeng/dotfiles](https://github.com/dimafeng/dotfiles) - 
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
-- [mxplusb/cloudflare-sync](https://github.com/mxplusb/cloudflare-sync) - A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
+- [siennathesane/cloudflare-sync](https://github.com/siennathesane/cloudflare-sync) - A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
 - [samuel/squawk](https://github.com/samuel/squawk) - SQL Query Tool for Static Files
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eats anything, spits out JSON 🧀
 - [amolkokje/elk-docker](https://github.com/amolkokje/elk-docker) - 
@@ -3848,6 +3849,7 @@
 
 ## python 
 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
