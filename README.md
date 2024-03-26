@@ -2115,6 +2115,7 @@
 
 ## TypeScript 
 
+- [dahlia/fedi-badge](https://github.com/dahlia/fedi-badge) - A badge generator for ActivityPub-enabled social media platforms, i.e., fediverse
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
