@@ -445,7 +445,6 @@
 - [myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) - All that you need to create a great mobile web experience
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
-- [bdmorin/awesome-3d-printing](https://github.com/bdmorin/awesome-3d-printing) - A curated list of awesome 3D printing resources. Old list appears to be abandoned.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
@@ -568,7 +567,6 @@
 - [myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) - All that you need to create a great mobile web experience
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
-- [bdmorin/awesome-3d-printing](https://github.com/bdmorin/awesome-3d-printing) - A curated list of awesome 3D printing resources. Old list appears to be abandoned.
 - [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -962,6 +960,7 @@
 
 ## config 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
@@ -1023,6 +1022,7 @@
 
 ## data 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [json-next/awesome-json-next](https://github.com/json-next/awesome-json-next) - A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
@@ -2176,6 +2176,7 @@
 
 ## json 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [json-next/awesome-json-next](https://github.com/json-next/awesome-json-next) - A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More
@@ -2292,6 +2293,7 @@
 
 ## language 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
@@ -3267,7 +3269,7 @@
 - [josephernest/Yopp](https://github.com/josephernest/Yopp) - A very fast way to transfer a file from phone to computer and vice versa.
 - [DobyTang/LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This project isn't finished yet. Goal is to create a SickBeard, CouchPotato, Headphones-like application for ebooks. Headphones is used as a base, so there are still a lot of references to it.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [fstab/grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [arrizer/TVGeek](https://github.com/arrizer/TVGeek) - One-stop TV show bliss.
 - [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) - 
@@ -4852,6 +4854,7 @@
 
 ## xml 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 
