@@ -30,6 +30,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -256,6 +257,7 @@
 
 ## Go 
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [Beaujr/nmap_prometheus](https://github.com/Beaujr/nmap_prometheus) - Monitoring house with NMAP / Prometheus
 - [mgdigital/rarbg-selfhosted](https://github.com/mgdigital/rarbg-selfhosted) - A self-hosted Torznab API for the RARBG backup, compatible with Prowlarr, Radarr, Sonarr etc.
@@ -572,6 +574,7 @@
 
 ## Java 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
 - [joblift/gitlab-panorama](https://github.com/joblift/gitlab-panorama) - Visualize the latest pipeline-states for your repositories and branches
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
@@ -979,6 +982,10 @@
 - [jnaulty/scrape_book](https://github.com/jnaulty/scrape_book) - iPython Notebook Web Scraping w/Requests and BeautifulSoup
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
 
+## Kotlin 
+
+- [apple/pkl-pantry](https://github.com/apple/pkl-pantry) - Shared Pkl packages
+
 ## Less 
 
 - [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
@@ -1056,6 +1063,7 @@
 
 ## Others 
 
+- [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
 - [jamesward/kubernetes-the-easy-way](https://github.com/jamesward/kubernetes-the-easy-way) - Bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
@@ -1148,7 +1156,6 @@
 - [quassnoi/explain-extended-2019](https://github.com/quassnoi/explain-extended-2019) - Explain Extended New Year 2019 post: a GIF decoder in SQL
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) - bots, clients and other software people have made for hack.chat
-- [bdmorin/awesome-3d-printing](https://github.com/bdmorin/awesome-3d-printing) - A curated list of awesome 3D printing resources. Old list appears to be abandoned.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
@@ -1316,7 +1323,7 @@
 
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
-- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [nico3333fr/CSP-useful](https://github.com/nico3333fr/CSP-useful) - Collection of scripts, thoughts about CSP (Content Security Policy)
 - [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -1876,7 +1883,7 @@
 
 ## SCSS 
 
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 
 ## Scala 
