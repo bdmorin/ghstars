@@ -248,7 +248,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [sotojuan/exchalk](https://github.com/sotojuan/exchalk) - Easier terminal styling
 
 ## G-code 
@@ -345,7 +345,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [un000/tailor](https://github.com/un000/tailor) - Tailor, the library for tailing logs under logrotate, written in go.
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [innogames/slaxy](https://github.com/innogames/slaxy) - Sentry webhooks to slack message converter proxy
