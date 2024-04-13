@@ -3153,7 +3153,7 @@
 - [huydx/hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [git-pull/tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [marcosscriven/galeforce](https://github.com/marcosscriven/galeforce) - GaleForce is a project to customise the Google Wifi router
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
+- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
 - [ellisonbg/altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
 - [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries
 - [BryanLunduke/LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) - Linux-themed expansion pack for Cards Against Humanity
