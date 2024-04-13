@@ -1586,7 +1586,7 @@
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
+- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
 - [ellisonbg/altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - A collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.
