@@ -3384,7 +3384,7 @@
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [lmatteis/torrent-net](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [ku1ik/bitpocket](https://github.com/ku1ik/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
