@@ -440,7 +440,7 @@
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [rapidloop/statsd-vis](https://github.com/rapidloop/statsd-vis) - Standalone StatsD server with built-in visualization
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [dan-v/dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
 - [tokozedg/sman](https://github.com/tokozedg/sman) - :bug: Command-line snippet manager
 - [arastu/likelo](https://github.com/arastu/likelo) - Twitter auto like bot, Under Development👷, Pre Alpha
