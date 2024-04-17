@@ -2867,6 +2867,7 @@
 
 ## others 
 
+- [sachaos/binder](https://github.com/sachaos/binder) - Execute commands passed from STDIN, and show log.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [apple/pkl-pantry](https://github.com/apple/pkl-pantry) - Shared Pkl packages
 - [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
