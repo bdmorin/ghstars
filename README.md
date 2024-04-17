@@ -259,6 +259,7 @@
 
 ## Go 
 
+- [sachaos/binder](https://github.com/sachaos/binder) - Execute commands passed from STDIN, and show log.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [Beaujr/nmap_prometheus](https://github.com/Beaujr/nmap_prometheus) - Monitoring house with NMAP / Prometheus
