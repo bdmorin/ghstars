@@ -1404,6 +1404,7 @@
 
 ## Python 
 
+- [simonw/llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter
 - [datasette/datasette-query-assistant](https://github.com/datasette/datasette-query-assistant) - Query databases and tables with AI assistance
 - [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -2130,6 +2131,7 @@
 
 ## TypeScript 
 
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [dahlia/fedi-badge](https://github.com/dahlia/fedi-badge) - A badge generator for ActivityPub-enabled social media platforms, i.e., fediverse
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
