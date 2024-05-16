@@ -2970,6 +2970,7 @@
 
 ## others 
 
+- [shykes/daggerverse](https://github.com/shykes/daggerverse) - My personal collection of Dagger modules
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 - [getsops/sotp](https://github.com/getsops/sotp) - Get TOTP from the command line using TOTP secrets in Sops encrypted files.
