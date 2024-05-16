@@ -262,6 +262,7 @@
 
 ## Go 
 
+- [shykes/daggerverse](https://github.com/shykes/daggerverse) - My personal collection of Dagger modules
 - [timbray/topfew](https://github.com/timbray/topfew) - Finds the field values (or combinations of values) which appear most often in a stream of records.
 - [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
 - [getsops/sotp](https://github.com/getsops/sotp) - Get TOTP from the command line using TOTP secrets in Sops encrypted files.
