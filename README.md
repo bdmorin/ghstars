@@ -243,7 +243,7 @@
 - [pierrecdn/phpipam](https://github.com/pierrecdn/phpipam) - phpIPAM Docker image
 - [tarkalabs/ssh-signer](https://github.com/tarkalabs/ssh-signer) - Using SSH certificates instead of public key authentication.
 - [linuxserver/docker-organizr](https://github.com/linuxserver/docker-organizr) - DEPRECATED
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
 - [pozgo/grafana-xxl](https://github.com/pozgo/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
@@ -1436,6 +1436,7 @@
 
 ## Python 
 
+- [1Password/pulumi-onepassword](https://github.com/1Password/pulumi-onepassword) - Pulumi provider for 1Password.
 - [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai) - An open source alternative to some of Slack AI's premium features. Summarize channels and threads anytime you want.
 - [Deeptechia/geppetto](https://github.com/Deeptechia/geppetto) - Geppetto: Advanced Slack bot using multiple AI models for interactive conversations and creative image generation. Enhances Slack with automated responses and intelligent dialogues, supporting flexibl
 - [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs
@@ -2288,6 +2289,7 @@
 
 ## Vim Script 
 
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [tallguyjenks/.dotfiles](https://github.com/tallguyjenks/.dotfiles) - My dot files
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
