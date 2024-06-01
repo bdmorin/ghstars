@@ -248,7 +248,7 @@
 
 ## ai 
 
-- [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai) - An open source alternative to some of Slack AI's premium features. Summarize channels and threads anytime you want.
+- [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai) - An open source alternative to some of Slack AI's premium features. Summarize channels and threads any time you want.
 - [Deeptechia/geppetto](https://github.com/Deeptechia/geppetto) - Geppetto: Advanced Slack bot using multiple AI models for interactive conversations and creative image generation. Enhances Slack with automated responses and intelligent dialogues, supporting flexibl
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
@@ -2984,6 +2984,8 @@
 
 ## others 
 
+- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper
+- [mbhynes/fzf-gcloud](https://github.com/mbhynes/fzf-gcloud) - Preview the gcloud api with fzf.
 - [actions-hub/gcloud](https://github.com/actions-hub/gcloud) - GitHub Action for interacting with Google Cloud Platform (GCP)
 - [1Password/pulumi-onepassword](https://github.com/1Password/pulumi-onepassword) - Pulumi provider for 1Password.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
