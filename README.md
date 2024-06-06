@@ -66,6 +66,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [Zig](#zig)
 
 ## Adblock Filter List 
 
@@ -2319,6 +2320,10 @@
 
 - [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
 - [vidarh/diagram-tools](https://github.com/vidarh/diagram-tools) - A number of small tools for generating and manipulating diagrams, mostly based around Graphviz
+
+## Zig 
+
+- [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 
 
 ## License
