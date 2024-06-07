@@ -273,7 +273,7 @@
 - [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
 - [getsops/sotp](https://github.com/getsops/sotp) - Get TOTP from the command line using TOTP secrets in Sops encrypted files.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
