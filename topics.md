@@ -1835,6 +1835,7 @@
 
 ## google-cloud 
 
+- [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) - ☁️  Choose the optimal Google Compute Engine machine type or instance in the many Google Cloud Platform regions
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for installing and configuring the gcloud CLI.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 
@@ -3915,6 +3916,7 @@
 
 ## perl 
 
+- [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) - ☁️  Choose the optimal Google Compute Engine machine type or instance in the many Google Cloud Platform regions
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 
 ## php 
