@@ -1158,7 +1158,6 @@
 - [0x4447/0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) - 📫 A serverless email server on AWS using S3 and SES
 - [PacktPublishing/AWS-Administration-Cookbook](https://github.com/PacktPublishing/AWS-Administration-Cookbook) - AWS Administration Cookbook, published by Packt
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [bradydowling/awesome-generated-art](https://github.com/bradydowling/awesome-generated-art) - Libraries and tools that allow you to programmatically create, modify, or convert images
@@ -1417,6 +1416,7 @@
 
 ## Perl 
 
+- [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) - ☁️  Choose the optimal Google Compute Engine machine type or instance in the many Google Cloud Platform regions
 - [curl/h2c](https://github.com/curl/h2c) - headers 2 curl. Provided a set of HTTP request headers, output the curl command line for generating that set. Try the converter online at
 - [superkuh/snoopers-obfuscator](https://github.com/superkuh/snoopers-obfuscator) - A script to give internet users a little more protection from government surveillance
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
@@ -1898,6 +1898,7 @@
 - [lukaspustina/mhost](https://github.com/lukaspustina/mhost) - More than host - A modern take on the classic host DNS lookup utility including an easy to use and very fast Rust lookup library.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
