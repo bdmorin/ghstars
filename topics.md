@@ -45,6 +45,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -1028,6 +1029,14 @@
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [anfederico/cryptoview](https://github.com/anfederico/cryptoview) - Elegant portfolio management for multi-exchange traders
 
+## cryptography 
+
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) - ☠️ The Pathwar Project ☠️
+- [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
+- [BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) - Best Current Practices regarding secure online communication and configuration of services using cryptography.
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
 ## csharp 
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1778,7 +1787,6 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [un000/tailor](https://github.com/un000/tailor) - Tailor, the library for tailing logs under logrotate, written in go.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [innogames/slaxy](https://github.com/innogames/slaxy) - Sentry webhooks to slack message converter proxy
@@ -2062,7 +2070,6 @@
 - [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop. https://bit.ly/ur_demo
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native) - Truly cross platform, truly native. multiple backend GUI for rust
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [Monitorr/logarr](https://github.com/Monitorr/logarr) - “Logarr” is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring.
 - [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
@@ -2177,7 +2184,6 @@
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [schollz/hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
@@ -4848,6 +4854,7 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [ContainerSolutions/terraform-examples](https://github.com/ContainerSolutions/terraform-examples) - Simple and idiomatic examples of various Terraform functions and features.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [cormacrelf/terraform-provider-zerotier](https://github.com/cormacrelf/terraform-provider-zerotier) - Create, modify and destroy ZeroTier networks and members through Terraform.
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
