@@ -30,7 +30,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -48,6 +47,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [PowerShell](#powershell)
 - [Puppet](#puppet)
 - [Python](#python)
@@ -1012,10 +1012,6 @@
 - [jnaulty/scrape_book](https://github.com/jnaulty/scrape_book) - iPython Notebook Web Scraping w/Requests and BeautifulSoup
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
 
-## Kotlin 
-
-- [apple/pkl-pantry](https://github.com/apple/pkl-pantry) - Shared Pkl packages
-
 ## Less 
 
 - [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
@@ -1364,7 +1360,7 @@
 ## PHP 
 
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
-- [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
+- [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [nico3333fr/CSP-useful](https://github.com/nico3333fr/CSP-useful) - Collection of scripts, thoughts about CSP (Content Security Policy)
 - [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd
@@ -1426,6 +1422,10 @@
 - [DivineDominion/nv](https://github.com/DivineDominion/nv) - (Please scroll down for additional info)  Notational Velocity: modeless, mouseless Mac OS X note-taking application, powering MultiMarkdown Preview.
 - [doy/conf](https://github.com/doy/conf) - my configuration files
 - [bestpractical/prophet](https://github.com/bestpractical/prophet) - A disconnected, replicated p2p database -- upstream is now http://gitorious.org/prophet
+
+## Pkl 
+
+- [apple/pkl-pantry](https://github.com/apple/pkl-pantry) - Shared Pkl packages
 
 ## PowerShell 
 
