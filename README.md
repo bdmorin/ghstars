@@ -228,7 +228,7 @@
 
 ## Dart 
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 ## Dockerfile 
 
@@ -1306,7 +1306,6 @@
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [yoshuawuyts/tiny-guide-to-non-fancy-node](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node) - A tiny guide to non fancy, high-value Node.js things
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [vilmibm/lovecraftcorpus](https://github.com/vilmibm/lovecraftcorpus) - H.P. Lovecraft's collected writings
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
@@ -2308,6 +2307,7 @@
 - [Arkham/vimfiles](https://github.com/Arkham/vimfiles) - My Vim setup
 - [sjl/vitality.vim](https://github.com/sjl/vitality.vim) - Make Vim play nicely with iTerm 2 and tmux.
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [frioux/dotfiles](https://github.com/frioux/dotfiles) - 
 - [garethr/dotvim](https://github.com/garethr/dotvim) - My modifications to Adam's uber badass vim setup.
