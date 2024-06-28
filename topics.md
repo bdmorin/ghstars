@@ -517,7 +517,7 @@
 - [tuchk4/awesome-create-react-app](https://github.com/tuchk4/awesome-create-react-app) - Awesome list of Create React App articles / tutorials / videos and FAQ
 - [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -1427,7 +1427,7 @@
 
 ## electron 
 
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -2558,7 +2558,7 @@
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 
 ## mac 
 
@@ -2801,7 +2801,7 @@
 - [spywhere/dotfiles](https://github.com/spywhere/dotfiles) - A cross-platform, modular dotfiles installer for my personal setup
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 
 ## neural-network 
 
@@ -2996,6 +2996,7 @@
 
 ## others 
 
+- [fiatjaf/njump](https://github.com/fiatjaf/njump) - mirror of https://git.njump.me/njump
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
@@ -4292,7 +4293,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [bcongdon/rssfilter](https://github.com/bcongdon/rssfilter) - 🔍 Web service for filtering RSS articles
 - [IQTLabs/CRviz](https://github.com/IQTLabs/CRviz) - Browser-based visualization tool that uses JSON and an interactive enclosure diagram to visualize networks.
@@ -4700,7 +4701,7 @@
 
 ## spacevim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 
 ## sql 
 
@@ -4904,7 +4905,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -4954,7 +4955,7 @@
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [Arkham/vimfiles](https://github.com/Arkham/vimfiles) - My Vim setup
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
 ## visual-studio-code 
