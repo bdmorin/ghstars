@@ -262,6 +262,7 @@
 
 ## Go 
 
+- [fiatjaf/njump](https://github.com/fiatjaf/njump) - mirror of https://git.njump.me/njump
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -2233,7 +2234,7 @@
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [UnchartedBull/OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [get-set-fetch/scraper](https://github.com/get-set-fetch/scraper) - Nodejs web scraper. Contains a command line, docker container, terraform module and ansible roles for distributed cloud scraping. Supported databases: SQLite, MySQL, PostgreSQL. Supported headless cli
 - [mcpierce/comixed](https://github.com/mcpierce/comixed) - The ComiXed Digital Comic Management System
 - [maxchehab/phelia](https://github.com/maxchehab/phelia) - ⚡ A reactive Slack application framework.
@@ -2307,7 +2308,7 @@
 - [Arkham/vimfiles](https://github.com/Arkham/vimfiles) - My Vim setup
 - [sjl/vitality.vim](https://github.com/sjl/vitality.vim) - Make Vim play nicely with iTerm 2 and tmux.
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [frioux/dotfiles](https://github.com/frioux/dotfiles) - 
 - [garethr/dotvim](https://github.com/garethr/dotvim) - My modifications to Adam's uber badass vim setup.
