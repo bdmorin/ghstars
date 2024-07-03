@@ -525,6 +525,7 @@
 
 ## HTML 
 
+- [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -532,7 +533,6 @@
 - [wernight/powerline-web-fonts](https://github.com/wernight/powerline-web-fonts) - Powerline Web Fonts for Chromebook
 - [edgi-govdata-archiving/web-monitoring](https://github.com/edgi-govdata-archiving/web-monitoring) - Documentation and project-wide issues for the Website Monitoring project (a.k.a. "Scanner")
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [opinkerfi/adagios](https://github.com/opinkerfi/adagios) - Adagios - Web Based Nagios Configuration
 - [kalvn/Shaarli-Material](https://github.com/kalvn/Shaarli-Material) - Shaarli Material is a theme for Shaarli, the famous personal, minimalist, super-fast, database free, bookmarking service.
@@ -1447,6 +1447,7 @@
 
 ## Python 
 
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [1Password/pulumi-onepassword](https://github.com/1Password/pulumi-onepassword) - Pulumi provider for 1Password.
 - [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai) - An open source alternative to some of Slack AI's premium features. Summarize channels and threads any time you want.
@@ -1906,6 +1907,7 @@
 - [lukaspustina/mhost](https://github.com/lukaspustina/mhost) - More than host - A modern take on the classic host DNS lookup utility including an easy to use and very fast Rust lookup library.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
