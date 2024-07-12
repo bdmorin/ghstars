@@ -88,6 +88,7 @@
 
 ## C 
 
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
@@ -1449,6 +1450,7 @@
 
 ## Python 
 
+- [ivnvxd/arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [1Password/pulumi-onepassword](https://github.com/1Password/pulumi-onepassword) - Pulumi provider for 1Password.
