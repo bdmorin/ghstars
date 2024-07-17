@@ -89,7 +89,7 @@
 ## C 
 
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [prbinu/tls-scan](https://github.com/prbinu/tls-scan) - An Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven )
@@ -1545,7 +1545,7 @@
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [jayzeng/scrapy-elasticsearch](https://github.com/jayzeng/scrapy-elasticsearch) - A scrapy pipeline which send items to Elastic Search server
-- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
