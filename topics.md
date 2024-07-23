@@ -3240,7 +3240,7 @@
 - [dperson/openvpn-client](https://github.com/dperson/openvpn-client) - 
 - [nefilim/pinger](https://github.com/nefilim/pinger) - simple network latency and packet loss monitor using Grafana and Prometheus
 - [eoprede/prusa_profiles](https://github.com/eoprede/prusa_profiles) - Repo to store profiles for Prusa 3D Printers
-- [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
+- [zmap/zdns](https://github.com/zmap/zdns) - Fast DNS Lookup Library and CLI Tool
 - [ahembree/hms-docker](https://github.com/ahembree/hms-docker) - Home Media Server orchestration running on Docker containers with an automated setup script for Ubuntu 18.04 LTS.
 - [quickwit-oss/tantivy-cli](https://github.com/quickwit-oss/tantivy-cli) - 
 - [raghur/mermaid-filter](https://github.com/raghur/mermaid-filter) - Pandoc filter for creating diagrams in mermaid syntax blocks in markdown docs
