@@ -266,6 +266,7 @@
 
 ## Go 
 
+- [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
 - [michenriksen/chart](https://github.com/michenriksen/chart) - Command-line tool for rendering bar charts that can be displayed directly in the terminal or in text-based files like Markdown.
 - [fiatjaf/njump](https://github.com/fiatjaf/njump) - mirror of https://git.njump.me/njump
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper
@@ -1450,6 +1451,8 @@
 
 ## Python 
 
+- [getmomentum/momentum-core](https://github.com/getmomentum/momentum-core) - visually integration test your backend
+- [muaaz-ur-habibi/G-Scraper](https://github.com/muaaz-ur-habibi/G-Scraper) - A GUI web scraper, written completely in Python
 - [ivnvxd/arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
