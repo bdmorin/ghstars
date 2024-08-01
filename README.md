@@ -477,7 +477,7 @@
 - [arastu/likelo](https://github.com/arastu/likelo) - Twitter auto like bot, Under Development👷, Pre Alpha
 - [suside/ssh-crypt](https://github.com/suside/ssh-crypt) - :lock: Share AES-256 encrypted vault file with your teammates using only ssh authorized_keys!
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
-- [kashav/point](https://github.com/kashav/point) - Shorten URLs with GitHub repositories and the http-equiv attribute.
+- [kashav/go-url-shortener](https://github.com/kashav/go-url-shortener) - Shorten URLs with GitHub repositories and the http-equiv attribute.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
