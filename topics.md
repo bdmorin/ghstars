@@ -1835,7 +1835,7 @@
 - [dan-v/dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
 - [arastu/likelo](https://github.com/arastu/likelo) - Twitter auto like bot, Under Development👷, Pre Alpha
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
-- [kashav/point](https://github.com/kashav/point) - Shorten URLs with GitHub repositories and the http-equiv attribute.
+- [kashav/go-url-shortener](https://github.com/kashav/go-url-shortener) - Shorten URLs with GitHub repositories and the http-equiv attribute.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
