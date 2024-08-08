@@ -1865,7 +1865,6 @@
 - [pkukielka/vagrant-map](https://github.com/pkukielka/vagrant-map) - Vagrant development environment for experimenting with OSM maps and GIS
 - [lusis/chef-logstash](https://github.com/lusis/chef-logstash) - Semi-official Logstash cookbook
 - [jedi4ever/logstash-cli](https://github.com/jedi4ever/logstash-cli) - Commandline interface for logstash
-- [rackerlabs/knife-alamo](https://github.com/rackerlabs/knife-alamo) - Knife plugin for Rackspace Private Cloud Alamo
 - [carlcrott/OpSci](https://github.com/carlcrott/OpSci) - URIs, indexes and RSS feeds of the largest 72 closed-source publishers... and the code to scrape them.
 - [danielpietzsch/Thimblr](https://github.com/danielpietzsch/Thimblr) - Thimblr lets you preview your Tumblr themes right from your favorite editor. It protects your fingers from tedious copy-pasting a theme template into Tumblr's customize tool.
 - [pengwynn/fumblr](https://github.com/pengwynn/fumblr) - Stop fumbling with your Tumblr theme development - mashup of my own process with Thimblr
