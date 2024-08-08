@@ -3862,7 +3862,6 @@
 - [ozten/sudosocial](https://github.com/ozten/sudosocial) - sudo social aims to be the an awesome stream publishing environment, suitable for self-hosted homepages, topic hubs, and distributed social networks.
 - [iloire/watchmen](https://github.com/iloire/watchmen) - A simple node.js service monitor
 - [garethr/dotvim](https://github.com/garethr/dotvim) - My modifications to Adam's uber badass vim setup.
-- [rackerlabs/knife-alamo](https://github.com/rackerlabs/knife-alamo) - Knife plugin for Rackspace Private Cloud Alamo
 - [doy/conf](https://github.com/doy/conf) - my configuration files
 - [carlcrott/OpSci](https://github.com/carlcrott/OpSci) - URIs, indexes and RSS feeds of the largest 72 closed-source publishers... and the code to scrape them.
 - [overshard/pinry](https://github.com/overshard/pinry) - Pinry's repository has moved to
