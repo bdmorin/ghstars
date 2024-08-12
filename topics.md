@@ -928,6 +928,7 @@
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
 - [lukechilds/htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
@@ -1110,7 +1111,7 @@
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [eBay/tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
-- [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
+- [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
 - [croach/jupyter_report_starter_kit](https://github.com/croach/jupyter_report_starter_kit) - A starter kit for crafting reports based on Jupyter notebooks
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -1979,7 +1980,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
-- [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
+- [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -4175,7 +4176,7 @@
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
+- [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
 - [bottlepy/bottle](https://github.com/bottlepy/bottle) - bottle.py is a fast and simple micro-framework for python web-applications.
 - [bboe/deslackify](https://github.com/bboe/deslackify) - A program to delete old slack messages.
 - [os/slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
