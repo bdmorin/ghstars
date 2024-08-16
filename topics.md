@@ -1158,7 +1158,7 @@
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 - [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -1726,7 +1726,7 @@
 - [rexray/rexray](https://github.com/rexray/rexray) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [nxt-engineering/reception](https://github.com/nxt-engineering/reception) - Entry page & reverse proxy for all your docker-compose projects. 🐳
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1985,7 +1985,7 @@
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
@@ -3026,6 +3026,7 @@
 
 ## others 
 
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
@@ -4757,7 +4758,7 @@
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
