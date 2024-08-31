@@ -497,7 +497,7 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-- [git-town/git-town](https://github.com/git-town/git-town) - Git made easy for teams
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [yhat/scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 - [IzakMarais/reporter](https://github.com/IzakMarais/reporter) - Service that generates a PDF report from a Grafana dashboard
