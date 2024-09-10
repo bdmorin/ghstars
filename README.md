@@ -569,6 +569,7 @@
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [amitmerchant1990/responsive-project-landing-page](https://github.com/amitmerchant1990/responsive-project-landing-page) - A responsive landing page for open source projects
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) - Logging the daily shock and awe in national politics. Read in moderation.
@@ -814,7 +815,6 @@
 - [greim/hoxy](https://github.com/greim/hoxy) - Web-hacking proxy API for node
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [sinedied/backslide](https://github.com/sinedied/backslide) - :sweat_drops: CLI tool for making HTML presentations with Remark.js using Markdown
 - [sindresorhus/conduct](https://github.com/sindresorhus/conduct) - 🖖 Generate a Code of Conduct for your project
@@ -1054,7 +1054,6 @@
 
 ## Mustache 
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox
 - [inlets/inlets-pro](https://github.com/inlets/inlets-pro) - Secure HTTP and TCP tunnels that just work
 
 ## Nginx 
@@ -1479,6 +1478,7 @@
 - [MdAbedin/slack-emoji-enlarger](https://github.com/MdAbedin/slack-emoji-enlarger) - A command-line tool to enlarge and split an image or gif into tiles and auto-upload each as a slack emoji to create the illusion of an enlarged slack emoji
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Provide Prometheus url_sd compatible API Endpoint with data from Netbox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox
 - [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import) - This library is intended to assist with importing device and module types into NetBox from the NetBox Community DeviceType-Library
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -1754,7 +1754,7 @@
 - [cromo/grokpat](https://github.com/cromo/grokpat) - Call up grok patterns for use in command line programs
 - [witchard/mog](https://github.com/witchard/mog) - A different take on the UNIX tool cat
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
-- [mehulj94/BrainDamage](https://github.com/mehulj94/BrainDamage) - Remote administration tool which uses Telegram as a C&C server
+- [mehulj94/BrainDamage](https://github.com/mehulj94/BrainDamage) - Remote administration service which uses twitter as a command and control server
 - [alanzchen/rm-protection](https://github.com/alanzchen/rm-protection) - A safe alternative for "rm".
 - [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [alecmuffett/real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
