@@ -1580,7 +1580,7 @@
 - [vladimir-tutin/Plex-Auto-Collections](https://github.com/vladimir-tutin/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
-- [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
+- [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
 - [pawadski/curlhttp_exporter](https://github.com/pawadski/curlhttp_exporter) - Dockerfile and code for a tiny Prometheus curlhttp exporter
 - [itsmehacker/DarkScrape](https://github.com/itsmehacker/DarkScrape) - OSINT Tool For Scraping Dark Websites
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
