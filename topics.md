@@ -236,6 +236,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -988,6 +989,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [siadat/kubetop](https://github.com/siadat/kubetop) - Kubernetes nodes, pods, services, and deployments in a glance
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
@@ -2236,7 +2238,7 @@
 
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [weebney/tachyon](https://github.com/weebney/tachyon) - Make your site faster than light in &lt;1 minute; instant page loads in 738 bytes
+- [cowtoolz/tachyon](https://github.com/cowtoolz/tachyon) - Make your site faster than light in &lt;1 minute; instant page loads in 738 bytes
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2252,6 +2254,7 @@
 - [schollz/hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
+- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -2386,6 +2389,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
 ## julia 
 
@@ -2942,6 +2946,7 @@
 - [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
+- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -3467,7 +3472,6 @@
 - [daniel-sanche/KubeMonitor](https://github.com/daniel-sanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar
 - [lucasviola/awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - :tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
 - [epoyraz/Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) - Curated list of Awesome Youtube Channels about Programming
-- [courtney-rosenthal/mkovpn](https://github.com/courtney-rosenthal/mkovpn) - Manage OpenVPN client profile (.ovpn) files
 - [infinilabs/crawler](https://github.com/infinilabs/crawler) - 🕷️ An easy-to-use spider written in Golang. (previous named GOPA.)
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -3698,6 +3702,7 @@
 - [RandomArray/ContractKiller](https://github.com/RandomArray/ContractKiller) - 
 - [cvan/fastHAR-api](https://github.com/cvan/fastHAR-api) - an API server that returns aggregated data from HTTP Archive (HAR) data from captured network traffic
 - [m-kraus/HolyGhost](https://github.com/m-kraus/HolyGhost) - HolyGhost is a plugin for nagios and similar monitoring tools like icinga, naemon or shinken.
+- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [dannguyen/watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
 - [PrivacySolutions/docker-i2p](https://github.com/PrivacySolutions/docker-i2p) - Docker.io script for creating a I2P router jail/container
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
@@ -3727,7 +3732,6 @@
 - [Runbook/runbook](https://github.com/Runbook/runbook) - Infrastructure monitoring with automated remediation
 - [MacGapProject/MacGap2](https://github.com/MacGapProject/MacGap2) - MacGap 2
 - [eBay/DASTProxy](https://github.com/eBay/DASTProxy) - 
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [sappalaneni2/logParser](https://github.com/sappalaneni2/logParser) - For Log parsing with ELK stack
 - [die-net/nginx-config-example](https://github.com/die-net/nginx-config-example) - An example of a complex NginX configuration based on best practices
 - [tlksio/nginx](https://github.com/tlksio/nginx) - nginx reverse proxy docker container for tlks.io
@@ -5078,6 +5082,26 @@
 ## visual-studio-code 
 
 - [taniarascia/new-moon](https://github.com/taniarascia/new-moon) - 🌙 ‎ The optimized dark theme for web development.
+
+## vpn 
+
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
+- [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [cormacrelf/terraform-provider-zerotier](https://github.com/cormacrelf/terraform-provider-zerotier) - Create, modify and destroy ZeroTier networks and members through Terraform.
+- [courtney-rosenthal/mkovpn](https://github.com/courtney-rosenthal/mkovpn) - Manage OpenVPN client profile (.ovpn) files
+- [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup) - Set up Ubuntu Server 20.04 (or 18.04) as an IKEv2 VPN server
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
+- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
+- [halo/macosvpn](https://github.com/halo/macosvpn) - :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
+- [dan-v/dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
+- [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+- [rodrigogs/easyvpn](https://github.com/rodrigogs/easyvpn) - Easily connect to a VPN in a country of your choice.
+- [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
 ## vue 
 
