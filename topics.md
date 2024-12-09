@@ -3440,7 +3440,7 @@
 - [russian-ad-explorer/russian-ad-datasets](https://github.com/russian-ad-explorer/russian-ad-datasets) - Datasets derived from the 2018 IRA ad release.
 - [bpowers1215/MoneyMap](https://github.com/bpowers1215/MoneyMap) - 
 - [shortstack/cloudmapper](https://github.com/shortstack/cloudmapper) - CloudMapper creates network diagrams of AWS environments
-- [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
+- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [markjay4k/Pandas-Tutorial](https://github.com/markjay4k/Pandas-Tutorial) - A tutorial series on Pandas for Python
 - [markjay4k/fourier-transform](https://github.com/markjay4k/fourier-transform) - A jupyter notebook with some stuff on the FT
