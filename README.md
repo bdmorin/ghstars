@@ -2280,7 +2280,7 @@
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
+- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
