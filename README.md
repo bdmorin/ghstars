@@ -2335,7 +2335,7 @@
 - [Arkham/vimfiles](https://github.com/Arkham/vimfiles) - My Vim setup
 - [sjl/vitality.vim](https://github.com/sjl/vitality.vim) - Make Vim play nicely with iTerm 2 and tmux.
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [frioux/dotfiles](https://github.com/frioux/dotfiles) - 
 - [garethr/dotvim](https://github.com/garethr/dotvim) - My modifications to Adam's uber badass vim setup.
