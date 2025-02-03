@@ -241,7 +241,7 @@
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, 
 - [mikeroyal/Docker-Guide](https://github.com/mikeroyal/Docker-Guide) - Docker Guide
-- [luisfarzati/localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
+- [lufzle/localdots](https://github.com/lufzle/localdots) - HTTPS domains for localhost. 🏠
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [pierrecdn/phpipam](https://github.com/pierrecdn/phpipam) - phpIPAM Docker image
 - [tarkalabs/ssh-signer](https://github.com/tarkalabs/ssh-signer) - Using SSH certificates instead of public key authentication.
