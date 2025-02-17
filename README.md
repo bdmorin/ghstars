@@ -150,7 +150,7 @@
 
 ## C++ 
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [krupkat/xpano](https://github.com/krupkat/xpano) - Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -641,6 +641,7 @@
 
 ## JavaScript 
 
+- [bencase/dev-sso-idp](https://github.com/bencase/dev-sso-idp) - A mock SSO server you can use to ensure your application's compatibility with your production SSO, without actually needing to use your production SSO during development.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [seanprashad/slackmoji](https://github.com/seanprashad/slackmoji) - A collection of 1,000+ emoji for Slack
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
@@ -1450,12 +1451,13 @@
 
 ## Python 
 
+- [ehmatthes/pcc_3e](https://github.com/ehmatthes/pcc_3e) - Online resources for Python Crash Course, 3rd edition, from No Starch Press.
 - [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - On-Call Assistant for Prometheus Alerts - Get a head start on fixing alerts with AI investigation
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [potpie-ai/momentum-core](https://github.com/potpie-ai/momentum-core) - visually integration test your backend
 - [muaaz-ur-habibi/G-Scraper](https://github.com/muaaz-ur-habibi/G-Scraper) - A GUI web scraper, written completely in Python
@@ -2245,7 +2247,7 @@
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
