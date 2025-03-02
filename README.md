@@ -1632,7 +1632,7 @@
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [guptachetan1997/Episodes](https://github.com/guptachetan1997/Episodes) - Self Hosted TV show Episode tracker and recommender built using django, bootstrap4.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
+- [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. Docs 文档 :point_right:
 - [frictionlessdata/goodtables.io](https://github.com/frictionlessdata/goodtables.io) - Data validation as a service. Project retired, got to the current one at frictionsless/repository
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [home-assistant/hassio-build](https://github.com/home-assistant/hassio-build) - :tractor: Hass.io build tools
