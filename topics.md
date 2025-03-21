@@ -1134,6 +1134,7 @@
 
 ## data-analysis 
 
+- [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly) - 
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -3122,8 +3123,8 @@
 
 ## others 
 
+- [amasad/jfk_files](https://github.com/amasad/jfk_files) - 
 - [kagisearch/kagi-docs](https://github.com/kagisearch/kagi-docs) - Documentation for products made by Kagi Inc
-- [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly) - 
 - [ehmatthes/pcc_3e](https://github.com/ehmatthes/pcc_3e) - Online resources for Python Crash Course, 3rd edition, from No Starch Press.
 - [bencase/dev-sso-idp](https://github.com/bencase/dev-sso-idp) - A mock SSO server you can use to ensure your application's compatibility with your production SSO, without actually needing to use your production SSO during development.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
