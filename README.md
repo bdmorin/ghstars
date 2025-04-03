@@ -619,7 +619,7 @@
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
-- [joblift/gitlab-panorama](https://github.com/joblift/gitlab-panorama) - Visualize the latest pipeline-states for your repositories and branches
+- [galan/gitlab-panorama](https://github.com/galan/gitlab-panorama) - Visualize the latest pipeline-states for your repositories and branches
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 - [yermak/AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Improved AudioBookConverter based on freeipodsoftware release (mp3 to m4b converter)
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
@@ -665,7 +665,7 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
-- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
