@@ -325,7 +325,7 @@
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [bbkane/grabbit](https://github.com/bbkane/grabbit) - A small single-binary CLI to grab images from Reddit - I've been surprised how much I enjoy seeing beautiful wallpapers when I lock/unlock my computer.
-- [nathants/libaws](https://github.com/nathants/libaws) - aws should be easy
+- [nathants/libaws](https://github.com/nathants/libaws) - just ship on aws
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -1449,6 +1449,8 @@
 
 ## Python 
 
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [amasad/jfk_files](https://github.com/amasad/jfk_files) - 
 - [ehmatthes/pcc_3e](https://github.com/ehmatthes/pcc_3e) - Online resources for Python Crash Course, 3rd edition, from No Starch Press.
 - [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
