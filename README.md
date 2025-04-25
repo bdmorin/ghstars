@@ -573,7 +573,6 @@
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [amitmerchant1990/responsive-project-landing-page](https://github.com/amitmerchant1990/responsive-project-landing-page) - A responsive landing page for open source projects
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) - Logging the daily shock and awe in national politics. Read in moderation.
 - [neveragaindottech/neveragaindottech.github.io](https://github.com/neveragaindottech/neveragaindottech.github.io) - Source files for the neveragain.tech site
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
@@ -831,6 +830,7 @@
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [ivanseidel/node-draftlog](https://github.com/ivanseidel/node-draftlog) - 📜 Create mutable log lines into the terminal, and give life to your logs!
 - [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
 - [markelog/adit](https://github.com/markelog/adit) - SSH tunnels – in any way you want it
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
@@ -1313,7 +1313,7 @@
 - [yoshuawuyts/tiny-guide-to-non-fancy-node](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node) - A tiny guide to non fancy, high-value Node.js things
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [vilmibm/lovecraftcorpus](https://github.com/vilmibm/lovecraftcorpus) - H.P. Lovecraft's collected writings
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
