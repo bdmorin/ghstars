@@ -272,7 +272,6 @@
 
 ## Go 
 
-- [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
 - [michenriksen/chart](https://github.com/michenriksen/chart) - Command-line tool for rendering bar charts that can be displayed directly in the terminal or in text-based files like Markdown.
@@ -536,6 +535,7 @@
 
 ## HTML 
 
+- [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
