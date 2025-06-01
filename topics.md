@@ -228,6 +228,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -239,6 +240,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -263,11 +265,12 @@
 
 ## ai 
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [containers/ramalama](https://github.com/containers/ramalama) - Ramalama is an open-source tool that simplifies the local use and serving of AI models for inference from any source through the familiar approach of containers.
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
@@ -415,7 +418,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
@@ -699,7 +702,7 @@
 - [0x4447/0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) - 📫 A serverless email server on AWS using S3 and SES
 - [OJFord/amail](https://github.com/OJFord/amail) - AWS-hosted personal email system: sending, receiving, storage, and forwarding (relaying). `notmuch` client. JMAP server WIP.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-- [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [ReversecLabs/awspx](https://github.com/ReversecLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
@@ -1032,6 +1035,7 @@
 
 ## coding 
 
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [zotroneneis/magical_universe](https://github.com/zotroneneis/magical_universe) - Awesome Python features explained using the world of magic
 
 ## compiler 
@@ -1335,7 +1339,7 @@
 
 ## docker 
 
-- [containers/ramalama](https://github.com/containers/ramalama) - Ramalama is an open-source tool that simplifies the local use and serving of AI models for inference from any source through the familiar approach of containers.
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
@@ -1357,7 +1361,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [sergiitk/pagerbeauty](https://github.com/sergiitk/pagerbeauty) - :pager::sparkles: PagerDuty on-call widget for monitoring dashboard. Datadog and Grafana compatible
@@ -1682,9 +1686,9 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec. [  📦👌🐛📖🚀🤖 ‼️]
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [sadanandpai/git-guide](https://github.com/sadanandpai/git-guide) - Practical guide to everyday Git commands
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
 - [b1f6c1c4/unfk](https://github.com/b1f6c1c4/unfk) - Remove all f**ks in your git commit history
@@ -1858,7 +1862,7 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
@@ -1996,7 +2000,7 @@
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
@@ -2279,7 +2283,7 @@
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [cowtoolz/tachyon](https://github.com/cowtoolz/tachyon) - Make your site faster than light in &lt;1 minute; instant page loads in 738 bytes
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2458,7 +2462,7 @@
 
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
@@ -2477,7 +2481,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [mikeroyal/Docker-Guide](https://github.com/mikeroyal/Docker-Guide) - Docker Guide
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -2652,8 +2656,10 @@
 
 ## llm 
 
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [containers/ramalama](https://github.com/containers/ramalama) - Ramalama is an open-source tool that simplifies the local use and serving of AI models for inference from any source through the familiar approach of containers.
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
@@ -2704,7 +2710,7 @@
 
 - [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
@@ -2852,7 +2858,7 @@
 ## monitoring 
 
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
 - [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
@@ -2918,7 +2924,7 @@
 
 ## natural-language-processing 
 
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
@@ -2938,10 +2944,10 @@
 
 ## nextjs 
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -3079,7 +3085,6 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [muaaz-ur-habibi/G-Scraper](https://github.com/muaaz-ur-habibi/G-Scraper) - A GUI web scraper, written completely in Python
 - [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) - A list of FLOSS games, mods and software available on Steam (86 so far)
-- [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
@@ -3106,7 +3111,7 @@
 
 ## openai 
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
@@ -3153,7 +3158,8 @@
 
 ## others 
 
-- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
+- [JamesRy96/audiobookbay-automated](https://github.com/JamesRy96/audiobookbay-automated) - Adds torrents from AudioBookBay to a torrent client and set the download location.
 - [amasad/jfk_files](https://github.com/amasad/jfk_files) - 
 - [kagisearch/kagi-docs](https://github.com/kagisearch/kagi-docs) - Documentation for products made by Kagi Inc
 - [ehmatthes/pcc_3e](https://github.com/ehmatthes/pcc_3e) - Online resources for Python Crash Course, 3rd edition, from No Starch Press.
@@ -3169,7 +3175,7 @@
 - [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
-- [fiatjaf/njump](https://github.com/fiatjaf/njump) - mirror of https://git.njump.me/njump
+- [fiatjaf/njump](https://github.com/fiatjaf/njump) - a Nostr-to-web HTML and OpenGraph gateway
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
@@ -3340,7 +3346,7 @@
 - [bradydowling/awesome-generated-art](https://github.com/bradydowling/awesome-generated-art) - Libraries and tools that allow you to programmatically create, modify, or convert images
 - [bellecp/fast-p](https://github.com/bellecp/fast-p) - 
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [spotify/rspec-dns](https://github.com/spotify/rspec-dns) - Easily test your DNS with RSpec
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
@@ -3953,7 +3959,7 @@
 - [thoughtbot/gitsh](https://github.com/thoughtbot/gitsh) - An interactive shell for git
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-- [sensiblecodeio/custard](https://github.com/sensiblecodeio/custard) - A platform for tools that do stuff with data
+- [cantabular/custard](https://github.com/cantabular/custard) - A platform for tools that do stuff with data
 - [zeman/perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
@@ -4083,7 +4089,7 @@
 
 - [B3ND1X/air-script](https://github.com/B3ND1X/air-script) - Air Script is a powerful Wi-Fi auditing tool with optional email alerts for captured handshakes.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [ReversecLabs/awspx](https://github.com/ReversecLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -4142,7 +4148,7 @@
 
 ## postgresql 
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -4252,7 +4258,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
@@ -4521,7 +4527,7 @@
 
 ## rest-api 
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
@@ -4659,7 +4665,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -4974,6 +4980,10 @@
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [EasyCorp/easy-log-handler](https://github.com/EasyCorp/easy-log-handler) - Human-friendly log files that make you more productive
 
+## tailwind 
+
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+
 ## tailwindcss 
 
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
@@ -5075,7 +5085,7 @@
 ## testing 
 
 - [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
@@ -5101,13 +5111,13 @@
 
 ## typescript 
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [8398a7/action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
@@ -5148,6 +5158,13 @@
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup) - Set up Ubuntu Server 20.04 (or 18.04) as an IKEv2 VPN server
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+
+## ui 
+
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+- [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 
 ## vagrant 
 
@@ -5210,7 +5227,7 @@
 
 ## vuejs 
 
-- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
