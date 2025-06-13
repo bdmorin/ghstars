@@ -123,7 +123,7 @@
 - [petewarden/openheatmap](https://github.com/petewarden/openheatmap) - A web renderer for geographic heat maps, using OpenStreetMap compatible file formats
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [quiet/org.quietmodem.Quiet](https://github.com/quiet/org.quietmodem.Quiet) - Quiet for Android - TCP over sound
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ellson/MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz
 - [TheNewNormal/libxhyve](https://github.com/TheNewNormal/libxhyve) - Use xhyve from Go (OS X only)
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
@@ -1530,7 +1530,7 @@
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - 🥫 The simple, fast, and modern web scraping library
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
-- [jteppinette/python-logfmter](https://github.com/jteppinette/python-logfmter) - Add logfmt structured logging using the stdlib logging module and without changing a single log call.
+- [josheppinette/python-logfmter](https://github.com/josheppinette/python-logfmter) - Add logfmt structured logging using the stdlib logging module and without changing a single log call.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [bethgelab/slurm-monitoring-public](https://github.com/bethgelab/slurm-monitoring-public) - Monitor your high performance infrastructure configured over slurm using TIG stack
