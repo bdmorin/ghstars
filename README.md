@@ -321,7 +321,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Local-first workflow engine, built for self-hosting. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A feature-full workflow engine for enterprise & small teams. Low-code and language agnostic, making it easy to integrate with any existing software.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -922,7 +922,6 @@
 - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [jcoglan/restore](https://github.com/jcoglan/restore) - Simple remoteStorage server written in Node.js
 - [ekmartin/slack-irc](https://github.com/ekmartin/slack-irc) - Connects Slack and IRC channels by sending messages back and forth.
-- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [karan/slack-hn](https://github.com/karan/slack-hn) - SEE https://github.com/karan/slack-news INSTEAD
 - [b00gizm/express-ifttt-webhook](https://github.com/b00gizm/express-ifttt-webhook) - A middleware to plug your Express app into IFTTT.com
 - [karan/slack-news](https://github.com/karan/slack-news) - Read news from multiple sources within Slack by just typing /news.
