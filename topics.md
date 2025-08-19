@@ -47,6 +47,7 @@
 - [continuous-integration](#continuous-integration)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -264,7 +265,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -328,6 +328,7 @@
 
 - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [yeriomin/YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
 - [dan-v/dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
@@ -359,7 +360,7 @@
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [aker-gateway/aker-elk-playbook](https://github.com/aker-gateway/aker-elk-playbook) - 
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
@@ -434,7 +435,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a lightweight and powerful workflow engine for small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find Airflow to be overkill and are looking f
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine for developers. Equipped with professional features that meets enterprise requirements. It aims to be an ideal choice for teams that find Airflow to be overkill and are l
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -1112,6 +1113,26 @@
 - [krupkat/xpano](https://github.com/krupkat/xpano) - Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+## crawler 
+
+- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
+- [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
+- [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
+- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
+- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
+- [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
+- [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
+- [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [infinilabs/crawler](https://github.com/infinilabs/crawler) - 🕷️ An easy-to-use spider written in Golang. (previous named GOPA.)
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
 ## cryptocurrency 
 
@@ -1920,7 +1941,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a lightweight and powerful workflow engine for small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find Airflow to be overkill and are looking f
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine for developers. Equipped with professional features that meets enterprise requirements. It aims to be an ideal choice for teams that find Airflow to be overkill and are l
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [bbkane/grabbit](https://github.com/bbkane/grabbit) - A small single-binary CLI to grab images from Reddit - I've been surprised how much I enjoy seeing beautiful wallpapers when I lock/unlock my computer.
@@ -2102,7 +2123,6 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [UnchartedBull/OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
@@ -2135,7 +2155,7 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
@@ -2327,6 +2347,7 @@
 
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
@@ -2842,6 +2863,7 @@
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
@@ -3405,7 +3427,6 @@
 - [ssllabs/research](https://github.com/ssllabs/research) - 
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [djs4000/Jackett-public](https://github.com/djs4000/Jackett-public) - Use just about any tracker with Sonarr or Couchpotato
 - [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
@@ -3480,6 +3501,7 @@
 - [jamesofarrell/i3-swallow](https://github.com/jamesofarrell/i3-swallow) - used to swallow a terminal window in i3
 - [mrichar1/clipster](https://github.com/mrichar1/clipster) - clipster - python clipboard manager
 - [DaveDavenport/Rofication](https://github.com/DaveDavenport/Rofication) - My notification system
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dimafeng/dotfiles](https://github.com/dimafeng/dotfiles) - 
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
 - [siennathesane/cloudflare-sync](https://github.com/siennathesane/cloudflare-sync) - A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
@@ -3644,7 +3666,6 @@
 - [daniel-sanche/KubeMonitor](https://github.com/daniel-sanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar
 - [lucasviola/awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - :tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
 - [epoyraz/Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) - Curated list of Awesome Youtube Channels about Programming
-- [infinilabs/crawler](https://github.com/infinilabs/crawler) - 🕷️ An easy-to-use spider written in Golang. (previous named GOPA.)
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [scrapinghub/splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
@@ -3959,7 +3980,6 @@
 - [sitespeedio/coach](https://github.com/sitespeedio/coach) - Clear Eyes. Full Hearts. Can’t Lose.
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [TKCERT/testssl.sh-webfrontend](https://github.com/TKCERT/testssl.sh-webfrontend) - Web Frontend for testssl.sh
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [tadeuzagallo/GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X StatusBar app to help you remember to contribute every day on Github
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
@@ -4477,7 +4497,7 @@
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
@@ -5210,7 +5230,7 @@
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
@@ -5410,6 +5430,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
@@ -5454,36 +5475,6 @@
 ## zig 
 
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
-
-## zsh 
-
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
-- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
-- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
-- [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
-- [SixArm/zsh-config](https://github.com/SixArm/zsh-config) - SixArm.com → Z shell → zsh configuration
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
-- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [leonardofaria/dotfiles](https://github.com/leonardofaria/dotfiles) - 💻 🔧 My dot files in a macOS environment
-- [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
-- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
-- [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
-- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
