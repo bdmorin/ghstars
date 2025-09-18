@@ -178,7 +178,6 @@
 - [small-hack/argocd-apps](https://github.com/small-hack/argocd-apps) - Common Argo CD templates we use for self hosted cloud stuff. We're still working towards full stability, but feel free to take things or ask questions :)
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [ev-dev/slack-custom-controls](https://github.com/ev-dev/slack-custom-controls) - Dark Theme Mode and Sidebar Toggle For Slack
@@ -1041,6 +1040,7 @@
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
 - [spywhere/dotfiles](https://github.com/spywhere/dotfiles) - A cross-platform, modular dotfiles installer for my personal setup
+- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [picsoung/uberSlackBot](https://github.com/picsoung/uberSlackBot) - A bot for Slack to get Uber price estimates
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
