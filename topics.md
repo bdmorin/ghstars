@@ -2241,6 +2241,7 @@
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
@@ -3336,6 +3337,7 @@
 
 ## others 
 
+- [nic01asFr/mcp-server-grist](https://github.com/nic01asFr/mcp-server-grist) - MCP server implementation for Grist API integration
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [tomnitschke/gristruc](https://github.com/tomnitschke/gristruc) - RUC is reusable user code for Grist - a collection of functions and other reusable stuff for use in your Grist formulas.
 - [ravitemer/mcp-registry](https://github.com/ravitemer/mcp-registry) - A community-maintained registry of Model Context Protocol (MCP) servers with structured installation configurations for easy integration.
@@ -3343,7 +3345,7 @@
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents) - A comprehensive collection of 100+ production-ready development subagents for Claude Code
 - [ColeMurray/claude-code-otel](https://github.com/ColeMurray/claude-code-otel) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
