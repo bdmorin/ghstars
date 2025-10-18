@@ -4018,7 +4018,7 @@
 - [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [arielf/weight-loss](https://github.com/arielf/weight-loss) - Machine Learning meets  ketosis: how to effectively lose weight
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
 - [waartaa/waartaa](https://github.com/waartaa/waartaa) - A modern web based communication service on top IRC.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [lukechilds/gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
