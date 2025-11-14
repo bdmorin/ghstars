@@ -269,6 +269,7 @@
 
 ## Go 
 
+- [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A log viewer for Kubernetes troubleshooting
 - [Ville-Eurometropole-Strasbourg/grist-ctl](https://github.com/Ville-Eurometropole-Strasbourg/grist-ctl) - Command-line tool for interacting with Grist
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
