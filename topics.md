@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -283,6 +284,15 @@
 
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
+
+## agent 
+
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+- [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
+- [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## ai 
 
@@ -3867,7 +3877,6 @@
 - [JStumpp/awesome-chatbots](https://github.com/JStumpp/awesome-chatbots) - A curated list of awesome Chatbot services and resources.
 - [9elements/awesome-bot](https://github.com/9elements/awesome-bot) - A curated list of awesome bot and AI packages and resources.
 - [Peter-Moller/open-ports](https://github.com/Peter-Moller/open-ports) - A bash-script for OS X and Linux detailing the open network connections to and from a computer
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [atesgoral/put.io.starry.night](https://github.com/atesgoral/put.io.starry.night) - The Starry Night animation in put.io's hero banner
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
