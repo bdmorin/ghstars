@@ -1258,7 +1258,6 @@
 - [9elements/awesome-bot](https://github.com/9elements/awesome-bot) - A curated list of awesome bot and AI packages and resources.
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [abdelhai/awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [jaredpalmer/awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
 - [lvwzhen/tools](https://github.com/lvwzhen/tools) - Tools Online
