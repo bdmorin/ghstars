@@ -2233,7 +2233,7 @@
 - [mzp/SlackStack](https://github.com/mzp/SlackStack) - Multi-column/multi-row slack client for macOS
 - [halo/macosvpn](https://github.com/halo/macosvpn) - :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
 - [mipstian/catch](https://github.com/mipstian/catch) - Catch: Broadcatching made easy.
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 
 ## TeX 
 
