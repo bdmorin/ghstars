@@ -650,6 +650,8 @@
 
 ## JavaScript 
 
+- [danielmiessler/claude-code-plugins-plus](https://github.com/danielmiessler/claude-code-plugins-plus) - Claude Code Plugins Hub — browse and install 227 plugins. Featuring Skills Powerkit - first Agent Skills plugin.
+- [ingpoc/claude-code-plugins-marketplace](https://github.com/ingpoc/claude-code-plugins-marketplace) - A curated marketplace of plugins, extensions, and tools for Claude Code - Discover, share, and enhance your Claude Code experience with community-contributed plugins
 - [repplus/rep](https://github.com/repplus/rep) - rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
@@ -2250,6 +2252,7 @@
 
 ## TypeScript 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [redreamality/Paper-Comicizer](https://github.com/redreamality/Paper-Comicizer) - Turn boring papers into fun comics with the help of Gemini!
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant) - Jarvis AI Assistant - Voice-powered AI assistant for Mac
