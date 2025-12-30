@@ -291,6 +291,7 @@
 
 ## agent 
 
+- [aannoo/claude-hook-comms](https://github.com/aannoo/claude-hook-comms) - Launch multiple Claude Code instances (terminal, headless, or subagents) that communicate together in real time via hooks.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -300,6 +301,7 @@
 
 ## ai 
 
+- [aannoo/claude-hook-comms](https://github.com/aannoo/claude-hook-comms) - Launch multiple Claude Code instances (terminal, headless, or subagents) that communicate together in real time via hooks.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant) - Jarvis AI Assistant - Voice-powered AI assistant for Mac
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
@@ -473,6 +475,7 @@
 
 ## automation 
 
+- [aannoo/claude-hook-comms](https://github.com/aannoo/claude-hook-comms) - Launch multiple Claude Code instances (terminal, headless, or subagents) that communicate together in real time via hooks.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -980,6 +983,7 @@
 
 ## cli 
 
+- [aannoo/claude-hook-comms](https://github.com/aannoo/claude-hook-comms) - Launch multiple Claude Code instances (terminal, headless, or subagents) that communicate together in real time via hooks.
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [Ville-Eurometropole-Strasbourg/grist-ctl](https://github.com/Ville-Eurometropole-Strasbourg/grist-ctl) - Command-line tool for interacting with Grist
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -2939,6 +2943,7 @@
 
 ## llm 
 
+- [aannoo/claude-hook-comms](https://github.com/aannoo/claude-hook-comms) - Launch multiple Claude Code instances (terminal, headless, or subagents) that communicate together in real time via hooks.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [tonl-dev/tonl](https://github.com/tonl-dev/tonl) - TONL (Token-Optimized Notation Language)
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
@@ -3466,6 +3471,8 @@
 
 ## others 
 
+- [gtrusler/claude-code-heavy](https://github.com/gtrusler/claude-code-heavy) - Multi-agent research orchestration using Claude Code. Inspired by make-it-heavy.
+- [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [danielmiessler/claude-code-plugins-plus](https://github.com/danielmiessler/claude-code-plugins-plus) - Claude Code Plugins Hub — browse and install 227 plugins. Featuring Skills Powerkit - first Agent Skills plugin.
 - [ingpoc/claude-code-plugins-marketplace](https://github.com/ingpoc/claude-code-plugins-marketplace) - A curated marketplace of plugins, extensions, and tools for Claude Code - Discover, share, and enhance your Claude Code experience with community-contributed plugins
 - [brianclaridge/.claude](https://github.com/brianclaridge/.claude) - My opinionated docker "devbox" with a focus on Claude Code agentic AI workflows...
@@ -5365,6 +5372,8 @@
 
 ## terminal 
 
+- [aannoo/claude-hook-comms](https://github.com/aannoo/claude-hook-comms) - Launch multiple Claude Code instances (terminal, headless, or subagents) that communicate together in real time via hooks.
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - CLI tool to convert JSON and JSON Lines to terminal, CSV, HTTP, and markdown tables
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
