@@ -3488,6 +3488,7 @@
 
 ## others 
 
+- [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - The open agent skills tool
 - [Red5d/memos_mcp](https://github.com/Red5d/memos_mcp) - MCP Server for the self-hosted notes app Memos
 - [intent-solutions-io/iam-bobs-brain](https://github.com/intent-solutions-io/iam-bobs-brain) - Production Slack AI assistant built with Google ADK, Vertex AI Agent Engine, A2A protocol, Session Cache, and Memory Bank - Hard Mode architecture enforcing drift-free agent development
 - [gtrusler/claude-code-heavy](https://github.com/gtrusler/claude-code-heavy) - Multi-agent research orchestration using Claude Code. Inspired by make-it-heavy.
