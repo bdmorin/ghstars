@@ -3861,7 +3861,7 @@
 - [russian-ad-explorer/russian-ad-datasets](https://github.com/russian-ad-explorer/russian-ad-datasets) - Datasets derived from the 2018 IRA ad release.
 - [bpowers1215/MoneyMap](https://github.com/bpowers1215/MoneyMap) - 
 - [shortstack/cloudmapper](https://github.com/shortstack/cloudmapper) - CloudMapper creates network diagrams of AWS environments
-- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly
+- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy has been discontinued.
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [markjay4k/Pandas-Tutorial](https://github.com/markjay4k/Pandas-Tutorial) - A tutorial series on Pandas for Python
 - [markjay4k/fourier-transform](https://github.com/markjay4k/fourier-transform) - A jupyter notebook with some stuff on the FT
@@ -4950,7 +4950,7 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [petems/tugboat](https://github.com/petems/tugboat) - A command line tool for interacting with your DigitalOcean droplets.
 - [riemann/riemann-dash](https://github.com/riemann/riemann-dash) - An HTTP dashboard for Riemann.
-- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
+- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant :ukraine:
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [weppos/whois](https://github.com/weppos/whois) - An intelligent — pure Ruby — WHOIS client and parser.
 
