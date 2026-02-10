@@ -809,7 +809,7 @@
 - [vadimdemedes/pronto](https://github.com/vadimdemedes/pronto) - ⚡ The now.sh experience for databases
 - [gorhill/uBO-Extra](https://github.com/gorhill/uBO-Extra) - A companion extension to uBlock Origin
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
