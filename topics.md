@@ -265,6 +265,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [v2ray](#v2ray)
 - [vagrant](#vagrant)
 - [video](#video)
 - [vim](#vim)
@@ -294,7 +295,7 @@
 
 ## agent 
 
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -304,7 +305,7 @@
 
 ## ai 
 
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant) - Jarvis AI Assistant - Voice-powered AI assistant for Mac
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
@@ -481,7 +482,7 @@
 
 ## automation 
 
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -985,7 +986,7 @@
 
 ## cli 
 
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [Ville-Eurometropole-Strasbourg/grist-ctl](https://github.com/Ville-Eurometropole-Strasbourg/grist-ctl) - Command-line tool for interacting with Grist
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -2942,7 +2943,7 @@
 
 ## llm 
 
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [tonl-dev/tonl](https://github.com/tonl-dev/tonl) - TONL (Token-Optimized Notation Language)
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
@@ -3707,7 +3708,6 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [lostutils/uq](https://github.com/lostutils/uq) - 
 - [jsharkey13/dmarc-monitoring](https://github.com/jsharkey13/dmarc-monitoring) - Tool for monitoring and analysing DMARC aggregate reports for a domain.
-- [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [fireshaper/Omnibus](https://github.com/fireshaper/Omnibus) - Search for and download comics that are added to GetComics.info easily
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -5400,7 +5400,7 @@
 
 ## terminal 
 
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - CLI tool to convert JSON and JSON Lines to terminal, CSV, HTTP, and markdown tables
@@ -5581,6 +5581,10 @@
 - [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
+
+## v2ray 
+
+- [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
 
 ## vagrant 
 
