@@ -350,6 +350,7 @@
 ## ai-agents 
 
 - [intent-solutions-io/iam-bobs-brain](https://github.com/intent-solutions-io/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -1447,6 +1448,7 @@
 
 ## developer-tools 
 
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
@@ -2943,7 +2945,6 @@
 
 ## llm 
 
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Connect Claude Code, Gemini CLI, and Codex so agents can message, watch, and spawn each other across terminals
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [tonl-dev/tonl](https://github.com/tonl-dev/tonl) - TONL (Token-Optimized Notation Language)
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
