@@ -1139,7 +1139,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [tborychowski/awesome-mac](https://github.com/tborychowski/awesome-mac) - Mac awesome MacOS Apps
 - [phmullins/awesome-macos-commandline](https://github.com/phmullins/awesome-macos-commandline) - A curated list of awesome command-line software for macOS.
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [ziolko/tunnel](https://github.com/ziolko/tunnel) - DIY ngrok alternative
@@ -2279,7 +2279,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [GoogleCloudPlatform/monitoring-dashboard-samples](https://github.com/GoogleCloudPlatform/monitoring-dashboard-samples) - Google Cloud Monitoring Dashboard Samples
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [mindsdb/mindsdb-docker-extension](https://github.com/mindsdb/mindsdb-docker-extension) - The Official MIndsDB Extension for Docker Desktop.
 - [supabase-community/seed](https://github.com/supabase-community/seed) - Automatically seed your database with production-like dummy data based on your schema for local development and testing.
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
