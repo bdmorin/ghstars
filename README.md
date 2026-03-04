@@ -1466,7 +1466,6 @@
 
 - [Red5d/memos_mcp](https://github.com/Red5d/memos_mcp) - MCP Server for the self-hosted notes app Memos
 - [intent-solutions-io/iam-bobs-brain](https://github.com/intent-solutions-io/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Native Claude Code Plugin with auto-discovery Skill and AI-powered documentation search. Covers Claude Code CLI, Claude API (Python, TypeScript, Go, Java, Kotlin, Ruby SDKs), Agent SDK, and Prompt Lib
 - [nic01asFr/mcp-server-grist](https://github.com/nic01asFr/mcp-server-grist) - MCP server implementation for Grist API integration
@@ -1538,7 +1537,7 @@
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
 - [LukeShortCloud/rootpages](https://github.com/LukeShortCloud/rootpages) - Root Pages is a collection of easy-to-reference tutorials and guides primarily for Linux and other UNIX-like systems.
 - [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [EdinCitaku/TerminalMuseum](https://github.com/EdinCitaku/TerminalMuseum) - 
@@ -1920,6 +1919,7 @@
 
 ## Rust 
 
+- [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
@@ -2345,7 +2345,6 @@
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [JP1016/Paper](https://github.com/JP1016/Paper) - 🚀A "no-cloud" note taking app with "networkless" sharing. https://paperapp.now.sh
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [bcongdon/rssfilter](https://github.com/bcongdon/rssfilter) - 🔍 Web service for filtering RSS articles
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
@@ -2420,6 +2419,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 
 ## XSLT 
