@@ -324,7 +324,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Local-first CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
