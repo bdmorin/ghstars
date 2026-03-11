@@ -4015,7 +4015,6 @@
 - [benhutchins/docker-taiga](https://github.com/benhutchins/docker-taiga) - Docker container for Taiga https://taiga.io
 - [sjlu/Put.io-Manager](https://github.com/sjlu/Put.io-Manager) - Essentially it'll sniff your RSS feeds, add your transfers, download the files, cleanup and execute your post process scripts.
 - [Citrix-TechSpecialist/Docker-101](https://github.com/Citrix-TechSpecialist/Docker-101) - This repository walks students though how to get started with Docker and basic Docker commands.
-- [mvanderkroon/cobr](https://github.com/mvanderkroon/cobr) - Data Science toolkit
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
 - [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
 - [cullery/bucksems](https://github.com/cullery/bucksems) - ems data for Bucks County
