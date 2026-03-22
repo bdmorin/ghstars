@@ -882,7 +882,7 @@
 - [redfin/react-server](https://github.com/redfin/react-server) - :rocket: Blazing fast page load and seamless navigation.
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
 - [waartaa/waartaa](https://github.com/waartaa/waartaa) - A modern web based communication service on top IRC.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
