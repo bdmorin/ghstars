@@ -567,7 +567,6 @@
 - [go-training/training](https://github.com/go-training/training) - Learning Golang one day
 - [PacktPublishing/Python-Web-Scraping-Cookbook](https://github.com/PacktPublishing/Python-Web-Scraping-Cookbook) - Python Web Scraping Cookbook, published by Packt
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [kelyvin/Google-Allo-For-Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Allo
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
@@ -1718,6 +1717,7 @@
 - [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [RLesser/NetworkScraper](https://github.com/RLesser/NetworkScraper) - A versatile graph explorer for both online and offline networks
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
