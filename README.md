@@ -269,6 +269,7 @@
 
 ## Go 
 
+- [juanibiapina/gob](https://github.com/juanibiapina/gob) - Process manager for AI agents (and humans)
 - [CodeOne45/vex-tui](https://github.com/CodeOne45/vex-tui) - A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer & editor built with Go.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
@@ -1714,7 +1715,7 @@
 - [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [catherinedevlin/ipython-sql](https://github.com/catherinedevlin/ipython-sql) - %%sql magic for IPython, hopefully evolving into full SQL client
 - [1-Sisyphe/youCanCodeAGif](https://github.com/1-Sisyphe/youCanCodeAGif) - Can you make an High Quality Gif from A to Z only by coding? Yes. Do you want to, though?
-- [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
+- [martinrusev/amon](https://github.com/martinrusev/amon) - Amon is a modern server monitoring platform.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
@@ -2075,7 +2076,7 @@
 - [caiogondim/maglev](https://github.com/caiogondim/maglev) - :monorail: A Tmux theme made to work together with bullet-train.zsh
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Container configurations, images, and examples for Zulip.
-- [SixArm/zsh-config](https://github.com/SixArm/zsh-config) - SixArm.com → Z shell → zsh configuration
+- [SixArm/zsh-config](https://github.com/SixArm/zsh-config) - zsh configuration
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dimafeng/dotfiles](https://github.com/dimafeng/dotfiles) - 
@@ -2254,6 +2255,7 @@
 
 ## TypeScript 
 
+- [juanibiapina/pi-gob](https://github.com/juanibiapina/pi-gob) - Pi extension for managing gob background jobs with live daemon monitoring
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
