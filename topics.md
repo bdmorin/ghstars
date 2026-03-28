@@ -3680,7 +3680,7 @@
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [djs4000/Jackett-public](https://github.com/djs4000/Jackett-public) - Use just about any tracker with Sonarr or Couchpotato
 - [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
-- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.
 - [PacktPublishing/AWS-Administration-Cookbook](https://github.com/PacktPublishing/AWS-Administration-Cookbook) - AWS Administration Cookbook, published by Packt
 - [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes) - The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
