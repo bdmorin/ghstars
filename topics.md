@@ -1455,7 +1455,7 @@
 
 - [juanibiapina/gob](https://github.com/juanibiapina/gob) - Process manager for AI agents (and humans)
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
-- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin — instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated prot
+- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
@@ -1693,7 +1693,7 @@
 
 ## documentation 
 
-- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin — instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated prot
+- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [edgi-govdata-archiving/web-monitoring](https://github.com/edgi-govdata-archiving/web-monitoring) - Documentation and project-wide issues for the Website Monitoring project (a.k.a. "Scanner")
@@ -3157,7 +3157,7 @@
 
 ## mcp 
 
-- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin — instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated prot
+- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -4603,7 +4603,7 @@
 
 ## prompt-engineering 
 
-- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin — instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated prot
+- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 
