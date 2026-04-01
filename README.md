@@ -1052,7 +1052,6 @@
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -1357,6 +1356,7 @@
 - [strayptr/memes](https://github.com/strayptr/memes) - Meme up your README files with these markdown one-liners!  Twitch.tv faces, doges, etc.  Works anywhere on GitHub.
 - [jrcharney/kang](https://github.com/jrcharney/kang) - A Linux from Scratch distro for Raspberry Pi users and eventually anyone else who wants to make Linux awesome
 - [slickage/baron](https://github.com/slickage/baron) - Baron is a Bitcoin payment processor that anyone can deploy
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -1829,7 +1829,7 @@
 - [tdryer/hangups](https://github.com/tdryer/hangups) - the first third-party instant messaging client for Google Hangouts
 - [sananth12/ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
 - [jacobsalmela/NCutil](https://github.com/jacobsalmela/NCutil) - Notification Center utility- Add/remove apps, set alert styles, suppress App store notifications
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [etsy/logster](https://github.com/etsy/logster) - Parse log files, generate metrics for Graphite and Ganglia
 - [nylas/sync-engine](https://github.com/nylas/sync-engine) - :incoming_envelope: IMAP/SMTP sync system with modern APIs
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -1916,6 +1916,7 @@
 
 ## Rust 
 
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make r
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 - [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations
@@ -2254,6 +2255,7 @@
 
 ## TypeScript 
 
+- [chatgptprojects/claude-code](https://github.com/chatgptprojects/claude-code) - https://x.com/paidev
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed
 - [juanibiapina/pi-gob](https://github.com/juanibiapina/pi-gob) - Pi extension for managing gob background jobs with live daemon monitoring
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
