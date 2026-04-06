@@ -1368,7 +1368,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [monitoringsucks/tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
-- [overshard/pinry](https://github.com/overshard/pinry) - Pinry's repository has moved to
+- [overshard/pinry](https://github.com/overshard/pinry) - Pinry, a tiling image board system, has moved to github.com/pinry/pinry
 - [Miserlou/GrooveMac](https://github.com/Miserlou/GrooveMac) - A GrooveDown package for OSX
 - [bengold/tumblr-themes.tmbundle](https://github.com/bengold/tumblr-themes.tmbundle) - A TextMate Bundle for Building Themes.
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
@@ -2257,7 +2257,7 @@
 
 ## TypeScript 
 
-- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed. This awesome community created a token called $OPENCODE to support the project, here is the CA for the token
+- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 - [juanibiapina/pi-gob](https://github.com/juanibiapina/pi-gob) - Pi extension for managing gob background jobs with live daemon monitoring
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
