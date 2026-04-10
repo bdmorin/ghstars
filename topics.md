@@ -3817,7 +3817,6 @@
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
 - [sensepost/reGeorg](https://github.com/sensepost/reGeorg) - The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
-- [karan/TPB](https://github.com/karan/TPB) - :cloud: Python API for ThePirateBay.
 - [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
@@ -4286,11 +4285,9 @@
 - [jcoglan/restore](https://github.com/jcoglan/restore) - Simple remoteStorage server written in Node.js
 - [picsoung/uberSlackBot](https://github.com/picsoung/uberSlackBot) - A bot for Slack to get Uber price estimates
 - [ekmartin/slack-irc](https://github.com/ekmartin/slack-irc) - Connects Slack and IRC channels by sending messages back and forth.
-- [karan/slack-hn](https://github.com/karan/slack-hn) - SEE https://github.com/karan/slack-news INSTEAD
 - [b00gizm/express-ifttt-webhook](https://github.com/b00gizm/express-ifttt-webhook) - A middleware to plug your Express app into IFTTT.com
 - [Docverter/docverter](https://github.com/Docverter/docverter) - Docverter Server
 - [flyingsaucerproject/flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer in pure Java
-- [karan/slack-news](https://github.com/karan/slack-news) - Read news from multiple sources within Slack by just typing /news.
 - [slickage/baron](https://github.com/slickage/baron) - Baron is a Bitcoin payment processor that anyone can deploy
 - [RafaelVidaurre/yakuza](https://github.com/RafaelVidaurre/yakuza) - Highly scalable Node.js scraping framework for mobsters
 - [missinglink/huntsman](https://github.com/missinglink/huntsman) - Super configurable async web spider
