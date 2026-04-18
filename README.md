@@ -46,6 +46,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [PLSQL](#plsql)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Pkl](#pkl)
@@ -473,7 +474,7 @@
 - [moul/ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
 - [kryptco/kr](https://github.com/kryptco/kr) - DEPRECATED A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+- [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [evilsocket/awesome-go](https://github.com/evilsocket/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [jamiealquiza/polymur](https://github.com/jamiealquiza/polymur) - A fast carbon-relay with live routing controls + https Graphite forwarder
 - [chrissnell/crabby](https://github.com/chrissnell/crabby) - A web page performance tester with support for Prometheus, InfluxDB, Graphite, Datadog, and Riemann
@@ -1422,6 +1423,10 @@
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [mwunsch/thimble](https://github.com/mwunsch/thimble) - [No Longer Maintained] Tumblr theme development tool. Protects your fingers from tedious copy-pasting.
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
+
+## PLSQL 
+
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
 ## PLpgSQL 
 
