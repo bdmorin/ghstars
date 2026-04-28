@@ -311,7 +311,7 @@
 
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant) - Jarvis AI Assistant - Voice-powered AI assistant for Mac
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -921,7 +921,7 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [onmyway133/awesome-voip](https://github.com/onmyway133/awesome-voip) - 🤙Learning VoIP, RTP, pjsip and SIP
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -1234,7 +1234,7 @@
 
 ## computer-vision 
 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [GeekAlexis/FastMOT](https://github.com/GeekAlexis/FastMOT) - High-performance multiple object tracking based on YOLO, Deep SORT, and KLT 🚀
 - [minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon) - 人像卡通化探索项目 (photo-to-cartoon translation project)
@@ -2331,7 +2331,7 @@
 - [UnchartedBull/OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -2497,7 +2497,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [nxt-engineering/reception](https://github.com/nxt-engineering/reception) - Entry page & reverse proxy for all your docker-compose projects. 🐳
@@ -2520,7 +2520,7 @@
 ## https 
 
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [lufzle/localdots](https://github.com/lufzle/localdots) - HTTPS domains for localhost. 🏠
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
@@ -2888,7 +2888,7 @@
 ## library 
 
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
@@ -2983,7 +2983,7 @@
 
 ## llm 
 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [tonl-dev/tonl](https://github.com/tonl-dev/tonl) - TONL (Token-Optimized Notation Language)
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -3046,7 +3046,7 @@
 
 ## machine-learning 
 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
