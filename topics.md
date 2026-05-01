@@ -859,7 +859,7 @@
 - [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [brandonweiss/promptconfig](https://github.com/brandonweiss/promptconfig) - 🖥 Craft a custom terminal prompt with JSON.
@@ -5285,7 +5285,7 @@
 - [reugn/tpack](https://github.com/reugn/tpack) - Pack a Go workflow/function as a Unix-style pipeline command
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [brandonweiss/promptconfig](https://github.com/brandonweiss/promptconfig) - 🖥 Craft a custom terminal prompt with JSON.
@@ -5874,7 +5874,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
