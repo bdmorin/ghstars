@@ -3547,6 +3547,7 @@
 
 ## others 
 
+- [luongnv89/context-stats](https://github.com/luongnv89/context-stats) - Understand how you use Claude Code, and spend less doing it.
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - [simple10/agents-observe](https://github.com/simple10/agents-observe) - Real-time observability of claude code sessions & multi-agents.
 - [chatgptprojects/clear-code](https://github.com/chatgptprojects/clear-code) - See your claude code logs in clear details in your dashboard
@@ -3964,7 +3965,7 @@
 - [factor-io/factor](https://github.com/factor-io/factor) - Factor Server runs your continuous deployment workflows
 - [intoli/remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-- [fuegoio/dotfiles](https://github.com/fuegoio/dotfiles) - The Firark environment, consistent and clean.
+- [fuegoio/dotfiles](https://github.com/fuegoio/dotfiles) - My personal UI setup
 - [vysecurity/DomLink](https://github.com/vysecurity/DomLink) - A tool to link a domain with registered organisation names and emails, to other domains.
 - [banyanops/collector](https://github.com/banyanops/collector) - A framework for Static Analysis of Docker container images
 - [seejamescode/create-react-app-devops](https://github.com/seejamescode/create-react-app-devops) - A guide on how to easily implement automated deployments, Node server, and an Express API around Create React App.
