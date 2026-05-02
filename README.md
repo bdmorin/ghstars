@@ -186,7 +186,6 @@
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [deepsense-ai/pydatawarsaw-notebooks](https://github.com/deepsense-ai/pydatawarsaw-notebooks) - 
-- [fuegoio/dotfiles](https://github.com/fuegoio/dotfiles) - The Firark environment, consistent and clean.
 - [taniarascia/new-moon-atom-syntax](https://github.com/taniarascia/new-moon-atom-syntax) - New Moon Syntax Theme for Atom
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
@@ -1462,6 +1461,7 @@
 
 ## Python 
 
+- [luongnv89/context-stats](https://github.com/luongnv89/context-stats) - Understand how you use Claude Code, and spend less doing it.
 - [Red5d/memos_mcp](https://github.com/Red5d/memos_mcp) - MCP Server for the self-hosted notes app Memos
 - [intent-solutions-io/iam-bobs-brain](https://github.com/intent-solutions-io/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -2128,6 +2128,7 @@
 - [courtney-rosenthal/mkovpn](https://github.com/courtney-rosenthal/mkovpn) - Manage OpenVPN client profile (.ovpn) files
 - [ocochard/graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
 - [probonopd/SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
+- [fuegoio/dotfiles](https://github.com/fuegoio/dotfiles) - My personal UI setup
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [jonmosco/kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes status line for tmux
 - [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool) - An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
