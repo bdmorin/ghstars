@@ -324,7 +324,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow engine for scripts, cron jobs, containers, and ops automation. YAML workflows, retries, logs, approvals, and optional distributed workers.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Oper
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -1767,7 +1767,7 @@
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [benhutchins/docker-taiga](https://github.com/benhutchins/docker-taiga) - Docker container for Taiga https://taiga.io
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
@@ -2264,7 +2264,7 @@
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [redreamality/Paper-Comicizer](https://github.com/redreamality/Paper-Comicizer) - Turn boring papers into fun comics with the help of Gemini!
-- [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+- [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant) - Jarvis AI Assistant - Voice-powered AI assistant for Mac
 - [gotoailab/modern_mermaid](https://github.com/gotoailab/modern_mermaid) - A modern, beautiful Mermaid.js editor with live preview, multiple themes, and high-quality export. Perfect for developers, designers, and product managers.
 - [tonl-dev/tonl](https://github.com/tonl-dev/tonl) - TONL (Token-Optimized Notation Language)
