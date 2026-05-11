@@ -369,6 +369,7 @@
 
 ## ai-agents 
 
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
 - [intent-solutions-io/iam-bobs-brain](https://github.com/intent-solutions-io/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
@@ -1033,6 +1034,7 @@
 
 ## cli 
 
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [juanibiapina/gob](https://github.com/juanibiapina/gob) - Process manager for AI agents (and humans)
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
@@ -1495,6 +1497,7 @@
 
 ## developer-tools 
 
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [juanibiapina/gob](https://github.com/juanibiapina/gob) - Process manager for AI agents (and humans)
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
 - [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
@@ -2134,6 +2137,7 @@
 
 ## golang 
 
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [juanibiapina/gob](https://github.com/juanibiapina/gob) - Process manager for AI agents (and humans)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
