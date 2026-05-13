@@ -190,6 +190,7 @@
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [jessfraz/blog](https://github.com/jessfraz/blog) - Source for my blog.
 - [stvmlbrn/mlb-hackathon](https://github.com/stvmlbrn/mlb-hackathon) - My entry for the 2017 TruMedia MLB Hackathon
+- [eustasy/Bubbly](https://github.com/eustasy/Bubbly) - BASH: Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
 - [kilianc/rtail](https://github.com/kilianc/rtail) - rtail(1) - Terminal output to the browser in seconds, using UNIX pipes.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
@@ -2196,7 +2197,6 @@
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [adamisntdead/DevMyMac](https://github.com/adamisntdead/DevMyMac) - ✨ ✨ A Simple Tool To Setup A Mac for Development✨✨
-- [eustasy/Bubbly](https://github.com/eustasy/Bubbly) - BASH: Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
 - [serialphotog/winbuntu](https://github.com/serialphotog/winbuntu) - Makes creating and managing a Linux environment through the Windows 10 WSL easy
 - [lukechilds/gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash 👌
