@@ -2258,6 +2258,7 @@
 
 ## TypeScript 
 
+- [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
 - [simple10/agents-observe](https://github.com/simple10/agents-observe) - Real-time observability of claude code sessions & multi-agents.
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
