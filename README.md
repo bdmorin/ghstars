@@ -326,7 +326,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow engine for scripts automation. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent harness to manage your workflows via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -2018,7 +2018,7 @@
 
 ## Shell 
 
-- [chatgptprojects/clear-code](https://github.com/chatgptprojects/clear-code) - See your claude code logs in clear details in your dashboard
+- [Leanmcp/superview.sh](https://github.com/Leanmcp/superview.sh) - See your claude code logs in clear details in your dashboard
 - [gtrusler/claude-code-heavy](https://github.com/gtrusler/claude-code-heavy) - Multi-agent research orchestration using Claude Code. Inspired by make-it-heavy.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [czottmann/agent-toolbox](https://github.com/czottmann/agent-toolbox) - Commands, rules, setups, useful wrappers for Claude Code, plus some Claude/Gemini interoperability
