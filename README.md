@@ -33,6 +33,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Less](#less)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -326,7 +327,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -1036,6 +1037,10 @@
 - [picsoung/uberSlackBot](https://github.com/picsoung/uberSlackBot) - A bot for Slack to get Uber price estimates
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 
+## MDX 
+
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
+
 ## Makefile 
 
 - [ColeMurray/claude-code-otel](https://github.com/ColeMurray/claude-code-otel) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
@@ -1261,7 +1266,6 @@
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [wtsxDev/Raspberry-Pi](https://github.com/wtsxDev/Raspberry-Pi) - Raspberry Pi A to Z List
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [vaeyo/MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) - Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [softvar/awesome-web-storage](https://github.com/softvar/awesome-web-storage) - :sunglasses: Everything you need to know about Client-side Storage.
