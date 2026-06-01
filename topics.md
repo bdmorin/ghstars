@@ -607,7 +607,7 @@
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [CraryPrimitiveMan/awesome-with-star](https://github.com/CraryPrimitiveMan/awesome-with-star) - 😎 Curated list of awesome lists with github star
+- [harrysun-code/awesome-with-star](https://github.com/harrysun-code/awesome-with-star) - 😎 Curated list of awesome lists with github star
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [warpnet/awesome-prometheus](https://github.com/warpnet/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -735,7 +735,7 @@
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [CraryPrimitiveMan/awesome-with-star](https://github.com/CraryPrimitiveMan/awesome-with-star) - 😎 Curated list of awesome lists with github star
+- [harrysun-code/awesome-with-star](https://github.com/harrysun-code/awesome-with-star) - 😎 Curated list of awesome lists with github star
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [warpnet/awesome-prometheus](https://github.com/warpnet/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
