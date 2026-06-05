@@ -4369,7 +4369,6 @@
 - [stephenmcd/gnotty](https://github.com/stephenmcd/gnotty) - IRC web client and bot framework
 - [webhook/webhook](https://github.com/webhook/webhook) - Webhook Command Line Interface.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
-- [prerender/prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
 - [sahat/tvshow-tracker](https://github.com/sahat/tvshow-tracker) - AngularJS + Node + Gulp + Mongoose + Passport Authentication + TVDB API
