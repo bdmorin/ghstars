@@ -372,7 +372,7 @@
 ## ai-agents 
 
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
-- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
+- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
 - [jeremylongshore/iam-bobs-brain](https://github.com/jeremylongshore/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
@@ -896,7 +896,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [robwhitby/shakedown](https://github.com/robwhitby/shakedown) - A tiny DSL for HTTP testing
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
@@ -1024,7 +1024,7 @@
 
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
-- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
+- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 - [juanibiapina/gob](https://github.com/juanibiapina/gob) - Process manager for AI agents (and humans)
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
@@ -1237,7 +1237,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -1798,7 +1798,7 @@
 
 ## electron 
 
-- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
+- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -3221,7 +3221,7 @@
 
 ## mcp 
 
-- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
+- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
@@ -4569,7 +4569,6 @@
 
 ## pixel-art 
 
-- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -4646,7 +4645,7 @@
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [kyle8998/Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A fun project made for slackers by slackers.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [alexadam/save-as-ebook](https://github.com/alexadam/save-as-ebook) - Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -5544,7 +5543,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -5620,6 +5619,7 @@
 
 ## typescript 
 
+- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
