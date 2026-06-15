@@ -1506,7 +1506,7 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
 - [jmespath/jmespath.terminal](https://github.com/jmespath/jmespath.terminal) - JMESPath exploration tool in the terminal
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [simonw/llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter
 - [datasette/datasette-query-assistant](https://github.com/datasette/datasette-query-assistant) - Query databases and tables with AI assistance
