@@ -349,7 +349,7 @@
 - [Deeptechia/geppetto](https://github.com/Deeptechia/geppetto) - Geppetto: Advanced bot using multiple AI models for interactive conversations and creative image generation. Enhances Slack with automated responses and intelligent dialogues, supporting flexible mode
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -452,7 +452,7 @@
 ## api 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
@@ -1899,7 +1899,7 @@
 
 ## flask 
 
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
@@ -3541,7 +3541,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai) - An open source alternative to some of Slack AI's premium features. Summarize channels and threads any time you want.
 - [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -4714,7 +4714,7 @@
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [cipher387/cheatsheets](https://github.com/cipher387/cheatsheets) - High quality and text versions of cheat sheets from Cyber Detective Twitter
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [safigo/fish-autovenv](https://github.com/safigo/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
@@ -5258,7 +5258,7 @@
 ## server 
 
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [Allaman/werkzeugkasten](https://github.com/Allaman/werkzeugkasten) - Download your favorite command-line tools with ease!
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -5891,7 +5891,7 @@
 
 ## youtube 
 
-- [stefanasandei/youtube-to-text](https://github.com/stefanasandei/youtube-to-text) - Speech to text for any YouTube video.
+- [stefanasandei-archive2/youtube-to-text](https://github.com/stefanasandei-archive2/youtube-to-text) - Speech to text for any YouTube video.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [streamwall/streamwall](https://github.com/streamwall/streamwall) - Display a mosaic of livestreams. Built for streaming.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
