@@ -227,6 +227,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
@@ -3625,7 +3626,7 @@
 - [bencase/dev-sso-idp](https://github.com/bencase/dev-sso-idp) - A mock SSO server you can use to ensure your application's compatibility with your production SSO, without actually needing to use your production SSO during development.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [GoogleCloudPlatform/monitoring-dashboard-samples](https://github.com/GoogleCloudPlatform/monitoring-dashboard-samples) - Google Cloud Monitoring Dashboard Samples
-- [small-hack/argocd-apps](https://github.com/small-hack/argocd-apps) - Common Argo CD templates we use for self hosted cloud stuff. We're still working towards full stability, but feel free to take things or ask questions :)
+- [open-engineering-nl/argocd-apps](https://github.com/open-engineering-nl/argocd-apps) - Common Argo CD templates we use for self hosted cloud stuff. We're still working towards full stability, but feel free to take things or ask questions :)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 - [mindsdb/mindsdb-docker-extension](https://github.com/mindsdb/mindsdb-docker-extension) - The Official MIndsDB Extension for Docker Desktop.
 - [supabase-community/seed](https://github.com/supabase-community/seed) - Automatically seed your database with production-like dummy data based on your schema for local development and testing.
@@ -4997,6 +4998,10 @@
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
+
+## redteam 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## redux 
 
