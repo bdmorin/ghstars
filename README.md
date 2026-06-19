@@ -176,7 +176,7 @@
 
 ## CSS 
 
-- [small-hack/argocd-apps](https://github.com/small-hack/argocd-apps) - Common Argo CD templates we use for self hosted cloud stuff. We're still working towards full stability, but feel free to take things or ask questions :)
+- [open-engineering-nl/argocd-apps](https://github.com/open-engineering-nl/argocd-apps) - Common Argo CD templates we use for self hosted cloud stuff. We're still working towards full stability, but feel free to take things or ask questions :)
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
