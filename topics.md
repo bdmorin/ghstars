@@ -2652,7 +2652,7 @@
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [apiman/apiman](https://github.com/apiman/apiman) - Extensible and flexible API Management. Add your own functionality with simple Java plugins.
-- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool.  Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly 
+- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 
 ## javascript 
 
@@ -2752,7 +2752,7 @@
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [sockethub/sockethub](https://github.com/sockethub/sockethub) - A multi-protocol gateway for the Web using ActivityStream messages.
 - [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
-- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool.  Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly 
+- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
