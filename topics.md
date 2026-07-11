@@ -5757,7 +5757,7 @@
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
-- [hozza/tmux-hints](https://github.com/hozza/tmux-hints) - ☕️ Automatically show a cheat sheet or notes for any command focused in tmux. e.i. Show vim, zsh, tmux notes/key-combos in a pane automatically while you're using them.
+- [hozza/tmux-hints](https://github.com/hozza/tmux-hints) - (Migrated to Codeberg!) ☕️ Automatically show a cheat sheet or notes for any command focused in tmux. e.i. Show vim, zsh, tmux notes/key-combos in a pane automatically while you're using them.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
