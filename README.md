@@ -1376,7 +1376,7 @@
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [nico3333fr/CSP-useful](https://github.com/nico3333fr/CSP-useful) - Collection of scripts, thoughts about CSP (Content Security Policy)
-- [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd
+- [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd/incus
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
