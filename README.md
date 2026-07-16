@@ -1166,7 +1166,6 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [PacktPublishing/Managing-EC2-and-VPC-AWS-with-Python-and-Boto3-Series](https://github.com/PacktPublishing/Managing-EC2-and-VPC-AWS-with-Python-and-Boto3-Series) - Code repository for Managing EC2 and VPC: AWS with Python and Boto3 Series, Published by Packt
 - [ssllabs/research](https://github.com/ssllabs/research) - 
@@ -1463,7 +1462,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [luongnv89/context-stats](https://github.com/luongnv89/context-stats) - Understand how you use Claude Code, and spend less doing it.
 - [Red5d/memos_mcp](https://github.com/Red5d/memos_mcp) - MCP Server for the self-hosted notes app Memos
-- [jeremylongshore/iam-bobs-brain](https://github.com/jeremylongshore/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
+- [jeremylongshore/iam-bob-adk](https://github.com/jeremylongshore/iam-bob-adk) - Intent Agent Model (IAM) — Bob reference runtime on Google ADK. Historical V1. IAM = Intent Agent Model, not Identity and Access Management.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
 - [nic01asFr/mcp-server-grist](https://github.com/nic01asFr/mcp-server-grist) - MCP server implementation for Grist API integration
@@ -1548,6 +1547,7 @@
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - The simple, fast, and modern web scraping library
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [josheppinette/python-logfmter](https://github.com/josheppinette/python-logfmter) - Add logfmt structured logging using the stdlib logging module and without changing a single log call.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
