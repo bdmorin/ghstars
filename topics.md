@@ -388,7 +388,7 @@
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
-- [jeremylongshore/iam-bobs-brain](https://github.com/jeremylongshore/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
+- [jeremylongshore/iam-bob-adk](https://github.com/jeremylongshore/iam-bob-adk) - Intent Agent Model (IAM) — Bob reference runtime on Google ADK. Historical V1. IAM = Intent Agent Model, not Identity and Access Management.
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -4742,7 +4742,6 @@
 
 ## python 
 
-- [jeremylongshore/iam-bobs-brain](https://github.com/jeremylongshore/iam-bobs-brain) - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.
 - [python-rope/rope](https://github.com/python-rope/rope) - a python refactoring library
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
