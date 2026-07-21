@@ -1459,7 +1459,7 @@
 
 ## Python 
 
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [luongnv89/context-stats](https://github.com/luongnv89/context-stats) - Understand how you use Claude Code, and spend less doing it.
 - [Red5d/memos_mcp](https://github.com/Red5d/memos_mcp) - MCP Server for the self-hosted notes app Memos
 - [jeremylongshore/iam-bob-adk-python](https://github.com/jeremylongshore/iam-bob-adk-python) - Intent Agent Model (IAM) — Bob reference runtime on Google ADK. Historical V1. IAM = Intent Agent Model, not Identity and Access Management.
