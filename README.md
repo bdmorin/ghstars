@@ -2261,7 +2261,7 @@
 
 - [Bhaulik/supacanvas](https://github.com/Bhaulik/supacanvas) - Make your agent outputs easily presentable and readable for yourself and other, local first
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
