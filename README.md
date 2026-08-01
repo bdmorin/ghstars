@@ -325,7 +325,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for ops automation and AI-assisted operations. Open source and self-hostable: single binary, no DBMS. Define DAGs in declarative YAML. Built-in MCP server so AI agents can 
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first engine: one binary, no database.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -1464,7 +1464,7 @@
 - [Red5d/memos_mcp](https://github.com/Red5d/memos_mcp) - MCP Server for the self-hosted notes app Memos
 - [jeremylongshore/iam-bob-adk-python](https://github.com/jeremylongshore/iam-bob-adk-python) - Intent Agent Model (IAM) — Bob reference runtime on Google ADK. Historical V1. IAM = Intent Agent Model, not Identity and Access Management.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protoc
+- [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Always-current Claude documentation in Claude Code — a metadata-only index that fetches official pages from Anthropic on demand (no docs redistributed). /docs search, interactive HTML courses, changel
 - [nic01asFr/mcp-server-grist](https://github.com/nic01asFr/mcp-server-grist) - MCP server implementation for Grist API integration
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [tomnitschke/gristruc](https://github.com/tomnitschke/gristruc) - RUC is reusable user code for Grist - a collection of functions and other reusable stuff for use in your Grist formulas.
