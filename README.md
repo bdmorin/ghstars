@@ -496,7 +496,7 @@
 - [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service
 - [vimeo/smoketcp](https://github.com/vimeo/smoketcp) - Smokeping like tcp connectivity tester, reports to statsd. written in Golang
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -874,7 +874,7 @@
 - [redfin/react-server](https://github.com/redfin/react-server) - :rocket: Blazing fast page load and seamless navigation.
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
-- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
+- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
 - [waartaa/waartaa](https://github.com/waartaa/waartaa) - A modern web based communication service on top IRC.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [zpao/hypertheme](https://github.com/zpao/hypertheme) - Theme manager plugin for hyperterm
@@ -1215,7 +1215,7 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [git-pull/tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [danguita/prometheus-monitoring-stack](https://github.com/danguita/prometheus-monitoring-stack) - 📈 A simple, single-node, Docker-based Prometheus monitoring stack
-- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing
+- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking IPFS support in web browsers: ipfs:// addressing, transports browsers can dial directly, and work with browser vendors
 - [jhermann/observatory](https://github.com/jhermann/observatory) - :octocat: :star2: Awesome List of my own!
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [russian-ad-explorer/russian-ad-datasets](https://github.com/russian-ad-explorer/russian-ad-datasets) - Datasets derived from the 2018 IRA ad release.
