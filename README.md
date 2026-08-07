@@ -496,7 +496,7 @@
 - [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service
 - [vimeo/smoketcp](https://github.com/vimeo/smoketcp) - Smokeping like tcp connectivity tester, reports to statsd. written in Golang
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -653,7 +653,6 @@
 - [bencase/dev-sso-idp](https://github.com/bencase/dev-sso-idp) - A mock SSO server you can use to ensure your application's compatibility with your production SSO, without actually needing to use your production SSO during development.
 - [seanprashad/slackmoji](https://github.com/seanprashad/slackmoji) - A collection of 1,000+ emoji for Slack
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
-- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [obeone/simple-cors-proxy](https://github.com/obeone/simple-cors-proxy) - Simple CORS proxy server for seamless cross-origin requests with TypingMind plugin. Easy setup.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
@@ -2302,6 +2301,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [8398a7/action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
+- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract article from given URL
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
