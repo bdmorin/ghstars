@@ -1829,7 +1829,7 @@
 - [tdryer/hangups](https://github.com/tdryer/hangups) - the first third-party instant messaging client for Google Hangouts
 - [sananth12/ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
 - [jacobsalmela/NCutil](https://github.com/jacobsalmela/NCutil) - Notification Center utility- Add/remove apps, set alert styles, suppress App store notifications
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [etsy/logster](https://github.com/etsy/logster) - Parse log files, generate metrics for Graphite and Ganglia
 - [nylas/sync-engine](https://github.com/nylas/sync-engine) - :incoming_envelope: IMAP/SMTP sync system with modern APIs
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -2259,7 +2259,7 @@
 
 - [Bhaulik/supacanvas](https://github.com/Bhaulik/supacanvas) - Make your agent outputs easily presentable and readable for yourself and other, local first
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
