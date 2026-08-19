@@ -324,7 +324,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [letientai299/7guis](https://github.com/letientai299/7guis) - 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One bin
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One bin
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -643,6 +643,7 @@
 
 ## JavaScript 
 
+- [Fan-Pier-Labs/openrecord](https://github.com/Fan-Pier-Labs/openrecord) - 
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [danielmiessler/claude-code-plugins-plus](https://github.com/danielmiessler/claude-code-plugins-plus) - Claude Code Plugins Hub — browse and install 227 plugins. Featuring Skills Powerkit - first Agent Skills plugin.
 - [ingpoc/claude-code-plugins-marketplace](https://github.com/ingpoc/claude-code-plugins-marketplace) - A curated marketplace of plugins, extensions, and tools for Claude Code - Discover, share, and enhance your Claude Code experience with community-contributed plugins
@@ -1460,7 +1461,7 @@
 - [luongnv89/context-stats](https://github.com/luongnv89/context-stats) - Understand how you use Claude Code, and spend less doing it.
 - [Red5d/memos_mcp](https://github.com/Red5d/memos_mcp) - MCP Server for the self-hosted notes app Memos
 - [jeremylongshore/iam-bob-adk-python](https://github.com/jeremylongshore/iam-bob-adk-python) - Intent Agent Model (IAM) — Bob reference runtime on Google ADK. Historical V1. IAM = Intent Agent Model, not Identity and Access Management.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) - Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's servers, zero content redistributed. Auto-discovery skill, instant search, inte
 - [nic01asFr/mcp-server-grist](https://github.com/nic01asFr/mcp-server-grist) - MCP server implementation for Grist API integration
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -1918,7 +1919,7 @@
 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [zabirauf/mcp-trace](https://github.com/zabirauf/mcp-trace) - A TUI to probe the calls between MCP client and server
