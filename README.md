@@ -472,6 +472,7 @@
 - [kryptco/kr](https://github.com/kryptco/kr) - DEPRECATED A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
 - [evilsocket/awesome-go](https://github.com/evilsocket/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [chrissnell/crabby](https://github.com/chrissnell/crabby) - A web page performance tester with support for Prometheus, InfluxDB, Graphite, and Datadog
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -1770,7 +1771,6 @@
 - [benhutchins/docker-taiga](https://github.com/benhutchins/docker-taiga) - Docker container for Taiga https://taiga.io
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [fake-name/ChromeController](https://github.com/fake-name/ChromeController) - Comprehensive wrapper and execution manager for the Chrome browser using the Chrome Debugging Protocol.
 - [Tenma-Server/Tenma](https://github.com/Tenma-Server/Tenma) - Comic book server with in-browser reader
