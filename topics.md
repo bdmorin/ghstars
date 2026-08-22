@@ -1189,6 +1189,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV, TSV and Excel files into a single self-contained HTML page with search, filters, and sorting
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [sinedied/backslide](https://github.com/sinedied/backslide) - :sweat_drops: CLI tool for making HTML presentations with Remark.js using Markdown
 - [dan-v/dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
@@ -1476,6 +1477,7 @@
 - [chris1610/pbpython](https://github.com/chris1610/pbpython) - Code, Notebooks and Examples from Practical Business Python
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
+- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV, TSV and Excel files into a single self-contained HTML page with search, filters, and sorting
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -2266,6 +2268,7 @@
 - [trumail/trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
+- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV, TSV and Excel files into a single self-contained HTML page with search, filters, and sorting
 - [ilourt/gocker](https://github.com/ilourt/gocker) - A starter project using docker and golang
 - [jsoendermann/hapttic](https://github.com/jsoendermann/hapttic) - :fast_forward: Hapttic is a simple HTTP server that forwards all requests to a shell script.
 - [ekalinin/github-markdown-toc.go](https://github.com/ekalinin/github-markdown-toc.go) - Easy TOC creation for GitHub README.md (in go)
@@ -4175,7 +4178,6 @@
 - [sjlu/Put.io-Manager](https://github.com/sjlu/Put.io-Manager) - Essentially it'll sniff your RSS feeds, add your transfers, download the files, cleanup and execute your post process scripts.
 - [Citrix-TechSpecialist/Docker-101](https://github.com/Citrix-TechSpecialist/Docker-101) - This repository walks students though how to get started with Docker and basic Docker commands.
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
-- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
 - [cullery/bucksems](https://github.com/cullery/bucksems) - ems data for Bucks County
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [evilsocket/awesome-go](https://github.com/evilsocket/awesome-go) - A curated list of awesome Go frameworks, libraries and software
