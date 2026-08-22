@@ -472,7 +472,7 @@
 - [kryptco/kr](https://github.com/kryptco/kr) - DEPRECATED A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
-- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
+- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV, TSV and Excel files into a single self-contained HTML page with search, filters, and sorting
 - [evilsocket/awesome-go](https://github.com/evilsocket/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [chrissnell/crabby](https://github.com/chrissnell/crabby) - A web page performance tester with support for Prometheus, InfluxDB, Graphite, and Datadog
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
