@@ -1825,7 +1825,6 @@
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [smashwilson/slack-emojinator](https://github.com/smashwilson/slack-emojinator) - Bulk upload emoji into Slack
 - [spantaleev/sftpman-python](https://github.com/spantaleev/sftpman-python) - Application that handles sshfs/sftp file systems mounting.
-- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tdryer/hangups](https://github.com/tdryer/hangups) - the first third-party instant messaging client for Google Hangouts
 - [sananth12/ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
