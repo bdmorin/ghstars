@@ -340,6 +340,7 @@
 
 ## ai 
 
+- [steipete/SOUL.md](https://github.com/steipete/SOUL.md) - Website for SOUL.md
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
@@ -2729,7 +2730,7 @@
 - [livechat/octopus](https://github.com/livechat/octopus) - 🐙  Octopus - Internal wiki with diagrams for software and product teams
 - [ayojs/ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
