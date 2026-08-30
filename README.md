@@ -1363,7 +1363,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [monitoringsucks/tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
-- [overshard/pinry](https://github.com/overshard/pinry) - Pinry, a tiling image board system, has moved to github.com/pinry/pinry
+- [overshard/pinry](https://github.com/overshard/pinry) - An early snapshot of Pinry, a tiling image board built on Django. Development moved to github.com/pinry/pinry.
 - [Miserlou/GrooveMac](https://github.com/Miserlou/GrooveMac) - A GrooveDown package for OSX
 - [bengold/tumblr-themes.tmbundle](https://github.com/bengold/tumblr-themes.tmbundle) - A TextMate Bundle for Building Themes.
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
