@@ -402,6 +402,7 @@
 - [cubicdaiya/slackboard](https://github.com/cubicdaiya/slackboard) - A slack proxy server
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [firefart/gochro](https://github.com/firefart/gochro) - Take screenshots of websites and create PDF from HTML pages using chromium and docker
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [rexray/rexray](https://github.com/rexray/rexray) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [cyberark/summon](https://github.com/cyberark/summon) - CLI that provides on-demand secrets access for common DevOps tools
@@ -806,7 +807,6 @@
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser. Sponsored by https://cloudash.dev
@@ -1192,7 +1192,6 @@
 - [yadox666/The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
 - [MasterworkTools/openforge-tutorials](https://github.com/MasterworkTools/openforge-tutorials) - Tutorials for how to do various things with OpenForge
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [meshula/awesome-voxel](https://github.com/meshula/awesome-voxel) - Voxel resources for coders
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
 - [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
@@ -1772,6 +1771,7 @@
 - [benhutchins/docker-taiga](https://github.com/benhutchins/docker-taiga) - Docker container for Taiga https://taiga.io
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [fake-name/ChromeController](https://github.com/fake-name/ChromeController) - Comprehensive wrapper and execution manager for the Chrome browser using the Chrome Debugging Protocol.
 - [Tenma-Server/Tenma](https://github.com/Tenma-Server/Tenma) - Comic book server with in-browser reader
