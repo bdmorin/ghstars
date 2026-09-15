@@ -597,7 +597,6 @@
 - [ahmadnassri/har-resources](https://github.com/ahmadnassri/har-resources) - A community curated list of resources, tools, projects and applications that support HTTP Archive (HAR).
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javier-lopez/learn](https://github.com/javier-lopez/learn) - random files I've been collecting & programming
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [diafygi/byoFS](https://github.com/diafygi/byoFS) - Bring Your Own Filesystem
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -1192,7 +1191,6 @@
 - [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
 - [yadox666/The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
 - [MasterworkTools/openforge-tutorials](https://github.com/MasterworkTools/openforge-tutorials) - Tutorials for how to do various things with OpenForge
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [meshula/awesome-voxel](https://github.com/meshula/awesome-voxel) - Voxel resources for coders
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
 - [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
@@ -1863,6 +1861,7 @@
 - [jasonheecs/ansible-digitalocean-sample-playbook](https://github.com/jasonheecs/ansible-digitalocean-sample-playbook) - A sample playbook that illustrates how to create and provision a DigitalOcean droplet with Ansible
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [triangletodd/dnd_models](https://github.com/triangletodd/dnd_models) - Dungeons and Dragons Monster STLs
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [busyloop/vj](https://github.com/busyloop/vj) - vj - JSON Humanizer
 - [iridakos/elman](https://github.com/iridakos/elman) - Full text searching Linux man pages with Elasticsearch :penguin:
@@ -2218,6 +2217,7 @@
 - [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
 - [xwp/vassh](https://github.com/xwp/vassh) - vassh: Vagrant Host-Guest SSH Command Wrapper/Proxy/Forwarder
 - [dakrone/elasticsearch-in-action](https://github.com/dakrone/elasticsearch-in-action) - Offical code repository for the Elasticsearch in Action book from Manning
+- [javier-lopez/learn](https://github.com/javier-lopez/learn) - random files I've been collecting & programming
 - [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and D
 - [stef-k/meteor_bash_completions](https://github.com/stef-k/meteor_bash_completions) - Bash completions for the Meteor web framework
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
