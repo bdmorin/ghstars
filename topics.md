@@ -2502,7 +2502,6 @@
 - [nnx0r/vidage](https://github.com/nnx0r/vidage) - Your solution to full-screen background video & image combined.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
-- [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -4365,6 +4364,7 @@
 - [tadeuzagallo/GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X StatusBar app to help you remember to contribute every day on Github
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+- [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [tav/asciinema2gif](https://github.com/tav/asciinema2gif) - Generate animated GIFs from asciinema terminal recordings
 - [ellson/MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz
 - [vidarh/diagram-tools](https://github.com/vidarh/diagram-tools) - A number of small tools for generating and manipulating diagrams, mostly based around Graphviz
