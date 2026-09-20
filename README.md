@@ -627,7 +627,7 @@
 - [eliddell1/Project-Blue-Fist](https://github.com/eliddell1/Project-Blue-Fist) - BLE Edition of the original FistBump (portable WPA handshake grabber)
 - [pschweitz/insidelog](https://github.com/pschweitz/insidelog) - [newer] Colorized real-time log viewer with remote tail over SSH support for Windows, Mac and Linux
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
-- [nzymeorg/nzyme](https://github.com/nzymeorg/nzyme) - WiFi, Bluetooth and Ethernet Intrusion Detection.
+- [nzymeorg/nzyme](https://github.com/nzymeorg/nzyme) - WiFi, Bluetooth and Ethernet Threat Detection.
 - [logscape/Logscape](https://github.com/logscape/Logscape) - Open source offering for the Logscape log management tool.
 - [yeriomin/YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -637,7 +637,7 @@
 - [apiman/apiman](https://github.com/apiman/apiman) - Extensible and flexible API Management. Add your own functionality with simple Java plugins.
 - [flyingsaucerproject/flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer in pure Java
 - [claritylab/lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
-- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
+- [Loophole-LLC/Bastillion](https://github.com/Loophole-LLC/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 - [scobal/seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite
 - [webmetrics/browsermob-proxy](https://github.com/webmetrics/browsermob-proxy) - NOTICE: this project has been forked and is being maintained at https://github.com/lightbody/browsermob-proxy
 
@@ -2099,7 +2099,7 @@
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [TimidRobot/cmc](https://github.com/TimidRobot/cmc) - ControlMaster Controller - Eases management of SSH ControlMaster connections
 - [gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade) - Stronger frame for Prusa i3 MK2(s), MK2.5 and MK3
-- [kquinsland/skyhole](https://github.com/kquinsland/skyhole) - a DNS over TLS wrapper around PiHole - the internet's best adblocker
+- [kquinsland01/skyhole](https://github.com/kquinsland01/skyhole) - a DNS over TLS wrapper around PiHole - the internet's best adblocker
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
