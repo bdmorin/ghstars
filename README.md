@@ -1845,6 +1845,7 @@
 
 ## R 
 
+- [katiesaund/DresdenColor](https://github.com/katiesaund/DresdenColor) - R package to create color palettes based on The Dresden Files book covers
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R
 
