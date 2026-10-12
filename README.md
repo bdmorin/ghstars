@@ -649,6 +649,8 @@
 
 ## JavaScript 
 
+- [RichardBray/fireiq](https://github.com/RichardBray/fireiq) - 
+- [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 - [Fan-Pier-Labs/openrecord](https://github.com/Fan-Pier-Labs/openrecord) - 
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
@@ -1922,6 +1924,7 @@
 
 ## Rust 
 
+- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [furkankly/zoetrope](https://github.com/furkankly/zoetrope) - Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [ariso-ai/oats](https://github.com/ariso-ai/oats) - The free, open-source meeting-notes app for your Mac — offline transcription and AI notes, free in the cloud or 100% on-device.
