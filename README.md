@@ -206,6 +206,7 @@
 
 ## CoffeeScript 
 
+- [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [arrizer/TVGeek](https://github.com/arrizer/TVGeek) - One-stop TV show bliss.
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [Tomtomgo/phearjs](https://github.com/Tomtomgo/phearjs) - PhearJS - render dynamic Javascript webpages to JSON with PhantomJS
@@ -703,9 +704,7 @@
 - [Tusko/vimeo-private-downloader](https://github.com/Tusko/vimeo-private-downloader) - Script gets you access to download private videos on Vimeo
 - [0x01h/sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [djfdat/AudioBookBay-Magnet-Assistant](https://github.com/djfdat/AudioBookBay-Magnet-Assistant) - Creates magnet links for AudioBookBay pages without logging in.
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
-- [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [ahmetbcakici/DynamicPersonalWebsite](https://github.com/ahmetbcakici/DynamicPersonalWebsite) - This project is personal website which has admin panel for content management.
 - [jikamens/password-manager-comparer](https://github.com/jikamens/password-manager-comparer) - JavaScript code for rendering a head-to-head comparison of password managers
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
@@ -813,7 +812,6 @@
 - [wekan/wekan](https://github.com/wekan/wekan) - FLOSS kanban, built with Meteor. Official Public Support at GitHub issues only. Official Private Pre-Paid Support at https://wekan.fi/commercial-support/ only. Translation PRs to imports/i18n/data/en.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser. Sponsored by https://cloudash.dev
@@ -1778,6 +1776,7 @@
 - [benhutchins/docker-taiga](https://github.com/benhutchins/docker-taiga) - Docker container for Taiga https://taiga.io
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [fake-name/ChromeController](https://github.com/fake-name/ChromeController) - Comprehensive wrapper and execution manager for the Chrome browser using the Chrome Debugging Protocol.
 - [Tenma-Server/Tenma](https://github.com/Tenma-Server/Tenma) - Comic book server with in-browser reader
@@ -1798,7 +1797,6 @@
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [cromo/grokpat](https://github.com/cromo/grokpat) - Call up grok patterns for use in command line programs
 - [witchard/mog](https://github.com/witchard/mog) - A different take on the UNIX tool cat
-- [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [mehulj94/BrainDamage](https://github.com/mehulj94/BrainDamage) - Remote administration service which uses twitter as a command and control server
 - [alanzchen/rm-protection](https://github.com/alanzchen/rm-protection) - A safe alternative for "rm".
 - [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
@@ -2270,6 +2268,7 @@
 
 ## TypeScript 
 
+- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [poteto/plugins](https://github.com/poteto/plugins) - Cursor plugin specification and official plugins
@@ -2361,6 +2360,8 @@
 - [maxchehab/phelia](https://github.com/maxchehab/phelia) - ⚡ A reactive Slack application framework.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [brentvatne/do-not-star-this-or-you-will-be-fired](https://github.com/brentvatne/do-not-star-this-or-you-will-be-fired) - 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [theodo/falco](https://github.com/theodo/falco) - Falco helps you monitor, analyze, and optimize your websites.
@@ -2448,7 +2449,6 @@
 ## Vue 
 
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
